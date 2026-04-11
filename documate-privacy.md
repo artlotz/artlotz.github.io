@@ -113,3 +113,5 @@ title: 개인정보처리방침
 앱 업데이트 또는 본 페이지를 통해 공지합니다.
 
 **시행일:** 2026-04-01
+
+<style> header, .page-header { display: none !important; } </style>
