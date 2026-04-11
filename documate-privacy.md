@@ -114,4 +114,4 @@ title: 개인정보처리방침
 
 **시행일:** 2026-04-01
 
-<style> header, .page-header { display: none !important; } </style>
+<style> .h1:first-of-type { display: none !important; } </style>
