@@ -93,6 +93,7 @@ title: 개인정보처리방침
 
 ## 9. 방침 변경
 
+<style> h1:first-of-type { display: none !important; } </style>
 본 개인정보처리방침은 시행일로부터 적용되며, 변경 사항이 있을 경우
 앱 업데이트 또는 본 페이지를 통해 공지합니다.
 
