@@ -85,7 +85,7 @@ title: 개인정보처리방침
 ## 8. 개인정보 보호책임자
 
 - **담당:** 앱 제공자
-- **연락처:** rhrhffl@gmail.com
+- **연락처:** wnltldy@gmail.com
 
 ---
 
