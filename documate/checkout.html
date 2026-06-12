@@ -22,7 +22,7 @@
     const activationCode = params.get("ActivationCode") ?? "";
     const encodedCode = encodeURIComponent(activationCode);
 
-    const base = "https://https://doctanviewer.gumroad.com/l/";
+    const base = "https://doctanviewer.gumroad.com/l/";
 
     document.getElementById("license").href =
       `${base}LICENSE_PRODUCT?wanted=true&ActivationCode=${encodedCode}`;
