@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <title>Documate 구매</title>
+  <script src="https://gumroad.com/js/gumroad.js"></script>
+</head>
+<body>
+  <h1>Documate 구매</h1>
+
+  <a id="license" class="gumroad-button" data-gumroad-single-product="true">
+    라이선스 구매
+  </a>
+
+  <a id="credit5000" class="gumroad-button" data-gumroad-single-product="true">
+    5,000 크레딧 충전
+  </a>
+
+  <script>
+    const params = new URLSearchParams(location.search);
+
+    const activationCode = params.get("ActivationCode") ?? "";
+    const encodedCode = encodeURIComponent(activationCode);
+
+    const base = "https://https://doctanviewer.gumroad.com/l/";
+
+    document.getElementById("license").href =
+      `${base}LICENSE_PRODUCT?wanted=true&ActivationCode=${encodedCode}`;
+
+    document.getElementById("credit5000").href =
+      `${base}CREDIT_5000?wanted=true&ActivationCode=${encodedCode}`;
+  </script>
+</body>
+</html>
