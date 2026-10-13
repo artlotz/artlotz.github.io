@@ -1,0 +1,43 @@
+전문 아이콘 원문과 파생 PNG 출처
+패키지: Game-icons https://github.com/game-icons/icons
+라이선스: CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/), public/licenses/game-icons/LICENSE.txt
+저자: lorc=Lorc, delapouite=Delapouite, sbed=Sbed, skoll=Skoll.
+가공: 원본 검정 사각 배경 제거, 원문 심볼의 fill 변경, 128×128 PNG 변환. 새 실루엣을 그리지 않았다.
+UI는 밝은 카드에 맞춘 진한 잉크색 #223741. 전투 픽업은 별도 유채색.
+
+assets/packages/equipment/skill/kunai.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/plain-dagger.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/shotgun.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/sawed-off-shotgun.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/skill/sword_arc.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/sword-spin.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/rotor_blade.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/circular-sawblade.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/energy_shield.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/energy-shield.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/rocket.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/rocket.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/lightning.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-branches.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/flame_field.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/fire-zone.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/bounce_orb.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/concentration-orb.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/skill/drone_a.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/delivery-drone.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/skill/drone_b.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/delivery-drone.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/support/power_core.png ← https://raw.githubusercontent.com/game-icons/icons/master/sbed/battery-pack.svg | 저자=sbed | CC BY 3.0
+assets/packages/equipment/support/cooling_module.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/computer-fan.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/support/high_voltage.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/power-lightning.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/support/range_amplifier.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/arrow-scope.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/support/duration_module.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/clockwork.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/support/armor_plate.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/armor-vest.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/support/running_shoes.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/running-shoe.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/support/magnet.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/magnet.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/support/lucky_charm.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/clover.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/support/drone_link.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/pocket-radio.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/evolution/kunai_ghost.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/thrown-daggers.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/shotgun_gatling.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/minigun.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/sword_guardian.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/swords-power.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/evolution/rotor_deathwheel.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/spinning-blades.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/shield_storm.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-shield.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/rocket_whistling.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/missile-swarm.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/lightning_storm.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-storm.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/flame_inferno.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/flame-spin.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/orb_quantum.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/atomic-slashes.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/evolution/drone_destroyer.png ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/laser-turret.svg | 저자=delapouite | CC BY 3.0
+assets/packages/equipment/pickup/exp.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/crystal-cluster.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/pickup/food.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/chicken-leg.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/pickup/magnet.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/magnet.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/pickup/bomb.png ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/unlit-bomb.svg | 저자=lorc | CC BY 3.0
+assets/packages/equipment/pickup/chest.png ← https://raw.githubusercontent.com/game-icons/icons/master/skoll/open-treasure-chest.svg | 저자=skoll | CC BY 3.0

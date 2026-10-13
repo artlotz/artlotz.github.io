@@ -1,0 +1,981 @@
+{
+  "schemaVersion": 1,
+  "basePath": "./",
+  "directions": [
+    "down",
+    "up",
+    "left",
+    "right"
+  ],
+  "characters": {
+    "vanguard": {
+      "spriteSheet": {
+        "path": "assets/characters/vanguard/sprite-sheet.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 4,
+        "rows": 7,
+        "frameCount": 28,
+        "directionColumnOrder": [
+          "down",
+          "up",
+          "left",
+          "right"
+        ]
+      },
+      "walk": {
+        "path": "assets/characters/vanguard/walk.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 4,
+        "rows": 4,
+        "frameCount": 16,
+        "directionColumnOrder": [
+          "down",
+          "up",
+          "left",
+          "right"
+        ],
+        "animations": {
+          "down": {
+            "frames": [
+              0,
+              4,
+              8,
+              12
+            ]
+          },
+          "up": {
+            "frames": [
+              1,
+              5,
+              9,
+              13
+            ]
+          },
+          "left": {
+            "frames": [
+              2,
+              6,
+              10,
+              14
+            ]
+          },
+          "right": {
+            "frames": [
+              3,
+              7,
+              11,
+              15
+            ]
+          }
+        }
+      },
+      "dead": {
+        "path": "assets/characters/vanguard/dead.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 1,
+        "rows": 1,
+        "frameCount": 1
+      },
+      "portrait": {
+        "path": "assets/portraits/vanguard.png"
+      }
+    },
+    "scout": {
+      "spriteSheet": {
+        "path": "assets/characters/scout/sprite-sheet.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 4,
+        "rows": 7,
+        "frameCount": 28,
+        "directionColumnOrder": [
+          "down",
+          "up",
+          "left",
+          "right"
+        ]
+      },
+      "walk": {
+        "path": "assets/characters/scout/walk.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 4,
+        "rows": 4,
+        "frameCount": 16,
+        "directionColumnOrder": [
+          "down",
+          "up",
+          "left",
+          "right"
+        ],
+        "animations": {
+          "down": {
+            "frames": [
+              0,
+              4,
+              8,
+              12
+            ]
+          },
+          "up": {
+            "frames": [
+              1,
+              5,
+              9,
+              13
+            ]
+          },
+          "left": {
+            "frames": [
+              2,
+              6,
+              10,
+              14
+            ]
+          },
+          "right": {
+            "frames": [
+              3,
+              7,
+              11,
+              15
+            ]
+          }
+        }
+      },
+      "dead": {
+        "path": "assets/characters/scout/dead.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 1,
+        "rows": 1,
+        "frameCount": 1
+      },
+      "portrait": {
+        "path": "assets/portraits/scout.png"
+      }
+    },
+    "pyromancer": {
+      "spriteSheet": {
+        "path": "assets/characters/pyromancer/sprite-sheet.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 4,
+        "rows": 7,
+        "frameCount": 28,
+        "directionColumnOrder": [
+          "down",
+          "up",
+          "left",
+          "right"
+        ]
+      },
+      "walk": {
+        "path": "assets/characters/pyromancer/walk.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 4,
+        "rows": 4,
+        "frameCount": 16,
+        "directionColumnOrder": [
+          "down",
+          "up",
+          "left",
+          "right"
+        ],
+        "animations": {
+          "down": {
+            "frames": [
+              0,
+              4,
+              8,
+              12
+            ]
+          },
+          "up": {
+            "frames": [
+              1,
+              5,
+              9,
+              13
+            ]
+          },
+          "left": {
+            "frames": [
+              2,
+              6,
+              10,
+              14
+            ]
+          },
+          "right": {
+            "frames": [
+              3,
+              7,
+              11,
+              15
+            ]
+          }
+        }
+      },
+      "dead": {
+        "path": "assets/characters/pyromancer/dead.png",
+        "frameWidth": 16,
+        "frameHeight": 16,
+        "columns": 1,
+        "rows": 1,
+        "frameCount": 1
+      },
+      "portrait": {
+        "path": "assets/portraits/pyromancer.png"
+      }
+    }
+  },
+  "enemies": {
+    "crawler": {
+      "path": "assets/enemies/crawler.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "directionColumnOrder": [
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "animations": {
+        "down": {
+          "frames": [
+            0,
+            4,
+            8,
+            12
+          ]
+        },
+        "up": {
+          "frames": [
+            1,
+            5,
+            9,
+            13
+          ]
+        },
+        "left": {
+          "frames": [
+            2,
+            6,
+            10,
+            14
+          ]
+        },
+        "right": {
+          "frames": [
+            3,
+            7,
+            11,
+            15
+          ]
+        }
+      }
+    },
+    "runner": {
+      "path": "assets/enemies/runner.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "directionColumnOrder": [
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "animations": {
+        "down": {
+          "frames": [
+            0,
+            4,
+            8,
+            12
+          ]
+        },
+        "up": {
+          "frames": [
+            1,
+            5,
+            9,
+            13
+          ]
+        },
+        "left": {
+          "frames": [
+            2,
+            6,
+            10,
+            14
+          ]
+        },
+        "right": {
+          "frames": [
+            3,
+            7,
+            11,
+            15
+          ]
+        }
+      }
+    },
+    "bulwark": {
+      "path": "assets/enemies/bulwark.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "directionColumnOrder": [
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "animations": {
+        "down": {
+          "frames": [
+            0,
+            4,
+            8,
+            12
+          ]
+        },
+        "up": {
+          "frames": [
+            1,
+            5,
+            9,
+            13
+          ]
+        },
+        "left": {
+          "frames": [
+            2,
+            6,
+            10,
+            14
+          ]
+        },
+        "right": {
+          "frames": [
+            3,
+            7,
+            11,
+            15
+          ]
+        }
+      }
+    },
+    "spitter": {
+      "path": "assets/enemies/spitter.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "directionColumnOrder": [
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "animations": {
+        "down": {
+          "frames": [
+            0,
+            4,
+            8,
+            12
+          ]
+        },
+        "up": {
+          "frames": [
+            1,
+            5,
+            9,
+            13
+          ]
+        },
+        "left": {
+          "frames": [
+            2,
+            6,
+            10,
+            14
+          ]
+        },
+        "right": {
+          "frames": [
+            3,
+            7,
+            11,
+            15
+          ]
+        }
+      }
+    },
+    "charger": {
+      "path": "assets/enemies/charger.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "directionColumnOrder": [
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "animations": {
+        "down": {
+          "frames": [
+            0,
+            4,
+            8,
+            12
+          ]
+        },
+        "up": {
+          "frames": [
+            1,
+            5,
+            9,
+            13
+          ]
+        },
+        "left": {
+          "frames": [
+            2,
+            6,
+            10,
+            14
+          ]
+        },
+        "right": {
+          "frames": [
+            3,
+            7,
+            11,
+            15
+          ]
+        }
+      }
+    },
+    "exploder": {
+      "path": "assets/enemies/exploder.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "columns": 4,
+      "rows": 4,
+      "frameCount": 16,
+      "directionColumnOrder": [
+        "down",
+        "up",
+        "left",
+        "right"
+      ],
+      "animations": {
+        "down": {
+          "frames": [
+            0,
+            4,
+            8,
+            12
+          ]
+        },
+        "up": {
+          "frames": [
+            1,
+            5,
+            9,
+            13
+          ]
+        },
+        "left": {
+          "frames": [
+            2,
+            6,
+            10,
+            14
+          ]
+        },
+        "right": {
+          "frames": [
+            3,
+            7,
+            11,
+            15
+          ]
+        }
+      }
+    }
+  },
+  "elites": {
+    "elite_bulwark": "bulwark",
+    "elite_charger": "charger"
+  },
+  "boss": {
+    "rift_guardian": {
+      "idle": {
+        "path": "assets/boss/rift-guardian/idle.png",
+        "frameWidth": 68,
+        "frameHeight": 68,
+        "columns": 6,
+        "rows": 1,
+        "frameCount": 6
+      },
+      "walk": {
+        "path": "assets/boss/rift-guardian/walk.png",
+        "frameWidth": 82,
+        "frameHeight": 82,
+        "columns": 10,
+        "rows": 1,
+        "frameCount": 10
+      },
+      "hit": {
+        "path": "assets/boss/rift-guardian/hit.png",
+        "frameWidth": 68,
+        "frameHeight": 68,
+        "columns": 8,
+        "rows": 1,
+        "frameCount": 8
+      },
+      "attack": {
+        "path": "assets/boss/rift-guardian/attack.png",
+        "frameWidth": 82,
+        "frameHeight": 82,
+        "columns": 15,
+        "rows": 1,
+        "frameCount": 15
+      },
+      "trans": {
+        "path": "assets/boss/rift-guardian/trans.png",
+        "frameWidth": 68,
+        "frameHeight": 68,
+        "columns": 11,
+        "rows": 1,
+        "frameCount": 11
+      }
+    }
+  },
+  "tiles": {
+    "floor": {
+      "path": "assets/tiles/floor.png",
+      "tileWidth": 16,
+      "tileHeight": 16,
+      "columns": 22,
+      "rows": 26,
+      "sourceWidth": 352,
+      "sourceHeight": 417,
+      "walkableTiles": [
+        242,
+        243,
+        244,
+        245,
+        246,
+        264,
+        265,
+        266,
+        267,
+        268
+      ]
+    },
+    "nature": {
+      "path": "assets/tiles/nature.png",
+      "tileWidth": 16,
+      "tileHeight": 16,
+      "columns": 24,
+      "rows": 21,
+      "sourceWidth": 384,
+      "sourceHeight": 336,
+      "decorTiles": []
+    },
+    "relief": {
+      "path": "assets/tiles/relief.png",
+      "tileWidth": 16,
+      "tileHeight": 16,
+      "columns": 20,
+      "rows": 12,
+      "sourceWidth": 320,
+      "sourceHeight": 192
+    }
+  },
+  "items": {
+    "chest": {
+      "path": "assets/items/chest.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 2
+    },
+    "core": {
+      "path": "assets/items/core.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 1
+    },
+    "arrow": {
+      "path": "assets/items/arrow.png",
+      "frameWidth": 13,
+      "frameHeight": 5,
+      "frameCount": 1
+    }
+  },
+  "icons": {
+    "weapon-arc-blade": {
+      "path": "assets/icons/weapon-arc-blade.svg",
+      "sourcePath": "lorc/sword-spin.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/sword-spin.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-bolt-launcher": {
+      "path": "assets/icons/weapon-bolt-launcher.svg",
+      "sourcePath": "carl-olsen/crossbow.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/carl-olsen/crossbow.svg",
+      "author": "Carl Olsen",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-flame-orb": {
+      "path": "assets/icons/weapon-flame-orb.svg",
+      "sourcePath": "lorc/fireball.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/fireball.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-flame-trail": {
+      "path": "assets/icons/weapon-flame-trail.svg",
+      "sourcePath": "lorc/fire-zone.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/fire-zone.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-frost-ring": {
+      "path": "assets/icons/weapon-frost-ring.svg",
+      "sourcePath": "lorc/snowflake-2.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/snowflake-2.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-frost-shard": {
+      "path": "assets/icons/weapon-frost-shard.svg",
+      "sourcePath": "lorc/ice-bolt.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/ice-bolt.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-chain-lightning": {
+      "path": "assets/icons/weapon-chain-lightning.svg",
+      "sourcePath": "lorc/lightning-branches.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/lightning-branches.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "weapon-storm-drone": {
+      "path": "assets/icons/weapon-storm-drone.svg",
+      "sourcePath": "delapouite/delivery-drone.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/delivery-drone.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-iron-sigil": {
+      "path": "assets/icons/relic-iron-sigil.svg",
+      "sourcePath": "lorc/anvil.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/anvil.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-ember-lens": {
+      "path": "assets/icons/relic-ember-lens.svg",
+      "sourcePath": "delapouite/fire-gem.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/fire-gem.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-frost-charm": {
+      "path": "assets/icons/relic-frost-charm.svg",
+      "sourcePath": "lorc/snowflake-1.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/snowflake-1.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-storm-coil": {
+      "path": "assets/icons/relic-storm-coil.svg",
+      "sourcePath": "lorc/tesla-coil.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/tesla-coil.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-clockwork": {
+      "path": "assets/icons/relic-clockwork.svg",
+      "sourcePath": "lorc/clockwork.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/clockwork.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-magnet": {
+      "path": "assets/icons/relic-magnet.svg",
+      "sourcePath": "lorc/magnet.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/magnet.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-vital-seed": {
+      "path": "assets/icons/relic-vital-seed.svg",
+      "sourcePath": "delapouite/plant-seed.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/plant-seed.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "relic-scope": {
+      "path": "assets/icons/relic-scope.svg",
+      "sourcePath": "delapouite/eye-target.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/eye-target.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution": {
+      "path": "assets/icons/evolution.svg",
+      "sourcePath": "delapouite/upgrade.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/upgrade.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-moon_wheel": {
+      "path": "assets/icons/evolution-moon_wheel.svg",
+      "sourcePath": "lorc/spinning-blades.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/spinning-blades.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-piercing_battery": {
+      "path": "assets/icons/evolution-piercing_battery.svg",
+      "sourcePath": "delapouite/laser-turret.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/laser-turret.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-meteor_orb": {
+      "path": "assets/icons/evolution-meteor_orb.svg",
+      "sourcePath": "lorc/fragmented-meteor.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/fragmented-meteor.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-lava_road": {
+      "path": "assets/icons/evolution-lava_road.svg",
+      "sourcePath": "lorc/volcano.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/volcano.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-eye_of_winter": {
+      "path": "assets/icons/evolution-eye_of_winter.svg",
+      "sourcePath": "lorc/crystal-eye.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crystal-eye.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-crystal_storm": {
+      "path": "assets/icons/evolution-crystal_storm.svg",
+      "sourcePath": "lorc/crystal-cluster.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/crystal-cluster.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-heaven_net": {
+      "path": "assets/icons/evolution-heaven_net.svg",
+      "sourcePath": "delapouite/mesh-network.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/mesh-network.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "evolution-storm_squad": {
+      "path": "assets/icons/evolution-storm_squad.svg",
+      "sourcePath": "delapouite/defense-satellite.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/defense-satellite.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "objective-altar": {
+      "path": "assets/icons/objective-altar.svg",
+      "sourcePath": "delapouite/star-altar.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/star-altar.svg",
+      "author": "Delapouite",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "objective-supply": {
+      "path": "assets/icons/objective-supply.svg",
+      "sourcePath": "lorc/locked-chest.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/locked-chest.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    },
+    "action-dash": {
+      "path": "assets/icons/action-dash.svg",
+      "sourcePath": "lorc/sprint.svg",
+      "sourceUrl": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/sprint.svg",
+      "author": "Lorc",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  },
+  "fx": {
+    "slash": {
+      "path": "assets/fx/slash-arc.png",
+      "frameWidth": 38,
+      "frameHeight": 34,
+      "frameCount": 6
+    },
+    "fireball": {
+      "path": "assets/fx/proj-fireball.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 4
+    },
+    "explosion": {
+      "path": "assets/fx/explosion.png",
+      "frameWidth": 40,
+      "frameHeight": 40,
+      "frameCount": 9
+    },
+    "fire": {
+      "path": "assets/fx/fire.png",
+      "frameWidth": 25,
+      "frameHeight": 30,
+      "frameCount": 8
+    },
+    "iceFlake": {
+      "path": "assets/fx/ice-flake.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameCount": 9
+    },
+    "ice": {
+      "path": "assets/fx/ice.png",
+      "frameWidth": 32,
+      "frameHeight": 32,
+      "frameCount": 10
+    },
+    "thunder": {
+      "path": "assets/fx/thunder.png",
+      "frameWidth": 20,
+      "frameHeight": 28,
+      "frameCount": 8
+    },
+    "energyProjectile": {
+      "path": "assets/fx/proj-energy.png",
+      "frameWidth": 16,
+      "frameHeight": 16,
+      "frameCount": 4
+    },
+    "dash": {
+      "path": "assets/fx/smoke-ring.png",
+      "frameWidth": 30,
+      "frameHeight": 14,
+      "frameCount": 8
+    },
+    "spark": {
+      "path": "assets/fx/spark.png",
+      "frameWidth": 27,
+      "frameHeight": 35,
+      "frameCount": 10
+    },
+    "iceSpike": {
+      "path": "assets/fx/ice-spike.png",
+      "frameWidth": 16,
+      "frameHeight": 10,
+      "frameCount": 9
+    }
+  },
+  "ui": {
+    "hp": {
+      "path": "assets/ui/hp.png"
+    },
+    "coin": {
+      "path": "assets/ui/coin.png"
+    },
+    "gear": {
+      "path": "assets/ui/gear.png"
+    },
+    "lock": {
+      "path": "assets/ui/lock.png"
+    },
+    "magnifier": {
+      "path": "assets/ui/magnifier.png"
+    }
+  },
+  "fonts": {
+    "regular": "assets/fonts/pretendard-regular.woff2",
+    "semibold": "assets/fonts/pretendard-semibold.woff2"
+  },
+  "audio": {
+    "bgm": {
+      "home": "audio/bgm/lobby.ogg",
+      "battle": "audio/bgm/battle.ogg",
+      "boss": "audio/bgm/boss.ogg"
+    },
+    "sfx": {
+      "ui-click": "audio/sfx/ui-click.ogg",
+      "ui-confirm": "audio/sfx/ui-confirm.ogg",
+      "ui-cancel": "audio/sfx/ui-cancel.ogg",
+      "ui-locked": "audio/sfx/ui-locked.ogg",
+      "player-hit": "audio/sfx/player-hit.ogg",
+      "hit-weak": "audio/sfx/hit-weak.ogg",
+      "hit-strong": "audio/sfx/hit-strong.ogg",
+      "monster-die": "audio/sfx/monster-die.ogg",
+      "trick-use": "audio/sfx/trick-use.ogg",
+      "coin": "audio/sfx/coin.ogg",
+      "levelup": "audio/sfx/levelup.ogg",
+      "buff": "audio/sfx/buff.ogg",
+      "heal": "audio/sfx/heal.ogg",
+      "jingle-win": "audio/sfx/jingle-win.ogg",
+      "jingle-lose": "audio/sfx/jingle-lose.ogg"
+    }
+  },
+  "credits": {
+    "ninjaAdventure": "licenses/ninja-adventure/LICENSE.txt",
+    "gameIcons": "licenses/game-icons/LICENSE.txt",
+    "pretendard": "licenses/fonts/Pretendard_OFL.txt"
+  }
+}

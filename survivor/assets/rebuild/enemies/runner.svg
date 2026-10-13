@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+ <defs><linearGradient id="skin" x2=".4" y2="1"><stop stop-color="#c7d1b2"/><stop offset="1" stop-color="#687a69"/></linearGradient><linearGradient id="clothes" x2="0" y2="1"><stop stop-color="#645060"/><stop offset="1" stop-color="#302f42"/></linearGradient><linearGradient id="blood" x2="0" y2="1"><stop stop-color="#dc7962"/><stop offset="1" stop-color="#7c3d43"/></linearGradient></defs>
+ <ellipse cx="124" cy="222" rx="66" ry="16" fill="#0a1419" opacity=".58"/>
+ <path d="m95 144-34 45 22 17 46-33m26-46 42 23 13-17-44-39" fill="none" stroke="#758574" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="m60 184-22 10-5 17 20-5 13-11m134-43 22-1 13-12-20 2-17 1" fill="none" stroke="#c6d0ae" stroke-width="10" stroke-linecap="round"/>
+ <path d="m89 147-18 44 27 7 40-43m11-21 3 43 24 13 10-10-12-41" fill="url(#clothes)" stroke="#252b3a" stroke-width="8" stroke-linejoin="round"/>
+ <path d="m70 188 27 1 6 13-38 3zm79 10 25 11 16-5-14 17-33-6z" fill="#d1d1bd" stroke="#30343b" stroke-width="6"/>
+ <path d="M104 82q-19 12-23 39l9 38q22 17 56 3l20-43q-1-30-25-40z" fill="url(#clothes)" stroke="#323342" stroke-width="8"/>
+ <path d="m102 92 22 29 20 34m-20-34-25 34" fill="none" stroke="#a3726a" stroke-width="5"/>
+ <path d="m95 97-30 22 5 33q9 9 19-2l20-19m63-29 31 14 13-10-22-23-32-9" fill="url(#skin)" stroke="#45584b" stroke-width="8" stroke-linejoin="round"/>
+ <path d="M85 51q10-29 37-28 37 0 41 34l-7 40q-20 18-47 6-28-13-24-52z" fill="url(#skin)" stroke="#4a5c50" stroke-width="8"/>
+ <path d="m88 56 2-26 29-15 34 13 13 31-13 6-20-14-10 20-28-2z" fill="#453e48" stroke="#31303b" stroke-width="6"/>
+ <path d="m99 60 12-5-3 9zm34-5 11 2-7 8z" fill="#eec66c" stroke="#594943" stroke-width="4"/>
+ <path d="m107 84 13 5 12-8" fill="none" stroke="#49383a" stroke-width="5"/>
+ <path d="m120 97 18 2 12 17-14 16-22-9-5-13z" fill="url(#blood)" stroke="#54383c" stroke-width="5"/>
+ <path d="m119 106 19 9m-25-4 15 11" stroke="#f2b078" stroke-width="3"/>
+</svg>

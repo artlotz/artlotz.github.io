@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+ <defs><linearGradient id="hide" x2="0" y2="1"><stop stop-color="#9fb19a"/><stop offset="1" stop-color="#50675e"/></linearGradient><linearGradient id="rag" x2="0" y2="1"><stop stop-color="#667c77"/><stop offset="1" stop-color="#34454b"/></linearGradient><linearGradient id="rot" x2="0" y2="1"><stop stop-color="#d4deca"/><stop offset="1" stop-color="#8b9b86"/></linearGradient></defs>
+ <ellipse cx="126" cy="222" rx="76" ry="20" fill="#0d1718" opacity=".55"/>
+ <path d="m95 152-27 48 16 14 38-34m36-30 14 54 24-4-1-62" fill="#52645d" stroke="#283a3c" stroke-width="10" stroke-linejoin="round"/>
+ <path d="m69 198 31 4 9 16-41 8q-14-7 1-28zm68 5 31-6 16 13-33 17z" fill="#332f36" stroke="#273436" stroke-width="8"/>
+ <path d="M91 80q-24 12-31 42l-4 39q25 29 76 23 39-3 51-27l-14-47q-12-32-40-36z" fill="url(#rag)" stroke="#2d3f41" stroke-width="8" stroke-linejoin="round"/>
+ <path d="m104 93 13 35 29 50m-31-49-31 37" fill="none" stroke="#97aaa0" stroke-width="6" opacity=".7"/>
+ <path d="m83 100-35 31-7 32q4 17 17 8l34-26m99-38 20 32-10 24q-10 10-18-3l-17-25" fill="url(#hide)" stroke="#34474a" stroke-width="9" stroke-linejoin="round"/>
+ <path d="M43 157q-5 17 12 19l13-10-2-12zm132 9q10-11 21-4l8 14q-13 9-23 1z" fill="url(#rot)" stroke="#526657" stroke-width="5"/>
+ <path d="M96 45q10-25 39-23 34 2 39 37l-7 37q-18 27-50 13-25-11-26-45z" fill="url(#hide)" stroke="#3b4f47" stroke-width="8"/>
+ <path d="m93 63 7-30 27-13 31 9 18 28-9 9-21-10-9-14-15 23-23 7z" fill="#4f655c" stroke="#374940" stroke-width="6"/>
+ <path d="m105 60 10-3-5 9zm35-5 11 3-7 7z" fill="#ecbd64" stroke="#3e4038" stroke-width="4"/>
+ <path d="M116 88q14-4 29 5" fill="none" stroke="#443c39" stroke-width="6" stroke-linecap="round"/>
+ <path d="m134 83 5 9 7-10 7 8 9-12" fill="none" stroke="#dde0c6" stroke-width="4"/>
+ <path d="m105 104 20 9 22-14 18 17-8 44q-27 13-54-5z" fill="#ac594c" stroke="#5a3939" stroke-width="6"/>
+ <path d="m115 117-10 22 13 7m28-34 10 26-9 15" fill="none" stroke="#d58866" stroke-width="6"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="384" viewBox="0 0 384 384">
+  <defs><linearGradient id="metal" x2="0" y2="1"><stop stop-color="#526069"/><stop offset=".45" stop-color="#3c4a52"/><stop offset="1" stop-color="#27363e"/></linearGradient><pattern id="grain" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M3 5h7m8 9h4m-16 8h3" stroke="#b4bcba" stroke-opacity=".2" stroke-width="1"/><circle cx="23" cy="4" r="1" fill="#18272d"/></pattern></defs>
+  <rect width="384" height="384" fill="url(#metal)"/>
+  <path d="M0 0h384v10H0zm0 126h384v8H0zm0 124h384v8H0zm0 126h384v8H0z" fill="#16252b" opacity=".72"/>
+  <path d="M6 12h372v111H6zm0 132h372v102H6zm0 132h372v96H6z" fill="none" stroke="#a6b0ac" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M37 37h86v6H37zm221 0h72v6h-72zm-126 117h133v5H132zm-84 119h76v6H48zm204 0h79v6h-79z" fill="#d29a58" opacity=".38"/>
+  <g fill="#d0c39a" opacity=".5"><circle cx="17" cy="22" r="3"/><circle cx="367" cy="22" r="3"/><circle cx="17" cy="119" r="3"/><circle cx="367" cy="119" r="3"/><circle cx="17" cy="145" r="3"/><circle cx="367" cy="145" r="3"/><circle cx="17" cy="224" r="3"/><circle cx="367" cy="224" r="3"/></g>
+  <path d="m147 63 21 3 9 8-12 14-23-5zm96 174 21-8 16 7-6 14-26 5-8-8zM31 321l18-7 11 4-5 13-18 4z" fill="#26343b" stroke="#6f7b7e" stroke-width="2" opacity=".8"/>
+  <path d="M0 0h384v384H0z" fill="url(#grain)"/>
+</svg>

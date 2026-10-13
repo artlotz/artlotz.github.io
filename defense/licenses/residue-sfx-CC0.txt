@@ -1,0 +1,14 @@
+Residue-sfx — FacadeGaikan
+
+원본 페이지: https://opengameart.org/content/residue-sfx
+원본 다운로드: https://opengameart.org/sites/default/files/residue-sfx.zip
+라이선스: CC0 1.0 Universal
+라이선스 원문: https://creativecommons.org/publicdomain/zero/1.0/
+확인일: 2026-10-13
+
+실제 반입 파일:
+- residue-sfx/zipper.ogg → assets/audio/sfx/residue-gunburst.ogg
+- residue-sfx/boom.ogg → assets/audio/sfx/residue-blast.ogg
+
+원 저자는 자신이 제작한 게임 Residue의 효과음이라고 밝히며 CC0로 공유한다.
+오디오는 편집하지 않고 파일명만 변경했다.

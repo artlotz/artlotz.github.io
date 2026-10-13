@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="384" viewBox="0 0 384 384">
+  <defs>
+    <linearGradient id="road" x2="0.2" y2="1"><stop stop-color="#303a40"/><stop offset=".5" stop-color="#252f35"/><stop offset="1" stop-color="#1e292f"/></linearGradient>
+    <pattern id="stones" width="47" height="43" patternUnits="userSpaceOnUse"><circle cx="8" cy="7" r="1.4" fill="#879096" opacity=".2"/><circle cx="28" cy="31" r="1" fill="#a6a397" opacity=".16"/><path d="m16 23 8-2m14 15 5-1M3 39l6-1" stroke="#0e191e" stroke-width="2" opacity=".6"/></pattern>
+  </defs>
+  <rect width="384" height="384" fill="url(#road)"/><rect width="384" height="384" fill="url(#stones)"/>
+  <path d="m24 88 22-11 15 2 14-9 18 3m118 203 11-17 22-8 15-19 21-5m-63-213 12 6 17-4m-85 314 5-8 10-3" fill="none" stroke="#879096" stroke-opacity=".22" stroke-width="3" stroke-linecap="round"/>
+  <path d="m29 88 15-7 10 2 14-9 17 4m137 196 12-13 20-8 12-18 18-5" fill="none" stroke="#141d22" stroke-width="2" stroke-linecap="round"/>
+  <g fill="#c3b37b" opacity=".43"><path d="m3 142 36-2 2 5-36 3zm337 68 38-2v6l-38 2zM94 3l2 26-5 1-2-26z"/></g>
+  <g fill="#84949a" opacity=".55"><path d="m101 72 2 1-8 13-3-1zm214 238 3 1-10 15-3-1zm-82-191 2 2-6 7-2-1z"/></g>
+  <path d="M0 0h384v384H0z" fill="none" stroke="#121b20" stroke-width="12" opacity=".2"/>
+</svg>

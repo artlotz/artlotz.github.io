@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+ <defs><linearGradient id="blade" x2=".9" y2="0"><stop stop-color="#feffff"/><stop offset=".5" stop-color="#a4ffcd"/><stop offset="1" stop-color="#49a6a4"/></linearGradient><linearGradient id="handle" x2="1" y2="1"><stop stop-color="#e1b76e"/><stop offset="1" stop-color="#805044"/></linearGradient></defs>
+ <path d="M29 123Q56 17 131 14q-11 80-102 120z" fill="url(#blade)" stroke="#285765" stroke-width="8" stroke-linejoin="round"/><path d="M41 113Q69 48 121 27" fill="none" stroke="#f5fff0" stroke-width="7"/>
+ <path d="m24 127 32-24 12 16-29 29z" fill="url(#handle)" stroke="#47333a" stroke-width="6"/><path d="m49 99 16 18" stroke="#ffe0a4" stroke-width="9" stroke-linecap="round"/>
+</svg>

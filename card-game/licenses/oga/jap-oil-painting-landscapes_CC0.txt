@@ -1,0 +1,43 @@
+Oil painting landscapes by JAP
+Source: https://opengameart.org/content/oil-painting-landscapes
+Checked: 2026-10-10 (page text copied as shown on the OpenGameArt page)
+
+Page text:
+  Title:        Oil painting landscapes
+  Author:       JAP
+  Submitted:    Sunday, January 23, 2011
+  License(s):   CC0   (badge links to http://creativecommons.org/publicdomain/zero/1.0/)
+  Description:  "A few more oilpainting backgrounds desert, swamp and mountain.
+                 Edit: 26/2 2011 added another one "wizardtower", if anyone wants to use these and needs something speciel like "i really need a tropical island landscape" feel free to ask for it."
+  File(s):      sunsetintheswamp.png 691.5 Kb, coldmountain.png 783.6 Kb, cloudsinthedesert.png 606.7 Kb, wizardtower.png 828.4 Kb
+  Comments:     three comments (praise, a request for more, the author's reply); none mention a license, a condition or a credit.
+
+Used in this game: sunsetintheswamp.png (1000x700, downloaded 2026-10-10), converted to WebP and colour-graded into
+battle-swamp, battle-swamp-dark and lobby-swamp (scripts/assets/expansion/build.mjs).
+
+Re-read for M10 (WP-39), 2026-10-10: the page was opened again (title, author, date, the CC0 licence badge, the description and the four files are
+unchanged) and its comments were read in full: 10 comments from 2011 to 2016 (the "three comments" above was only the first three). None states a
+condition, a fee or a credit. "Technology Lancers" (2014) asks "Can i use all of these in my game?" (the page shows no answer), and "michalis" (2014)
+attached a tileable version of wizardtower "Feel free to use on the same terms as original images, CC0" (not used here).
+The four files were downloaded again from the page into an empty folder outside the repository (sha256):
+  sunsetintheswamp.png f43381c78a89598ab0bbd9837f79ab81ba8916bbb9bd40f6dc60e6f901acd143  (same bytes as the copy used since M9)
+  coldmountain.png     6714ff67f67c3a566756e303161cb47f2abab1ba3a3091e5e7c54a4a9b0377e7  (same bytes as the copy already on the local disk, downloaded earlier on 2026-10-10)
+  wizardtower.png      24fcf2163f514ac7ad860f008d3887d84624bf153398fe3ab09f8c7f927a7a7f
+  cloudsinthedesert.png 831ea265c85ef5ab508bcbd85517ecac8a5399f865af416288906b4b751c745f
+There is no archive and no separate licence file; the CC0 statement on the page is the only licence statement.
+Used in this game (M10, WP-39), all 1000x700, converted to WebP and colour-graded by scripts/assets/expansion/build.mjs:
+  coldmountain.png      -> battle-peak (unchanged colours) and battle-peak-dark (dark blue grade)
+  wizardtower.png       -> battle-tower (unchanged colours)
+  cloudsinthedesert.png -> lobby-dunes (pale sand grade, the 3rd chapter map)
+
+Re-read for M11 (WP-45), 2026-10-10: the page was opened again (title, author, date, the CC0 licence badge, the description and the four files are
+unchanged) and its 12 comments (2011 to 2018) were read in full; the two newer ones (2017: "I've used the wizardtower painting in my little game ...
+Credits in the game", 2018: praise) state no condition, no fee and no credit requirement. wizardtower.png and cloudsinthedesert.png were downloaded
+again from the page into an empty folder outside the repository and are byte-for-byte the copies already used since M10 (sha256):
+  wizardtower.png       24fcf2163f514ac7ad860f008d3887d84624bf153398fe3ab09f8c7f927a7a7f
+  cloudsinthedesert.png 831ea265c85ef5ab508bcbd85517ecac8a5399f865af416288906b4b751c745f
+Used in M11 (the 4th chapter), converted to WebP and colour-graded by scripts/assets/expansion/build.mjs:
+  wizardtower.png       -> battle-tower-dusk (dark teal dusk grade)
+  cloudsinthedesert.png -> battle-void (near-black purple and blood-red sky grade, the final boss stage)
+No attribution is required by CC0; the credits screen names the author anyway.
+CC0 1.0 legal code: see ../cc0-1.0.txt

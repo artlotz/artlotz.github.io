@@ -1,0 +1,65 @@
+월드 배경 이미지 출처와 조합 내역
+
+공통
+- 제작자: Kenney (https://kenney.nl/)
+- 원문과 패키지 원본을 확인한 날짜: 2026-10-13
+- 채택한 세 패키지의 라이선스: Creative Commons Zero (CC0 1.0)
+- 라이선스 원문: licenses/road-textures.txt, licenses/racing-pack.txt,
+  licenses/top-down-shooter.txt
+- 원본 타일을 자르고, 배치하고, 회전하고, 챕터 팔레트에 맞춰 색을 조정했다.
+  새 도로선, 건물, 벽, 소품 도형을 직접 그리지 않았다.
+- 모든 월드 소품은 비충돌 장식이다. 중앙 전투 구역을 비워 두고 입체 소품을
+  지도 가장자리에 배치했다. 게임의 이동·충돌 규칙은 바꾸지 않았다.
+
+1. Road Textures
+공식 페이지: https://kenney.nl/assets/road-textures
+원본 다운로드:
+https://kenney.nl/media/pages/assets/road-textures/dbe293b0ed-1677578348/kenney_road-textures.zip
+사용: PNG/Retina/roadTexture_01, 09, 23, 27, 28, 38, 39, 40
+파일은 originals/road-textures/PNG/Retina/에 보존되어 있다.
+128px Retina 타일로 아스팔트, 낮은 연석, 교차로 모서리, 회전 통로를 조합했다.
+roadTexture_01의 중앙 32px를 잘라 기존 차선을 분리했다.
+원본 잔디 띠와 밝은 연석은 각 챕터 포장 색에 맞춰 채도를 낮췄다.
+
+2. Racing Pack
+공식 페이지: https://kenney.nl/assets/racing-pack
+원본 다운로드:
+https://kenney.nl/media/pages/assets/racing-pack/c4cd68480a-1677662443/kenney_racing-pack.zip
+사용:
+- Cars/car_blue_1, car_black_2, car_red_4, car_green_3
+- Objects/tree_large, barrel_red_down, barrel_blue_down, tires_white_alt, cone_down
+- Objects/oil, skidmark_long_1, skidmark_long_2, skidmark_long_3,
+  skidmark_short_2, arrow_white
+- Tiles/Asphalt road/road_asphalt83
+파일은 originals/racing-pack/PNG/에 보존되어 있다.
+차량, 넘어진 통, 타이어, 콘, 나무는 props/에서 이름을 정리한 원본 PNG이다.
+기름 자국, 타이어 자국, 방향 화살표는 낮은 불투명도로 지도에 합성했다.
+road_asphalt83의 기존 U자 표식만 분리하여 주차·하역 구획을 만들었다.
+
+3. Top-down Shooter
+공식 페이지: https://kenney.nl/assets/top-down-shooter
+원본 다운로드:
+https://kenney.nl/media/pages/assets/top-down-shooter/230204340a-1677694684/kenney_top-down-shooter.zip
+사용: PNG/Tiles/tile_01, 02, 03, 04, 05, 06, 07, 08, 11,
+  129, 264, 292, 326, 327
+파일은 originals/top-down-shooter/PNG/Tiles/에 보존되어 있다.
+포장·황토·잔디 타일은 원본 질감을 보존하며 챕터 색으로 조정했다.
+tile_129(상자), tile_264(종이), tile_292(낮은 잔해)는 props/의 원본 PNG이다.
+이 패키지의 실내 벽 타일은 월드에 사용하지 않았다.
+
+맵과 배치 계약
+- downtown-map.png: 1920×1920. 도심 교차로와 두 곳의 낮은 공원 바닥.
+- industrial-map.png: 1920×1920. 북쪽 진입도로, T자 간선, 남쪽 하역장.
+- quarantine-map.png: 1920×1920. 서쪽 검문 진입도로와 남쪽 출구의 L자 통로,
+  바닥 주차 구획과 가장자리 콘 묶음.
+- 각 *-thumbnail.png: 640×360. 지면과 별도 소품을 함께 보여 주는 실제 배치 미리보기.
+- 각 맵 PNG에는 지면, 도로, 낮은 연석, 평면 표식만 합성되어 있다.
+  별도 소품 배치는 src/rebuild/worldArt.ts와 placement-source.txt에 있다.
+- props의 x/y는 월드 중심 좌표, width/height는 월드 픽셀, rotation은 라디안이다.
+
+비교 후 제외한 자료
+- Roguelike Modern City는 실제 원본이 작은 픽셀 타일이어서 Toon 캐릭터와의
+  조화를 이유로 채택하지 않았다.
+- Sci-Fi RTS 원본은 비교만 했으며 도시 월드에 사용하지 않았다.
+- 다운로드 ZIP, 미채택 원본, 비교 시트, 최종 검수 시트, 조합 도구는
+  개발 전용 .verify/world-art/에 분리되어 있다. public에는 사용분만 남겼다.

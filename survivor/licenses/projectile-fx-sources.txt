@@ -1,0 +1,24 @@
+전투 투사체·이펙트 원본과 변환
+아이콘 원문 저자와 CC BY 3.0은 equipment-sources.txt 및 game-icons/LICENSE.txt 참고.
+Kenney Smoke Particles: C:/Users/home/AppData/Local/Temp/claude/d--work-game/2543b745-db0a-40a5-8945-944767b90f04/scratchpad/research-assets/kenney/smoke-particles/x; CC0, kenney-smoke-particles.txt.
+Kenney Tower Defense Top-Down: defense/public/assets/kenney/tower-defense-top-down/towerDefense_tile251.png; CC0, kenney-tower-defense-top-down.txt.
+투사체는 UI PNG와 별개로 색·비율·방향을 정규화했다. 새 형상은 그리지 않았다.
+
+kunai ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/plain-dagger.svg; fill=#ECEEDB; rotate=-45deg; 128×48; 선단=+X
+shotgun ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/silver-bullet.svg; fill=#FFCE71; rotate=45deg; 128×48; 선단=+X
+sword_arc ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/sword-spin.svg; fill=#A8E8F1; rotate=0deg; 128×128; 비방향성
+rotor_blade ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/circular-sawblade.svg; fill=#DCECF2; rotate=0deg; 128×128; 비방향성
+energy_shield ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/energy-shield.svg; fill=#7AE5E8; rotate=0deg; 128×128; 비방향성
+lightning ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/power-lightning.svg; fill=#FFE475; rotate=-45deg; 128×48; 선단=+X
+flame_field ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/fire-zone.svg; fill=#FF9F50; rotate=0deg; 128×128; 비방향성
+bounce_orb ← https://raw.githubusercontent.com/game-icons/icons/master/lorc/concentration-orb.svg; fill=#C1A7FF; rotate=0deg; 128×128; 비방향성
+drone_a ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/delivery-drone.svg; fill=#72D9EE; rotate=0deg; 128×128; 비방향성
+drone_b ← https://raw.githubusercontent.com/game-icons/icons/master/delapouite/delivery-drone.svg; fill=#FEA56E; rotate=0deg; 128×128; 비방향성
+rocket ← D:/work/rpg_card_game/defense/public/assets/kenney/tower-defense-top-down/towerDefense_tile251.png; rotate=90deg; native64×64; 선단=+X
+acid ← C:/Users/home/AppData/Local/Temp/claude/d--work-game/2543b745-db0a-40a5-8945-944767b90f04/scratchpad/research-assets/kenney/smoke-particles/x/PNG/Fart/fart00.png; 128×128; 비방향성 확산 입자
+explosion sheet ← Explosion/explosion00~08.png; 원본 정적 입자 변형; burst 시간별 배율·불투명도 변화; 128×128×9
+spark sheet ← Flash/flash00~08.png; 원본 정적 입자 변형; flash 시간별 배율·불투명도 변화; 128×128×9
+muzzle sheet ← Flash/flash00~08.png; 원본 정적 입자 변형; flash 시간별 배율·불투명도 변화; 128×128×9
+smokeRing sheet ← White puff/whitePuff00~08.png; 원본 정적 입자 변형; smoke 시간별 배율·불투명도 변화; 128×128×9
+fire sheet ← Explosion/explosion00~08.png; 원본 정적 입자 변형; loop 시간별 배율·불투명도 변화; 128×128×9
+acid sheet ← Fart/fart00~08.png; 원본 정적 입자 변형; burst 시간별 배율·불투명도 변화; 128×128×9

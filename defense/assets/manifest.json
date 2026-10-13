@@ -1,0 +1,450 @@
+{
+  "version": 1,
+  "towers": {
+    "T01": {
+      "icon": "/assets/game-icons/laser-turret.svg",
+      "stages": {
+        "I": "/assets/generated/towers/T01/I.svg",
+        "II": "/assets/generated/towers/T01/II.svg",
+        "III_A": "/assets/generated/towers/T01/III_A.svg",
+        "III_B": "/assets/generated/towers/T01/III_B.svg"
+      }
+    },
+    "T02": {
+      "icon": "/assets/game-icons/mortar.svg",
+      "stages": {
+        "I": "/assets/generated/towers/T02/I.svg",
+        "II": "/assets/generated/towers/T02/II.svg",
+        "III_A": "/assets/generated/towers/T02/III_A.svg",
+        "III_B": "/assets/generated/towers/T02/III_B.svg"
+      }
+    },
+    "T03": {
+      "icon": "/assets/game-icons/tesla-coil.svg",
+      "stages": {
+        "I": "/assets/generated/towers/T03/I.svg",
+        "II": "/assets/generated/towers/T03/II.svg",
+        "III_A": "/assets/generated/towers/T03/III_A.svg",
+        "III_B": "/assets/generated/towers/T03/III_B.svg"
+      }
+    },
+    "T04": {
+      "icon": "/assets/game-icons/snowflake-1.svg",
+      "stages": {
+        "I": "/assets/generated/towers/T04/I.svg",
+        "II": "/assets/generated/towers/T04/II.svg",
+        "III_A": "/assets/generated/towers/T04/III_A.svg",
+        "III_B": "/assets/generated/towers/T04/III_B.svg"
+      }
+    },
+    "T05": {
+      "icon": "/assets/game-icons/radar-dish.svg",
+      "stages": {
+        "I": "/assets/generated/towers/T05/I.svg",
+        "II": "/assets/generated/towers/T05/II.svg",
+        "III_A": "/assets/generated/towers/T05/III_A.svg",
+        "III_B": "/assets/generated/towers/T05/III_B.svg"
+      }
+    },
+    "T06": {
+      "icon": "/assets/game-icons/factory.svg",
+      "stages": {
+        "I": "/assets/generated/towers/T06/I.svg",
+        "II": "/assets/generated/towers/T06/II.svg",
+        "III_A": "/assets/generated/towers/T06/III_A.svg",
+        "III_B": "/assets/generated/towers/T06/III_B.svg"
+      }
+    }
+  },
+  "enemies": {
+    "E01": {
+      "icon": "/assets/generated/enemies/E01.svg",
+      "portrait": "/assets/generated/enemies/E01.svg",
+      "sprite": "/assets/generated/enemies/E01.svg"
+    },
+    "E02": {
+      "icon": "/assets/generated/enemies/E02.svg",
+      "portrait": "/assets/generated/enemies/E02.svg",
+      "sprite": "/assets/generated/enemies/E02.svg"
+    },
+    "E03": {
+      "icon": "/assets/generated/enemies/E03.svg",
+      "portrait": "/assets/generated/enemies/E03.svg",
+      "sprite": "/assets/generated/enemies/E03.svg"
+    },
+    "E04": {
+      "icon": "/assets/generated/enemies/E04.svg",
+      "portrait": "/assets/generated/enemies/E04.svg",
+      "sprite": "/assets/generated/enemies/E04.svg"
+    },
+    "E05": {
+      "icon": "/assets/generated/enemies/E05.svg",
+      "portrait": "/assets/generated/enemies/E05.svg",
+      "sprite": "/assets/generated/enemies/E05.svg"
+    },
+    "E06": {
+      "icon": "/assets/generated/enemies/E06.svg",
+      "portrait": "/assets/generated/enemies/E06.svg",
+      "sprite": "/assets/generated/enemies/E06.svg"
+    },
+    "E07": {
+      "icon": "/assets/generated/enemies/E07.svg",
+      "portrait": "/assets/generated/enemies/E07.svg",
+      "sprite": "/assets/generated/enemies/E07.svg"
+    },
+    "E08": {
+      "icon": "/assets/generated/enemies/E08.svg",
+      "portrait": "/assets/generated/enemies/E08.svg",
+      "sprite": "/assets/generated/enemies/E08.svg"
+    },
+    "E09": {
+      "icon": "/assets/generated/enemies/E09.svg",
+      "portrait": "/assets/generated/enemies/E09.svg",
+      "sprite": "/assets/generated/enemies/E09.svg"
+    },
+    "E10": {
+      "icon": "/assets/generated/enemies/E10.svg",
+      "portrait": "/assets/generated/enemies/E10.svg",
+      "sprite": "/assets/generated/enemies/E10.svg"
+    }
+  },
+  "maps": {
+    "M01": {
+      "preview": "/assets/generated/maps/M01-preview.svg",
+      "background": "/assets/generated/maps/M01-background.svg"
+    },
+    "M02": {
+      "preview": "/assets/generated/maps/M02-preview.svg",
+      "background": "/assets/generated/maps/M02-background.svg"
+    },
+    "M03": {
+      "preview": "/assets/generated/maps/M03-preview.svg",
+      "background": "/assets/generated/maps/M03-background.svg"
+    },
+    "M04": {
+      "preview": "/assets/generated/maps/M04-preview.svg",
+      "background": "/assets/generated/maps/M04-background.svg"
+    },
+    "M05": {
+      "preview": "/assets/generated/maps/M05-preview.svg",
+      "background": "/assets/generated/maps/M05-background.svg"
+    }
+  },
+  "effects": {
+    "projectileKinetic": "/assets/kenney/tower-defense-top-down/towerDefense_tile251.png",
+    "projectileRocket": "/assets/kenney/tower-defense-top-down/towerDefense_tile252.png",
+    "projectileEnergy": "/assets/fx/proj-energy.png",
+    "impact": "/assets/fx/explosion.png",
+    "chain": "/assets/fx/thunder.png",
+    "cold": "/assets/fx/ice.png",
+    "aura": "/assets/fx/aura.png",
+    "shield": "/assets/fx/shield-blue.png",
+    "spark": "/assets/fx/spark.png",
+    "smoke": "/assets/fx/smoke.png"
+  },
+  "audio": {
+    "music": {
+      "prepare": "/assets/audio/bgm/lobby.ogg",
+      "combat": "/assets/audio/bgm/battle.ogg",
+      "boss": "/assets/audio/bgm/boss.ogg"
+    },
+    "sfx": {
+      "uiClick": "/assets/audio/sfx/ui-click.ogg",
+      "uiConfirm": "/assets/audio/sfx/ui-confirm.ogg",
+      "uiCancel": "/assets/audio/sfx/ui-cancel.ogg",
+      "uiError": "/assets/audio/sfx/ui-locked.ogg",
+      "kinetic": "/assets/audio/sfx/scifi-impactMetal_000.ogg",
+      "mortar": "/assets/audio/sfx/scifi-explosionCrunch_000.ogg",
+      "energy": "/assets/audio/sfx/scifi-laserLarge_000.ogg",
+      "laser": "/assets/audio/sfx/scifi-laserSmall_000.ogg",
+      "shield": "/assets/audio/sfx/scifi-forceField_000.ogg",
+      "boss": "/assets/audio/sfx/scifi-engineCircular_000.ogg",
+      "bossPhase": "/assets/audio/sfx/scifi-lowFrequency_explosion_000.ogg",
+      "waveClear": "/assets/audio/sfx/coin.ogg",
+      "heal": "/assets/audio/sfx/buff.ogg"
+    }
+  },
+  "credits": [
+    {
+      "titleKo": "레이저 포탑 아이콘",
+      "creator": "Delapouite",
+      "sourceUrl": "https://game-icons.net/1x1/delapouite/laser-turret.html",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "assetIds": [
+        "T01"
+      ],
+      "files": [
+        "/assets/game-icons/laser-turret.svg"
+      ],
+      "changes": "흰색 전경과 투명 배경 SVG를 사용했습니다. 도형은 수정하지 않았습니다."
+    },
+    {
+      "titleKo": "박격포 아이콘",
+      "creator": "Delapouite",
+      "sourceUrl": "https://game-icons.net/1x1/delapouite/mortar.html",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "assetIds": [
+        "T02"
+      ],
+      "files": [
+        "/assets/game-icons/mortar.svg"
+      ],
+      "changes": "흰색 전경과 투명 배경 SVG를 사용했습니다. 도형은 수정하지 않았습니다."
+    },
+    {
+      "titleKo": "테슬라 코일 아이콘",
+      "creator": "Lorc",
+      "sourceUrl": "https://game-icons.net/1x1/lorc/tesla-coil.html",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "assetIds": [
+        "T03"
+      ],
+      "files": [
+        "/assets/game-icons/tesla-coil.svg"
+      ],
+      "changes": "흰색 전경과 투명 배경 SVG를 사용했습니다. 도형은 수정하지 않았습니다."
+    },
+    {
+      "titleKo": "눈송이 1 아이콘",
+      "creator": "Lorc",
+      "sourceUrl": "https://game-icons.net/1x1/lorc/snowflake-1.html",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "assetIds": [
+        "T04"
+      ],
+      "files": [
+        "/assets/game-icons/snowflake-1.svg"
+      ],
+      "changes": "흰색 전경과 투명 배경 SVG를 사용했습니다. 도형은 수정하지 않았습니다."
+    },
+    {
+      "titleKo": "레이더 접시 아이콘",
+      "creator": "Lorc",
+      "sourceUrl": "https://game-icons.net/1x1/lorc/radar-dish.html",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "assetIds": [
+        "T05"
+      ],
+      "files": [
+        "/assets/game-icons/radar-dish.svg"
+      ],
+      "changes": "흰색 전경과 투명 배경 SVG를 사용했습니다. 도형은 수정하지 않았습니다."
+    },
+    {
+      "titleKo": "공장 아이콘",
+      "creator": "Delapouite",
+      "sourceUrl": "https://game-icons.net/1x1/delapouite/factory.html",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "assetIds": [
+        "T06"
+      ],
+      "files": [
+        "/assets/game-icons/factory.svg"
+      ],
+      "changes": "흰색 전경과 투명 배경 SVG를 사용했습니다. 도형은 수정하지 않았습니다."
+    },
+    {
+      "titleKo": "Tower Defense (Top-Down) 에셋",
+      "creator": "Kenney Vleugels (Kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/tower-defense-top-down",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "T01",
+        "T02",
+        "T05",
+        "E05"
+      ],
+      "files": [
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile203.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile204.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile205.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile206.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile249.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile250.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile251.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile252.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile268.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile269.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile270.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile271.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile291.png",
+        "/assets/kenney/tower-defense-top-down/towerDefense_tile292.png"
+      ],
+      "changes": "CC0 원본 PNG를 복사했습니다. Tower SVG에서 여러 부품을 합성하고 원래 파일을 보존했습니다."
+    },
+    {
+      "titleKo": "Sci-Fi RTS 에셋",
+      "creator": "Kenney Vleugels (Kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/sci-fi-rts",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "T03",
+        "T04",
+        "T06",
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E06",
+        "E07",
+        "E08",
+        "E09",
+        "E10",
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "M05"
+      ],
+      "files": [
+        "/assets/kenney/sci-fi-rts/Structure/",
+        "/assets/kenney/sci-fi-rts/Environment/",
+        "/assets/kenney/sci-fi-rts/Tile/",
+        "/assets/kenney/sci-fi-rts/Unit/"
+      ],
+      "changes": "CC0 원본 PNG를 복사했습니다. 일부 적 실루엣은 부품을 연결하거나 상태 표식을 더해 SVG로 합성했습니다."
+    },
+    {
+      "titleKo": "Sci-fi Sounds 효과음",
+      "creator": "Kenney Vleugels (Kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/sci-fi-sounds",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "audio.sfx.kinetic",
+        "audio.sfx.mortar",
+        "audio.sfx.energy",
+        "audio.sfx.laser",
+        "audio.sfx.shield",
+        "audio.sfx.boss",
+        "audio.sfx.bossPhase"
+      ],
+      "files": [
+        "/assets/audio/sfx/scifi-impactMetal_000.ogg",
+        "/assets/audio/sfx/scifi-explosionCrunch_000.ogg",
+        "/assets/audio/sfx/scifi-laserLarge_000.ogg",
+        "/assets/audio/sfx/scifi-laserSmall_000.ogg",
+        "/assets/audio/sfx/scifi-forceField_000.ogg",
+        "/assets/audio/sfx/scifi-engineCircular_000.ogg",
+        "/assets/audio/sfx/scifi-lowFrequency_explosion_000.ogg"
+      ],
+      "changes": "원본 OGG 파일을 복사했습니다. 게임 내 음량·조합은 별도로 설정합니다."
+    },
+    {
+      "titleKo": "Ninja Adventure FX",
+      "creator": "Pixel-Boy, AAA",
+      "sourceUrl": "https://pixel-boy.itch.io/ninja-adventure-asset-pack",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "effects.impact",
+        "effects.chain",
+        "effects.cold",
+        "effects.aura",
+        "effects.shield",
+        "effects.spark",
+        "effects.smoke"
+      ],
+      "files": [
+        "/assets/fx/explosion.png",
+        "/assets/fx/thunder.png",
+        "/assets/fx/ice.png",
+        "/assets/fx/aura.png",
+        "/assets/fx/shield-blue.png",
+        "/assets/fx/spark.png",
+        "/assets/fx/smoke.png"
+      ],
+      "changes": "원본 PNG 프레임 시트를 복사했습니다."
+    },
+    {
+      "titleKo": "Ninja Adventure BGM",
+      "creator": "Pixel-Boy, AAA",
+      "sourceUrl": "https://pixel-boy.itch.io/ninja-adventure-asset-pack",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "audio.music.prepare",
+        "audio.music.combat",
+        "audio.music.boss"
+      ],
+      "files": [
+        "/assets/audio/bgm/lobby.ogg ← Musics/35 - Adventure.ogg",
+        "/assets/audio/bgm/battle.ogg ← Musics/17 - Fight.ogg",
+        "/assets/audio/bgm/boss.ogg ← Musics/34  - Fight.ogg"
+      ],
+      "changes": "카드게임 ASSETS 기록의 OGG 변환본을 복사했습니다. 원곡 파일을 명시했습니다. 이 환경에서 직접 청취 검수는 하지 못했습니다."
+    },
+    {
+      "titleKo": "Kenney UI SFX Set",
+      "creator": "Kenney Vleugels (Kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/ui-audio",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "audio.sfx.uiClick"
+      ],
+      "files": [
+        "/assets/audio/sfx/ui-click.ogg ← Audio/click3.ogg"
+      ],
+      "changes": "카드게임에서 변환한 OGG를 복사했습니다. 원본과 라이선스 사본은 licenses/kenney-ui-audio.txt에 있습니다."
+    },
+    {
+      "titleKo": "Kenney Interface Sounds",
+      "creator": "Kenney Vleugels (Kenney.nl)",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "audio.sfx.uiConfirm",
+        "audio.sfx.uiError"
+      ],
+      "files": [
+        "/assets/audio/sfx/ui-confirm.ogg ← Audio/confirmation_001.ogg",
+        "/assets/audio/sfx/ui-locked.ogg ← Audio/error_001.ogg"
+      ],
+      "changes": "카드게임에서 변환한 OGG를 복사했습니다. 원본 라이선스 사본을 함께 둡니다."
+    },
+    {
+      "titleKo": "Ninja Adventure UI·전투 효과음",
+      "creator": "Pixel-Boy, AAA",
+      "sourceUrl": "https://pixel-boy.itch.io/ninja-adventure-asset-pack",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "assetIds": [
+        "audio.sfx.uiCancel",
+        "audio.sfx.waveClear",
+        "audio.sfx.heal"
+      ],
+      "files": [
+        "/assets/audio/sfx/ui-cancel.ogg ← Sounds/Menu/Cancel2.wav",
+        "/assets/audio/sfx/coin.ogg ← Sounds/Bonus/Coin.wav",
+        "/assets/audio/sfx/buff.ogg ← Sounds/Bonus/PowerUp1.wav"
+      ],
+      "changes": "카드게임에서 변환한 OGG를 복사했습니다. CC0 전문 사본을 함께 둡니다."
+    },
+    {
+      "titleKo": "Pretendard 서브셋 폰트",
+      "creator": "길형진 (Kil Hyung-jin)",
+      "sourceUrl": "https://github.com/orioncactus/pretendard",
+      "license": "SIL OFL 1.1",
+      "licenseUrl": "https://openfontlicense.org/",
+      "assetIds": [
+        "font.ko.regular",
+        "font.ko.semibold"
+      ],
+      "files": [
+        "/assets/fonts/Pretendard-Regular.subset.woff2",
+        "/assets/fonts/Pretendard-SemiBold.subset.woff2"
+      ],
+      "changes": "원본 배포 서브셋 파일을 수정하지 않고 복사했습니다."
+    }
+  ]
+}

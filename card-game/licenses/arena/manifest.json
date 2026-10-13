@@ -1,0 +1,336 @@
+{
+  "license": "CC0 1.0 Universal",
+  "licenseText": {
+    "name": "CC0 1.0 Universal Legal Code",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt",
+    "localPath": "licenses/arena/CC0-1.0.txt"
+  },
+  "sources": [
+    {
+      "pack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "url": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires"
+    },
+    {
+      "pack": "Fantasy RPG Icons 2",
+      "creator": "Drummyfish",
+      "license": "CC0 1.0 Universal",
+      "url": "https://opengameart.org/content/fantasy-rpg-icons-2"
+    },
+    {
+      "pack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "url": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds"
+    }
+  ],
+  "assets": [
+    {
+      "path": "art/arena/cards/ar-cinder-scout.webp",
+      "source": "a10.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-wind-runner.webp",
+      "source": "a16.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-stone-sentinel.webp",
+      "source": "koÿciotrup.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-ember-guide.webp",
+      "source": "a24.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-rune-smith.webp",
+      "source": "a32.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-mist-priest.webp",
+      "source": "a66.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-tide-saboteur.webp",
+      "source": "op53.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-ring-keeper.webp",
+      "source": "ik52.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-archive-fox.webp",
+      "source": "p19.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-bloom-captain.webp",
+      "source": "a61.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-quiet-oracle.webp",
+      "source": "p7.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-sky-weaver.webp",
+      "source": "op36.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-bramble-tactician.webp",
+      "source": "a43.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-cold-current.webp",
+      "source": "moooob27.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-advance-signal.webp",
+      "source": "mobeK1S.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-thunder-bearer.webp",
+      "source": "moooob28.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-iron-grove.webp",
+      "source": "mobiszon999.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-river-council.webp",
+      "source": "wezwanie krokodyla.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-last-watch.webp",
+      "source": "szary kleszcz.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-seven-banners.webp",
+      "source": "mobiszon997.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-glass-herald.webp",
+      "source": "icon_crystalblue.png",
+      "sourcePack": "Fantasy RPG Icons 2",
+      "creator": "Drummyfish",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/fantasy-rpg-icons-2",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-mountain-chorus.webp",
+      "source": "mobilizacja.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-red-dusk.webp",
+      "source": "spalenie.jpg",
+      "sourcePack": "RPG Fantasy icons portraits - monsters, heroes, vampires",
+      "creator": "Pan długa ryba",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/rpg-fantasy-icons-portraits-monsters-heroes-vampires",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/cards/ar-frost-comet.webp",
+      "source": "icon_tornado.png",
+      "sourcePack": "Fantasy RPG Icons 2",
+      "creator": "Drummyfish",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/fantasy-rpg-icons-2",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/backgrounds/lobby.webp",
+      "source": "mountain_beautypath_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/backgrounds/arena.webp",
+      "source": "dragonruins_coliseum_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-ember-forge.webp",
+      "source": "mountain_blacksmithhouse_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-reflection-gorge.webp",
+      "source": "mountain_lake_render_frame_a.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-crystal-channel.webp",
+      "source": "dragonruins_podium_render_frame_a.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-firstlight-tower.webp",
+      "source": "mountain_cathedralfacade_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-frost-meadow.webp",
+      "source": "mountain_downpath_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-stillfield.webp",
+      "source": "plains_copse_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, original 512x288 dimensions, quality 88"
+    },
+    {
+      "path": "art/arena/icons/gold.webp",
+      "source": "icon_moneygold.png",
+      "sourcePack": "Fantasy RPG Icons 2",
+      "creator": "Drummyfish",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/fantasy-rpg-icons-2",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/icons/gems.webp",
+      "source": "icon_crystalblue.png",
+      "sourcePack": "Fantasy RPG Icons 2",
+      "creator": "Drummyfish",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/fantasy-rpg-icons-2",
+      "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+Kenney Toon Characters 실제 포즈 반입 장부
+2026-10-13: 플레이어3종은 새 생성 전투 원화(public/assets/heroes/)로 교체했다.
+아래 player 항목은 남아 있는 구 패키지 파일의 출처 기록이며 현재 제품의 플레이어 경로가 아니다.
+새 플레이어 출처와 생성 기록: heroes-generated.md. 적·보스의 아래 기록은 계속 유효하다.
+제작자: Kenney (https://kenney.nl)
+출처: https://kenney.nl/assets/toon-characters
+라이선스: CC0 (kenney-toon-characters.txt)
+원본 로컬 경로: C:/Users/home/AppData/Local/Temp/claude/d--work-game/2543b745-db0a-40a5-8945-944767b90f04/scratchpad/research-assets/kenney/toon-characters/x
+원본 PNG/Poses HD 192×256의 전체 캔버스·형태·알파·부드러운 음영 유지.
+색 변형: 원본 SVG에서 팔레트 영역 차이만 추출해 원본 HD PNG에 가산한다. SVG의 Flash 필터 렌더를 게임에 사용하지 않는다.
+명시한 스탠스 외 모든 walk0~7 / run0~2 / hit / down / back은 동일 이름의 실제 원본 포즈다.
+
+player-kunai → Female person/PNG/Poses HD/character_femalePerson_*.png; idle=idle
+팔레트: {}
+
+player-shotgun → Male person/PNG/Poses HD/character_malePerson_*.png; idle=idle
+팔레트: {}
+
+player-sword_arc → Female adventurer/PNG/Poses HD/character_femaleAdventurer_*.png; idle=idle
+팔레트: {}
+
+walker → Zombie/PNG/Poses HD/character_zombie_*.png; idle=idle
+팔레트: {}
+
+runner → Female adventurer/PNG/Poses HD/character_femaleAdventurer_*.png; idle=run0
+팔레트: {"#FFD7B1":"#9EDB87","#F0C49A":"#79B766","#E7B687":"#65A056","#BF7958":"#664447","#DB855C":"#855359","#79ADCB":"#C65365","#5A93B4":"#A63C4F","#69A1C2":"#B7495D"}
+
+tank → Male person/PNG/Poses HD/character_malePerson_*.png; idle=hold
+팔레트: {"#BF7958":"#87994E","#A8603F":"#697E3A","#955435":"#50612E","#EEA160":"#C88A33","#D78B49":"#A56D26","#676AC6":"#444B51","#4C4EAA":"#30373D"}
+
+spitter → Female person/PNG/Poses HD/character_femalePerson_*.png; idle=drag
+팔레트: {"#BF7958":"#52B78A","#A8603F":"#389970","#955435":"#287652","#3DBF7B":"#9665C5","#25A863":"#744AA5","#676AC6":"#394E67","#EEA160":"#56899E"}
+
+charger → Robot/PNG/Poses HD/character_robot_*.png; idle=run0
+팔레트: {"#477CA6":"#C75E3D","#334E63":"#713C36","#5393C5":"#E08048","#FF6699":"#FFC64A","#FFCC00":"#FF553E"}
+
+boss_enforcer → Male adventurer/PNG/Poses HD/character_maleAdventurer_*.png; idle=hold
+팔레트: {"#FFD7B1":"#B7C293","#F0C49A":"#939F79","#E7B687":"#78845E","#BF7958":"#565C54","#DB855C":"#747971","#3DBF7B":"#364A61","#25A863":"#26374B","#EEA160":"#7F8C95","#D78B49":"#65717A"}
+
+boss_bomber → Robot/PNG/Poses HD/character_robot_*.png; idle=wide
+팔레트: {"#477CA6":"#D89F32","#334E63":"#75633D","#5393C5":"#F3BE48","#FF6699":"#FF704C","#FFCC00":"#6EFFF0"}
+
+boss_overseer → Female person/PNG/Poses HD/character_femalePerson_*.png; idle=hold
+팔레트: {"#BF7958":"#B28CC4","#A8603F":"#8D659F","#955435":"#714B85","#3DBF7B":"#4D9CA6","#25A863":"#34767E","#676AC6":"#333B52","#EEA160":"#334F64"}
+
+boss_final → Zombie/PNG/Poses HD/character_zombie_*.png; idle=wide
+팔레트: {"#3DBF9E":"#CF647F","#29A686":"#AE4668","#197E64":"#7C3150","#676AC6":"#453D72","#4C4EAA":"#302C52","#EEA160":"#726287","#FFCC00":"#8DFFB5"}

@@ -1,0 +1,1565 @@
+﻿{
+    "schemaVersion":  1,
+    "title":  "Age of Frontlines",
+    "assetBase":  "./",
+    "atlasSize":  "per asset; see each assets[].atlasSize",
+    "portraitSize":  "256x256",
+    "frameLayout":  [
+                        "walk0",
+                        "walk1",
+                        "walk2",
+                        "walk3",
+                        "windup",
+                        "contact",
+                        "hit",
+                        "dead"
+                    ],
+    "assets":  [
+                   {
+                       "id":  "armored_breacher",
+                       "era":  3,
+                       "family":  "infantry",
+                       "body":  "breacher",
+                       "attackStyle":  "breach_charge",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/armored_breacher.png",
+                       "portrait":  "portraits/armored_breacher.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "armored_fighter",
+                       "era":  3,
+                       "family":  "aircraft",
+                       "body":  "fighter",
+                       "attackStyle":  "autocannon",
+                       "flying":  true,
+                       "side":  "ally",
+                       "atlas":  "units/armored_fighter.png",
+                       "portrait":  "portraits/armored_fighter.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "armored_howitzer",
+                       "era":  3,
+                       "family":  "siege",
+                       "body":  "artillery",
+                       "attackStyle":  "howitzer",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/armored_howitzer.png",
+                       "portrait":  "portraits/armored_howitzer.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "armored_marksman",
+                       "era":  3,
+                       "family":  "infantry",
+                       "body":  "marksman",
+                       "attackStyle":  "precision_rifle",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/armored_marksman.png",
+                       "portrait":  "portraits/armored_marksman.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "armored_rifleman",
+                       "era":  3,
+                       "family":  "infantry",
+                       "body":  "rifleman",
+                       "attackStyle":  "rifle",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/armored_rifleman.png",
+                       "portrait":  "portraits/armored_rifleman.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "armored_tank",
+                       "era":  3,
+                       "family":  "vehicle",
+                       "body":  "tank",
+                       "attackStyle":  "tank_cannon",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/armored_tank.png",
+                       "portrait":  "portraits/armored_tank.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "citadel_engineer",
+                       "era":  1,
+                       "family":  "support",
+                       "body":  "engineer",
+                       "attackStyle":  "repair",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/citadel_engineer.png",
+                       "portrait":  "portraits/citadel_engineer.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "citadel_heavy_crossbow",
+                       "era":  1,
+                       "family":  "infantry",
+                       "body":  "crossbow",
+                       "attackStyle":  "crossbow",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/citadel_heavy_crossbow.png",
+                       "portrait":  "portraits/citadel_heavy_crossbow.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "citadel_knight",
+                       "era":  1,
+                       "family":  "cavalry",
+                       "body":  "knight",
+                       "attackStyle":  "sword",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/citadel_knight.png",
+                       "portrait":  "portraits/citadel_knight.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "citadel_longbow",
+                       "era":  1,
+                       "family":  "infantry",
+                       "body":  "archer",
+                       "attackStyle":  "bow",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/citadel_longbow.png",
+                       "portrait":  "portraits/citadel_longbow.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "citadel_pikeman",
+                       "era":  1,
+                       "family":  "infantry",
+                       "body":  "pikeman",
+                       "attackStyle":  "pike",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/citadel_pikeman.png",
+                       "portrait":  "portraits/citadel_pikeman.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "citadel_trebuchet",
+                       "era":  1,
+                       "family":  "siege",
+                       "body":  "trebuchet",
+                       "attackStyle":  "trebuchet",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/citadel_trebuchet.png",
+                       "portrait":  "portraits/citadel_trebuchet.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pioneer_battering_ram",
+                       "era":  0,
+                       "family":  "siege",
+                       "body":  "ram",
+                       "attackStyle":  "ram",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/pioneer_battering_ram.png",
+                       "portrait":  "portraits/pioneer_battering_ram.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pioneer_crossbow",
+                       "era":  0,
+                       "family":  "infantry",
+                       "body":  "crossbow",
+                       "attackStyle":  "crossbow",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/pioneer_crossbow.png",
+                       "portrait":  "portraits/pioneer_crossbow.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pioneer_field_medic",
+                       "era":  0,
+                       "family":  "support",
+                       "body":  "medic",
+                       "attackStyle":  "field_medicine",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/pioneer_field_medic.png",
+                       "portrait":  "portraits/pioneer_field_medic.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pioneer_longbow",
+                       "era":  0,
+                       "family":  "infantry",
+                       "body":  "archer",
+                       "attackStyle":  "bow",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/pioneer_longbow.png",
+                       "portrait":  "portraits/pioneer_longbow.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pioneer_rider",
+                       "era":  0,
+                       "family":  "cavalry",
+                       "body":  "rider",
+                       "attackStyle":  "mounted",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/pioneer_rider.png",
+                       "portrait":  "portraits/pioneer_rider.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pioneer_spearman",
+                       "era":  0,
+                       "family":  "infantry",
+                       "body":  "spearman",
+                       "attackStyle":  "spear",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/pioneer_spearman.png",
+                       "portrait":  "portraits/pioneer_spearman.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "powder_dragoon",
+                       "era":  2,
+                       "family":  "cavalry",
+                       "body":  "dragoon",
+                       "attackStyle":  "dragoon",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/powder_dragoon.png",
+                       "portrait":  "portraits/powder_dragoon.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "powder_field_cannon",
+                       "era":  2,
+                       "family":  "siege",
+                       "body":  "cannon",
+                       "attackStyle":  "cannon",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/powder_field_cannon.png",
+                       "portrait":  "portraits/powder_field_cannon.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "powder_grenadier",
+                       "era":  2,
+                       "family":  "infantry",
+                       "body":  "grenadier",
+                       "attackStyle":  "grenade",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/powder_grenadier.png",
+                       "portrait":  "portraits/powder_grenadier.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "powder_line_infantry",
+                       "era":  2,
+                       "family":  "infantry",
+                       "body":  "musketeer",
+                       "attackStyle":  "musket",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/powder_line_infantry.png",
+                       "portrait":  "portraits/powder_line_infantry.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "powder_musketeer",
+                       "era":  2,
+                       "family":  "infantry",
+                       "body":  "musketeer",
+                       "attackStyle":  "musket",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/powder_musketeer.png",
+                       "portrait":  "portraits/powder_musketeer.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "powder_sapper",
+                       "era":  2,
+                       "family":  "support",
+                       "body":  "sapper",
+                       "attackStyle":  "demolition",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/powder_sapper.png",
+                       "portrait":  "portraits/powder_sapper.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "transcendent_beam_trooper",
+                       "era":  4,
+                       "family":  "infantry",
+                       "body":  "beam_trooper",
+                       "attackStyle":  "plasma",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/transcendent_beam_trooper.png",
+                       "portrait":  "portraits/transcendent_beam_trooper.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "transcendent_drone_swarm",
+                       "era":  4,
+                       "family":  "drone",
+                       "body":  "drone_swarm",
+                       "attackStyle":  "drone_missile",
+                       "flying":  true,
+                       "side":  "ally",
+                       "atlas":  "units/transcendent_drone_swarm.png",
+                       "portrait":  "portraits/transcendent_drone_swarm.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "transcendent_energy_support",
+                       "era":  4,
+                       "family":  "support",
+                       "body":  "energy_support",
+                       "attackStyle":  "energy_repair",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/transcendent_energy_support.png",
+                       "portrait":  "portraits/transcendent_energy_support.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "transcendent_exosuit",
+                       "era":  4,
+                       "family":  "mech",
+                       "body":  "exosuit",
+                       "attackStyle":  "exosuit_strike",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/transcendent_exosuit.png",
+                       "portrait":  "portraits/transcendent_exosuit.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "transcendent_hover_rider",
+                       "era":  4,
+                       "family":  "vehicle",
+                       "body":  "hover_rider",
+                       "attackStyle":  "pulse_lance",
+                       "flying":  true,
+                       "side":  "ally",
+                       "atlas":  "units/transcendent_hover_rider.png",
+                       "portrait":  "portraits/transcendent_hover_rider.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "transcendent_railgun",
+                       "era":  4,
+                       "family":  "siege",
+                       "body":  "railgun",
+                       "attackStyle":  "railgun",
+                       "flying":  false,
+                       "side":  "ally",
+                       "atlas":  "units/transcendent_railgun.png",
+                       "portrait":  "portraits/transcendent_railgun.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "bastion_walker",
+                       "era":  1,
+                       "family":  "vehicle",
+                       "body":  "walker",
+                       "attackStyle":  "heavy_cannon",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/bastion_walker.png",
+                       "portrait":  "portraits/bastion_walker.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "breach_cart",
+                       "era":  0,
+                       "family":  "vehicle",
+                       "body":  "walker",
+                       "attackStyle":  "kinetic_slug",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/breach_cart.png",
+                       "portrait":  "portraits/breach_cart.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "burrow_tank",
+                       "era":  3,
+                       "family":  "vehicle",
+                       "body":  "burrower",
+                       "attackStyle":  "bore_charge",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/burrow_tank.png",
+                       "portrait":  "portraits/burrow_tank.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "command_mech",
+                       "era":  4,
+                       "family":  "mech",
+                       "body":  "command_mech",
+                       "attackStyle":  "heavy_cannon",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/command_mech.png",
+                       "portrait":  "portraits/command_mech.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "iron_colossus",
+                       "era":  4,
+                       "family":  "mech",
+                       "body":  "colossus",
+                       "attackStyle":  "impact_wave",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/iron_colossus.png",
+                       "portrait":  "portraits/iron_colossus.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "pike_block",
+                       "era":  1,
+                       "family":  "infantry",
+                       "body":  "guard",
+                       "attackStyle":  "pike",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/pike_block.png",
+                       "portrait":  "portraits/pike_block.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "scavenger_scout",
+                       "era":  0,
+                       "family":  "infantry",
+                       "body":  "scout",
+                       "attackStyle":  "machine_gun",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/scavenger_scout.png",
+                       "portrait":  "portraits/scavenger_scout.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "siege_automaton",
+                       "era":  3,
+                       "family":  "mech",
+                       "body":  "siege_automaton",
+                       "attackStyle":  "siege_shell",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/siege_automaton.png",
+                       "portrait":  "portraits/siege_automaton.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "768x256",
+                       "frameSize":  "192x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "signal_jammer",
+                       "era":  2,
+                       "family":  "vehicle",
+                       "body":  "jamming_tank",
+                       "attackStyle":  "signal_pulse",
+                       "flying":  false,
+                       "side":  "enemy",
+                       "atlas":  "enemies/signal_jammer.png",
+                       "portrait":  "portraits/signal_jammer.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   },
+                   {
+                       "id":  "vulture_drone",
+                       "era":  2,
+                       "family":  "aircraft",
+                       "body":  "air_drone",
+                       "attackStyle":  "rocket_salvo",
+                       "flying":  true,
+                       "side":  "enemy",
+                       "atlas":  "enemies/vulture_drone.png",
+                       "portrait":  "portraits/vulture_drone.png",
+                       "frames":  [
+                                      "walk0",
+                                      "walk1",
+                                      "walk2",
+                                      "walk3",
+                                      "windup",
+                                      "contact",
+                                      "hit",
+                                      "dead"
+                                  ],
+                       "atlasSize":  "512x256",
+                       "frameSize":  "128x128",
+                       "source":  "OpenAI ImageGen original artwork",
+                       "sourceType":  "imagegen",
+                       "author":  "OpenAI ImageGen",
+                       "sourceUrl":  [
+                                         "https://openai.com/policies/terms-of-use/"
+                                     ],
+                       "license":  "Original generated artwork; no third-party character source"
+                   }
+               ],
+    "environments":  [
+                         {
+                             "era":  0,
+                             "kind":  "battlefield",
+                             "path":  "eras/0/battlefield.png",
+                             "size":  "1600x600",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  0,
+                             "kind":  "base-ally",
+                             "path":  "eras/0/base-ally.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  0,
+                             "kind":  "base-enemy",
+                             "path":  "eras/0/base-enemy.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  1,
+                             "kind":  "battlefield",
+                             "path":  "eras/1/battlefield.png",
+                             "size":  "1600x600",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  1,
+                             "kind":  "base-ally",
+                             "path":  "eras/1/base-ally.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  1,
+                             "kind":  "base-enemy",
+                             "path":  "eras/1/base-enemy.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  2,
+                             "kind":  "battlefield",
+                             "path":  "eras/2/battlefield.png",
+                             "size":  "1600x600",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  2,
+                             "kind":  "base-ally",
+                             "path":  "eras/2/base-ally.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  2,
+                             "kind":  "base-enemy",
+                             "path":  "eras/2/base-enemy.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  3,
+                             "kind":  "battlefield",
+                             "path":  "eras/3/battlefield.png",
+                             "size":  "1600x600",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  3,
+                             "kind":  "base-ally",
+                             "path":  "eras/3/base-ally.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  3,
+                             "kind":  "base-enemy",
+                             "path":  "eras/3/base-enemy.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  4,
+                             "kind":  "battlefield",
+                             "path":  "eras/4/battlefield.png",
+                             "size":  "1600x600",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  4,
+                             "kind":  "base-ally",
+                             "path":  "eras/4/base-ally.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         },
+                         {
+                             "era":  4,
+                             "kind":  "base-enemy",
+                             "path":  "eras/4/base-enemy.png",
+                             "size":  "512x512",
+                             "sourceType":  "imagegen",
+                             "author":  "OpenAI ImageGen",
+                             "license":  "독자 생성 이미지; 제3자 게임 아트 원본 미사용"
+                         }
+                     ],
+    "rejectedAssets":  [
+
+                       ],
+    "credits":  [
+                    {
+                        "titleKo":  "전선의 시대 독자 군단·전장·기지 아트",
+                        "creator":  "OpenAI ImageGen",
+                        "license":  "독자 생성 이미지; 제3자 캐릭터 원본 미사용",
+                        "sourceUrl":  [
+                                          "https://openai.com/academy/image-generation/",
+                                          "https://openai.com/policies/terms-of-use/"
+                                      ],
+                        "assetPaths":  [
+                                           "units/armored_breacher.png",
+                                           "portraits/armored_breacher.png",
+                                           "units/armored_fighter.png",
+                                           "portraits/armored_fighter.png",
+                                           "units/armored_howitzer.png",
+                                           "portraits/armored_howitzer.png",
+                                           "units/armored_marksman.png",
+                                           "portraits/armored_marksman.png",
+                                           "units/armored_rifleman.png",
+                                           "portraits/armored_rifleman.png",
+                                           "units/armored_tank.png",
+                                           "portraits/armored_tank.png",
+                                           "units/citadel_engineer.png",
+                                           "portraits/citadel_engineer.png",
+                                           "units/citadel_heavy_crossbow.png",
+                                           "portraits/citadel_heavy_crossbow.png",
+                                           "units/citadel_knight.png",
+                                           "portraits/citadel_knight.png",
+                                           "units/citadel_longbow.png",
+                                           "portraits/citadel_longbow.png",
+                                           "units/citadel_pikeman.png",
+                                           "portraits/citadel_pikeman.png",
+                                           "units/citadel_trebuchet.png",
+                                           "portraits/citadel_trebuchet.png",
+                                           "units/pioneer_battering_ram.png",
+                                           "portraits/pioneer_battering_ram.png",
+                                           "units/pioneer_crossbow.png",
+                                           "portraits/pioneer_crossbow.png",
+                                           "units/pioneer_field_medic.png",
+                                           "portraits/pioneer_field_medic.png",
+                                           "units/pioneer_longbow.png",
+                                           "portraits/pioneer_longbow.png",
+                                           "units/pioneer_rider.png",
+                                           "portraits/pioneer_rider.png",
+                                           "units/pioneer_spearman.png",
+                                           "portraits/pioneer_spearman.png",
+                                           "units/powder_dragoon.png",
+                                           "portraits/powder_dragoon.png",
+                                           "units/powder_field_cannon.png",
+                                           "portraits/powder_field_cannon.png",
+                                           "units/powder_grenadier.png",
+                                           "portraits/powder_grenadier.png",
+                                           "units/powder_line_infantry.png",
+                                           "portraits/powder_line_infantry.png",
+                                           "units/powder_musketeer.png",
+                                           "portraits/powder_musketeer.png",
+                                           "units/powder_sapper.png",
+                                           "portraits/powder_sapper.png",
+                                           "units/transcendent_beam_trooper.png",
+                                           "portraits/transcendent_beam_trooper.png",
+                                           "units/transcendent_drone_swarm.png",
+                                           "portraits/transcendent_drone_swarm.png",
+                                           "units/transcendent_energy_support.png",
+                                           "portraits/transcendent_energy_support.png",
+                                           "units/transcendent_exosuit.png",
+                                           "portraits/transcendent_exosuit.png",
+                                           "units/transcendent_hover_rider.png",
+                                           "portraits/transcendent_hover_rider.png",
+                                           "units/transcendent_railgun.png",
+                                           "portraits/transcendent_railgun.png",
+                                           "enemies/bastion_walker.png",
+                                           "portraits/bastion_walker.png",
+                                           "enemies/breach_cart.png",
+                                           "portraits/breach_cart.png",
+                                           "enemies/burrow_tank.png",
+                                           "portraits/burrow_tank.png",
+                                           "enemies/command_mech.png",
+                                           "portraits/command_mech.png",
+                                           "enemies/iron_colossus.png",
+                                           "portraits/iron_colossus.png",
+                                           "enemies/pike_block.png",
+                                           "portraits/pike_block.png",
+                                           "enemies/scavenger_scout.png",
+                                           "portraits/scavenger_scout.png",
+                                           "enemies/siege_automaton.png",
+                                           "portraits/siege_automaton.png",
+                                           "enemies/signal_jammer.png",
+                                           "portraits/signal_jammer.png",
+                                           "enemies/vulture_drone.png",
+                                           "portraits/vulture_drone.png",
+                                           "eras/0/battlefield.png",
+                                           "eras/0/base-ally.png",
+                                           "eras/0/base-enemy.png",
+                                           "eras/1/battlefield.png",
+                                           "eras/1/base-ally.png",
+                                           "eras/1/base-enemy.png",
+                                           "eras/2/battlefield.png",
+                                           "eras/2/base-ally.png",
+                                           "eras/2/base-enemy.png",
+                                           "eras/3/battlefield.png",
+                                           "eras/3/base-ally.png",
+                                           "eras/3/base-enemy.png",
+                                           "eras/4/battlefield.png",
+                                           "eras/4/base-ally.png",
+                                           "eras/4/base-enemy.png"
+                                       ]
+                    },
+                    {
+                        "titleKo":  "Ninja Adventure 전투 효과·음향·배경음악",
+                        "creator":  "Pixel-Boy, AAA",
+                        "license":  "CC0 1.0 Universal",
+                        "sourceUrl":  [
+                                          "https://pixel-boy.itch.io/ninja-adventure-asset-pack",
+                                          "https://creativecommons.org/publicdomain/zero/1.0/"
+                                      ],
+                        "assetPaths":  [
+                                           "../fx/explosion.png",
+                                           "../fx/spark.png",
+                                           "../fx/smoke.png",
+                                           "../fx/shield-blue.png",
+                                           "../audio/bgm/lobby.ogg",
+                                           "../audio/bgm/battle.ogg",
+                                           "../audio/bgm/boss.ogg",
+                                           "../audio/sfx/attack-aoe.ogg",
+                                           "../audio/sfx/hit-strong.ogg",
+                                           "../audio/sfx/buff.ogg",
+                                           "../audio/sfx/monster-die.ogg",
+                                           "../audio/bgm/lobby.mp3",
+                                           "../audio/bgm/battle.mp3",
+                                           "../audio/bgm/boss.mp3",
+                                           "../audio/sfx/attack-aoe.mp3",
+                                           "../audio/sfx/hit-strong.mp3",
+                                           "../audio/sfx/buff.mp3",
+                                           "../audio/sfx/monster-die.mp3"
+                                       ],
+                        "licenseFile":  "../../licenses/ninja-adventure-CC0.txt",
+                        "conversionNoteKo":  "같은 원본 Ogg를 MP3로 변환한 대안을 함께 제공한다. 동일 제작자와 라이선스를 적용하며 새로운 음향을 합성하지 않았다."
+                    },
+                    {
+                        "titleKo":  "Kenney Sci-fi Sounds 전투 효과음",
+                        "creator":  "Kenney Vleugels (Kenney.nl)",
+                        "license":  "CC0 1.0 Universal",
+                        "sourceUrl":  [
+                                          "https://kenney.nl/assets/sci-fi-sounds",
+                                          "https://creativecommons.org/publicdomain/zero/1.0/"
+                                      ],
+                        "assetPaths":  [
+                                           "../audio/sfx/scifi-explosionCrunch_000.ogg",
+                                           "../audio/sfx/scifi-impactMetal_000.ogg",
+                                           "../audio/sfx/scifi-lowFrequency_explosion_000.ogg",
+                                           "../audio/sfx/scifi-laserSmall_000.ogg",
+                                           "../audio/sfx/scifi-laserLarge_000.ogg",
+                                           "../audio/sfx/scifi-forceField_000.ogg",
+                                           "../audio/sfx/scifi-explosionCrunch_000.mp3",
+                                           "../audio/sfx/scifi-impactMetal_000.mp3",
+                                           "../audio/sfx/scifi-lowFrequency_explosion_000.mp3",
+                                           "../audio/sfx/scifi-laserSmall_000.mp3",
+                                           "../audio/sfx/scifi-laserLarge_000.mp3",
+                                           "../audio/sfx/scifi-forceField_000.mp3"
+                                       ],
+                        "licenseFile":  "../../licenses/kenney-sci-fi-sounds.txt",
+                        "conversionNoteKo":  "같은 원본 Ogg를 MP3로 변환한 대안을 함께 제공한다. 동일 제작자와 라이선스를 적용하며 새로운 음향을 합성하지 않았다."
+                    },
+                    {
+                        "titleKo":  "Residue 발사·폭발 효과음",
+                        "creator":  "FacadeGaikan",
+                        "license":  "CC0 1.0 Universal",
+                        "sourceUrl":  [
+                                          "https://opengameart.org/content/residue-sfx",
+                                          "https://creativecommons.org/publicdomain/zero/1.0/"
+                                      ],
+                        "assetPaths":  [
+                                           "../audio/sfx/residue-gunburst.ogg",
+                                           "../audio/sfx/residue-blast.ogg",
+                                           "../audio/sfx/residue-gunburst.mp3",
+                                           "../audio/sfx/residue-blast.mp3"
+                                       ],
+                        "licenseFile":  "../../licenses/residue-sfx-CC0.txt",
+                        "conversionNoteKo":  "같은 원본 Ogg를 MP3로 변환한 대안을 함께 제공한다. 동일 제작자와 라이선스를 적용하며 새로운 음향을 합성하지 않았다."
+                    },
+                    {
+                        "titleKo":  "Pretendard 한글 글꼴",
+                        "creator":  "길형진 (Kil Hyung-jin) 및 Pretendard contributors",
+                        "license":  "SIL Open Font License 1.1",
+                        "sourceUrl":  [
+                                          "https://github.com/orioncactus/pretendard",
+                                          "https://openfontlicense.org/"
+                                      ],
+                        "assetPaths":  [
+                                           "../fonts/Pretendard-Regular.subset.woff2",
+                                           "../fonts/Pretendard-SemiBold.subset.woff2"
+                                       ],
+                        "licenseFile":  "../../licenses/Pretendard_OFL.txt"
+                    },
+                    {
+                        "titleKo":  "Phaser 게임 프레임워크",
+                        "creator":  "Phaser",
+                        "license":  "MIT",
+                        "sourceUrl":  [
+                                          "https://github.com/phaserjs/phaser"
+                                      ],
+                        "assetPaths":  [
+
+                                       ]
+                    }
+                ]
+}
