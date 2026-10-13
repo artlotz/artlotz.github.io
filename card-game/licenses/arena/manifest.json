@@ -331,6 +331,78 @@
       "license": "CC0 1.0 Universal",
       "sourceUrl": "https://opengameart.org/content/fantasy-rpg-icons-2",
       "transform": "WebP 256x256, Lanczos3 resize, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-changban-bridge.webp",
+      "source": "mountain_bridge_render_frame_a.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-round-table.webp",
+      "source": "mountain_cathedralinterior_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-huaguo-village.webp",
+      "source": "mountain_village_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-dragon-gate.webp",
+      "source": "dragonsruins_atrium_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-yellow-field.webp",
+      "source": "plains_fork_render_frame_a.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-merlin-inn.webp",
+      "source": "mountain_innhouse_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-crete-labyrinth.webp",
+      "source": "dragonsruins_labyrinth_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
+    },
+    {
+      "path": "art/arena/locations/ar-loc-underworld.webp",
+      "source": "dragonsruins_ribcage_render.png",
+      "sourcePack": "PS1 Style RPG Pre-rendered Backgrounds",
+      "creator": "CptDrunkBear",
+      "license": "CC0 1.0 Universal",
+      "sourceUrl": "https://opengameart.org/content/ps1-style-rpg-pre-rendered-backgrounds",
+      "transform": "WebP, 최대 폭 512px, quality 88"
     }
   ]
 }
