@@ -1,0 +1,76 @@
+{
+  "version": "AR31",
+  "method": "OpenAI 내장 imagegen으로 각 주제를 개별 생성한 독자 일러스트",
+  "size": {
+    "width": 450,
+    "height": 675
+  },
+  "encoding": "WebP 품질88",
+  "notes": "유명 사물은 각각 별도 주제다. 에펠탑은 낮 구조로 제작했다. 기존 사진·현대 캐릭터 표현·군부대 표장·제조사 로고를 복사하지 않았다. 프롬프트는 원문을 보존한다.",
+  "assets": [
+    {
+      "file": "sejong.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Sejong the Great of Joseon, dignified thoughtful Korean king in deep crimson royal robe and black traditional winged hat, holding a blank bound book in a sunlit wooden Korean palace study, benevolent mature face, red/gold palette, original historical interpretation."
+    },
+    {
+      "file": "yisunshin.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Admiral Yi Sun-sin, commanding Korean admiral in late16thcentury lamellar armor and helmet, clear wise face, sea wind on an old naval deck and ocean horizon, blue steel/bronze palette, original historical interpretation."
+    },
+    {
+      "file": "jangyeongsil.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Jang Yeong-sil, Korean inventor in modest ivory and indigo Joseon scholar clothes, warm curious human face, crafting a small bronze astronomical instrument in a wood workshop, amber/indigo palette."
+    },
+    {
+      "file": "seondeok.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Queen Seondeok of ancient Silla, regal Korean woman in violet and jade royal silk attire with a delicate historical golden crown, poised human face amid a sunlit Korean garden and stone observatory in distance, lavender/emerald palette, original interpretation."
+    },
+    {
+      "file": "cleopatra.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Cleopatra, intelligent regal Egyptian queen in ivory linen and lapis-blue jewelry, no modern actor likeness, compelling dark-haired human face, Nile sunrise palace terrace, turquoise/gold palette, historical artistic interpretation."
+    },
+    {
+      "file": "leonardo.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Leonardo da Vinci, thoughtful elderly European inventor with long silver hair and beard, burgundy scholar robe, blank notebooks and small geometric wooden mechanisms on workbench, Florentine workshop daylight, warm sienna palette, original interpretation."
+    },
+    {
+      "file": "joanofarc.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Joan of Arc, determined young medieval French woman with short brown hair in silver plate armor, holding a plain spear with an unmarked banner, sunrise meadow, blue silver and warm white palette, heroic calm human face, no modern movie likeness."
+    },
+    {
+      "file": "harriettubman.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom20percent used by name overlay. Artwork fills canvas. Single historical figure Harriet Tubman, resolute African American woman in modest19thcentury deep green coat and headscarf, guiding a woodland path toward dawn, clear compassionate courageous face, green/gold palette, original historical interpretation."
+    },
+    {
+      "file": "eiffel-tower.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Eiffel Tower, recognizable iron lattice tower in DAYTIME clear blue Paris sky and ordinary green park, entire tower visible, no electric lights, no twinkling illuminations, no night lighting design, copper iron and blue palette."
+    },
+    {
+      "file": "giza-pyramid.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Great Pyramid of Giza as a single monumental stone pyramid in sunlit Egyptian desert, visible weathered limestone blocks and immense triangular silhouette, dramatic low perspective, sand gold and cobalt sky palette."
+    },
+    {
+      "file": "seven-branched-sword.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Historical seven-branched sword, dark aged iron straight central blade with three angular side branches on EACH side (six sidebranches pluscentralblade), simple hilt, single complete artefact presented diagonally against burgundy silk and faint museum-like warm light, no inscriptions."
+    },
+    {
+      "file": "turtle-ship.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Single Korean16thcentury geobukseon turtle ship, recognizable low enclosed wooden armored roof and dragonhead bow, many oars, riding teal sea waves at dawn, clear fullship portrait framing and no human foreground, bronze/teal palette."
+    },
+    {
+      "file": "f35.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Single F-35A fighter aircraft, recognizable modern gray stealth jet with one engine and two outward-canted vertical tails, three-quarter front aerial view diagonally banking above pale clouds in bright daylight, entire aircraft visible, no national insignia, no manufacturer logo, slate blue/silver palette. Original artistic rendering of the aircraft, not a copied photo."
+    },
+    {
+      "file": "benz-motorwagen.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Single original1886 Benz Patent-Motorwagen, recognizable pioneering three-wheeled open carriage with large spoke wheels, bench seat, exposed early engine, no driver, standing on sunlit cobblestones, fullvehicle as focal subject, no brand logos, warm sepia/forestgreen palette."
+    },
+    {
+      "file": "wright-flyer.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Single1903 Wright Flyer, wood-and-fabric canard biplane with two rear pusher propellers, flying low over coastal sand dunes under pale blue sky, whole aircraft visible in dramatic perspective, no people as subject, ivory and skyblue palette."
+    },
+    {
+      "file": "galileo-telescope.webp",
+      "prompt": "Create ONE original vertical2:3 collectible strategy card illustration depicting ONE famous real-world OBJECT as its own hero subject, NOT a person or humanoid, no montage of different machines. No text, numbers, frame, trademarks, manufacturer logos, military insignia, or copied-photo composition. Polished painterly realism with accurate recognizable object silhouette, clear at90px wide. Whole primary object centered, important features clear of top corners and bottom20percent for game overlays. Single early17thcentury Galilean refracting telescope, long narrow wood/leather-covered tube on simple wooden support, near an open Renaissance window looking into twilight stars, single instrument fills portrait diagonal, no otherheroobject, polished copper/indigo palette."
+    }
+  ]
+}

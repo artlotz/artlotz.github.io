@@ -1,0 +1,36 @@
+{
+  "id": "./",
+  "name": "만상록: 전략 카드 배틀",
+  "short_name": "만상록",
+  "description": "시공을 넘는 전략 카드 배틀 · THE MYRIAD CODEX · Strategic Card Battles Across the Ages",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#08111d",
+  "background_color": "#08111d",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

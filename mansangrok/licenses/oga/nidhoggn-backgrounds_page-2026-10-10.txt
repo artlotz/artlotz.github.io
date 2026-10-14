@@ -1,0 +1,41 @@
+Backgrounds by Nidhoggn (additional record for M9, WP-33)
+Source: https://opengameart.org/content/backgrounds-3
+Checked: 2026-10-10 (page text copied as shown on the OpenGameArt page; the earlier summary is nidhoggn-backgrounds_CC0.txt)
+
+Page text:
+  Title:        Backgrounds
+  Author:       Nidhoggn
+  Submitted:    Tuesday, November 28, 2017 - 18:03
+  License(s):   CC0
+  Description:  "backgrounds for RPG battle  Patreon : https://www.patreon.com/nidhoggn  Twitter : https://twitter.com/nidhoggn  Enjoy :)"
+  File(s):      BG 2.0.7z 8.9 Mb, battleback1.png ... battleback10.png
+
+Archive check: BG 2.0.7z (8,928,258 bytes) was downloaded 2026-10-10 into an empty folder outside the repository and extracted.
+It holds only images (BG/battleback1~10.png and BG/Paralax/*.png, 33 files). It has NO license or readme file,
+so the CC0 statement on the page is the only license statement for these images.
+Hash check of the files this game uses (sha256 of the standalone files on the page, downloaded 2026-10-10):
+  battleback1.png af41cd9bcce33366d8c218a82f16bb08b7838d4d0f80182a1059b968d20f182f  (same bytes as the file used on 2026-10-09; the copy inside BG 2.0.7z differs, 728,238 bytes)
+  battleback5.png b7cc0437acbe5e4d697d34c71d927b374c4281b1a986fb03cd51585f0f7054df  (identical in the page file, the 2026-10-09 file and the archive)
+Used in this game: battleback1.png and battleback5.png only, both already in use since M1; M9 adds colour-graded copies
+battle-forest-night, battle-forest-bamboo (from battleback1) and battle-cave-blue (from battleback5).
+
+Added for M10 (WP-39), 2026-10-10: the page was opened again (licence badge CC0, description and file list unchanged; the 9 comments, 2017 to 2018, are
+praise and a request for a zip, none states a condition). battleback2.png and battleback3.png were downloaded from the page into an empty folder
+outside the repository and are byte-for-byte the copies that were already on the local disk (downloaded 2026-10-09) (sha256):
+  battleback2.png e49290e53bbd5d48f91c7e2ee5349594263dd224f43f92e45083fb5b3f58916f  (snow field, 1105x620)
+  battleback3.png 9e1a33a1a80c05580709d5633e33c81e88c6c365b5b88aaec07534d3ff5ef94e  (desert, 1105x620)
+Used in M10: battleback3.png -> battle-desert (WebP only), battleback2.png -> battle-snow (WebP only) and battle-snow-dusk (purple dusk grade).
+Note on the page: a 2021 comment warns that someone re-sells colour-shifted copies on itch.io; CC0 allows that and it does not affect this game.
+
+Added for M11 (WP-45), 2026-10-10: the page was opened again (licence badge CC0, description and file list unchanged) and all 23 comments
+(2017-11-28 to 2022-11-12) were read in full: praise, the zip and parallax requests (answered "added"), the 2021 resale warning above and its replies
+(the resold copy only lowered the colour quality), and two game links; none states a condition, a fee or a credit requirement.
+battleback7.png, battleback8.png and battleback9.png were downloaded from the page into an empty folder outside the repository and are
+byte-for-byte the copies that were already on the local disk (downloaded 2026-10-09) (sha256):
+  battleback7.png d8d52c61e4a0a96b7dd2c79c315beb327f52ac281f530026ad9440f1ff4057af  (red maple forest, 1104x621)
+  battleback8.png 6f69a97e6030fd93b3e96aac1b337a7fd93b92d7696b5b2458bfca564f1d7871  (stone dungeon with torches, 1104x621)
+  battleback9.png af627968be55852cb92efbba0aa13ca8709a09468d23f644f8e7996c5ba2b995  (arena, 1104x621)
+Used in M11 (the 4th chapter): battleback7.png -> battle-redwood (WebP only), battleback9.png -> battle-arena (WebP only) and
+lobby-fortress (pale rose-stone grade, the 4th chapter map), battleback8.png -> battle-dungeon-blood (blood-red grade),
+battleback5.png -> battle-cave-lava (lava grade, a third grade of the cave picture besides battle-cave and battle-cave-blue).
+CC0 1.0 legal code: see ../cc0-1.0.txt

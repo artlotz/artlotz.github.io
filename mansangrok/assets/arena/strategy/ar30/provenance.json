@@ -1,0 +1,104 @@
+{
+  "설명": "AR30 신규 카드 12장의 원화. 기본 제공 image_gen 도구로 카드별 개별 생성 후 WebP 변환. 기존 캐릭터의 현대 작품 디자인을 참조하지 않고 고전 인물 및 전승을 새롭게 묘사했다.",
+  "생성일": "2026-10-14",
+  "방식": "imagegen 스킬 / built-in image_gen / 카드별 1회 / 불투명 세로 2:3",
+  "가공": "sharp Lanczos3 450x675 WebP quality88. 글자와 UI 프레임은 게임에서 별도로 표시한다.",
+  "카드": [
+    {
+      "id": "ar-strategy-ludongbin-return",
+      "파일": "ludongbin-return.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 99438,
+      "prompt": "Create ONE original portrait fantasy strategy card illustration, vertical 2:3 format, no lettering, no frame, no numbers, no logo. Subject: Lü Dongbin, classical Chinese Daoist immortal, elegant mature male sage with flowing white and teal robes, bamboo-bound sword returning into his open hand, mist mountain pavilion, warm jade and cyan palette, full upper body and calm expressive human face unobscured near upper center. Painterly detailed collectible card illustration with clear silhouette that remains readable at 90px wide, diverse attractive human character, original interpretation of public-domain folklore; do not resemble any modern franchise or film. Art fills canvas, focal details kept clear of top corners and bottom 20 percent used by game name overlay."
+    },
+    {
+      "id": "ar-strategy-zhuangzi-butterfly",
+      "파일": "zhuangzi-butterfly.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 83936,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail but bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Human variety, expressive appealing character, original public-domain myth interpretation. Zhuangzi, ancient Chinese philosopher in loose indigo robes, gentle smiling thoughtful face, a luminous huge butterfly rising from his sleeve, dreamlike moon garden; purple blue and silver palette."
+    },
+    {
+      "id": "ar-strategy-caiwenji-resonance",
+      "파일": "caiwenji-resonance.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 80430,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail but bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Human variety, expressive appealing character, original public-domain myth interpretation. Cai Wenji, dignified young ancient Chinese poet-musician with dark hair in refined cream and burgundy Han robes, playing a wooden guqin, open mountain pass and migrating cranes; amber red palette."
+    },
+    {
+      "id": "ar-strategy-pan-dance",
+      "파일": "pan-dance.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 128712,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail but bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Human variety, expressive appealing character, original public-domain myth interpretation. Pan, classical Greek woodland deity, charming joyful curly-haired satyr with small horns, playing reed pipes in a lush forest dance, green leaves and golden sun, vibrant natural green palette; no monstrous face."
+    },
+    {
+      "id": "ar-strategy-huangzhong-bow",
+      "파일": "huangzhong-bow.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 84818,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail but bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Human variety, expressive appealing character, original public-domain myth interpretation. Huang Zhong, noble elderly Chinese general with white beard and bronze ceremonial armor, drawing a longbow on a rocky ridge, gold ochre and dusk violet; clear strong heroic face."
+    },
+    {
+      "id": "ar-strategy-achilles-spear",
+      "파일": "achilles-spear.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 90082,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail but bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Human variety, expressive appealing character, original public-domain myth interpretation. Achilles, attractive youthful ancient Greek warrior with bronze helmet raised to show expressive face, holding ashwood spear and round shield, windswept Aegean shore, bright copper blue palette."
+    },
+    {
+      "id": "ar-strategy-caochong-command",
+      "파일": "caochong-command.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 85560,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail, bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Appealing expressive human character, original public-domain myth interpretation. Cao Chong, clever youthful Chinese prince wearing understated blue Han silk robe with an ivory scroll, standing beside an ancient river weighing barge with a distant elephant; composed intelligent youthful face, blue jade and ivory palette."
+    },
+    {
+      "id": "ar-strategy-huatuo-herbs",
+      "파일": "huatuo-herbs.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 83276,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail, bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Appealing expressive human character, original public-domain myth interpretation. Hua Tuo, kind elderly Chinese physician with silver beard and simple olive linen robes, carrying basket of medicinal herbs, reaching out an herb in bright medicinal garden, gentle human face, olive and cream palette."
+    },
+    {
+      "id": "ar-strategy-mazu-return",
+      "파일": "mazu-return.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 97812,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail, bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Appealing expressive human character, original public-domain myth interpretation. Mazu, beautiful regal Chinese sea goddess in flowing red and pearl robes, benevolent peaceful face beneath tasteful traditional crown, guiding three small luminous sails through aquamarine ocean spray, sunrise red turquoise palette."
+    },
+    {
+      "id": "ar-strategy-baiqi-charge",
+      "파일": "baiqi-charge.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 89000,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail, bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Appealing expressive human character, original public-domain myth interpretation. Bai Qi, ancient Qin general with stern human face, dark charcoal lamellar armor and red cloak, leading distant troops through mountain gate, long spear, cinematic slate and crimson palette, no monsters."
+    },
+    {
+      "id": "ar-strategy-zhouyu-fire",
+      "파일": "zhouyu-fire.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 92590,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail, bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Appealing expressive human character, original public-domain myth interpretation. Zhou Yu, elegant confident young Chinese commander in ornate white silver armor and red sash, sword drawn on ship deck with distant Red Cliffs flames, expressive clear face, fire orange and navy palette."
+    },
+    {
+      "id": "ar-strategy-xiwangmu-orchard",
+      "파일": "xiwangmu-orchard.webp",
+      "width": 450,
+      "height": 675,
+      "bytes": 96968,
+      "prompt": "Create ONE original vertical 2:3 portrait collectible fantasy strategy card illustration. Painterly detail, bold readable silhouette at 90px width. No text, numbers, borders, logos, or modern franchise likeness. Face and upper-body readable, top corners and bottom 20 percent visually quiet for game overlays. Appealing expressive human character, original public-domain myth interpretation. Xi Wangmu, dignified beautiful immortal queen with black hair and jade crown, luxurious lavender and rose robes, holding a glowing peach amidst a blooming magical orchard at dusk, clear compassionate face, lavender gold rose palette."
+    }
+  ]
+}
