@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-21",
+  "generator": "OpenAI built-in image_gen (Codex CLI codex exec)",
+  "reason": "카드 명실상부 점검: 같은 인물 불일치·상징물·문화권·제목·화풍 문제 카드를 다시 그림. 사용자 지시로 AI 사실화풍 대신 네 화풍(목판화·그래픽 노블·채색 필사본·과슈 포스터)을 카드 순서대로 1,2,3,4 다음 3,2,4,1 순환으로 배정.",
+  "entries": [
+    {
+      "cardId": "ar-strategy-arthur-oath",
+      "name": "아서왕·영웅의 서약",
+      "style": "목판화",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d56-0e64-7402-83e6-e9bc503a98fc\\exec-16e519fb-a2d9-496a-a9ba-4edd5a6e70c5.png",
+      "sha256": "cd534675ec3d1a71153ab62de1578a8d6f11c88029d33da7b017a3a525f12483",
+      "target": "assets/arena/strategy/ar28/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/strategy/ar28/atlas.webp의 2열 3행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: KING ARTHUR of Arthurian legend, crowned, short wavy auburn hair and a trimmed auburn beard, steel plate armour under a deep-blue royal cloak with gold trim. He holds his sword upright before him, blade point down, while kneeling knights in plain armour lay their hands on it to swear an oath of loyalty. A castle and a lake behind. Solemn, noble mood.\n\nStyle: hand-carved colour woodblock print, a fusion of an East Asian festival woodblock print and a European chiaroscuro woodcut. Bold carved black keylines, flat areas of only 5-6 inks (vermilion, indigo, ochre, jade green, ivory, black), visible wood grain and paper fibre texture, slight ink misregistration. No gradients, no photorealism, no 3D rendering.\n"
+    },
+    {
+      "cardId": "ar-ember-guide",
+      "name": "항우·패왕의 힘",
+      "style": "그래픽 노블",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d54-eada-74f1-85bf-4aa9bdea6e66\\exec-456ffa54-f0c9-4b76-893f-daf575ea2b4f.png",
+      "sha256": "1ca3556826e6ac92d6c55bf46130f9a0eb6ed9ca99673b853165501437dbb2fd",
+      "target": "assets/arena/classics/chu-han/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/classics/chu-han/atlas.webp의 0열 0행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: XIANG YU, the Hegemon-King of Western Chu, a towering warrior of immense strength with a full black beard, fierce eyes, red headband, black and red lamellar armour and a fur-trimmed cloak, lifting a huge bronze ritual tripod cauldron (ding) above his head with both arms to show superhuman strength. Chu army banners behind him.\n\nStyle: graphic-novel ink illustration like a modern prestige comic cover. Heavy confident brush-ink blacks, dramatic chiaroscuro shapes, simplified planes, only three spot colours (vermilion, cold teal, bone ivory) over large black areas. Strong silhouette and expressive exaggeration. No painterly realism, no soft airbrush, no photographic lighting.\n"
+    },
+    {
+      "cardId": "ar-strategy-xiangyu-sacrifice",
+      "name": "항우·파부침주",
+      "style": "채색 필사본",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d56-3f19-78f1-ac60-bf9c80bf6e87\\exec-1509a863-005c-4402-a6f5-ea31061f8d73.png",
+      "sha256": "9724abd8322dc3442164e3d6c0944ff45d8bfae32ad4ec7e2be0373a825497f8",
+      "target": "assets/arena/strategy/ar28/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/strategy/ar28/atlas.webp의 1열 1행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: XIANG YU, Hegemon-King of Western Chu, full black beard, black and red lamellar armour, having crossed the river he orders his army to break the cooking pots and sink the boats: he smashes a bronze cooking cauldron with his halberd while the river boats burn and sink behind him, his soldiers ready to fight with no way back.\n\nStyle: illuminated manuscript miniature painting. Flat tempera on aged parchment, gold leaf sky and gilded details, decorative patterned ground, stylised proportions and slightly flattened perspective like a medieval or Persian miniature, fine dark outlines, jewel-toned pigments (lapis blue, vermilion, malachite green). Keep the main figure large in the frame. Not realistic, no photographic lighting.\n"
+    },
+    {
+      "cardId": "ar-classic-loki-shapechanger",
+      "name": "로키·변신술",
+      "style": "과슈 포스터",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d53-f1cb-7291-8ca9-7c6486d12292\\exec-3cbd60ed-8824-4852-ad63-63b44749c1aa.png",
+      "sha256": "5ed9899e223aa8b56e454dfe7f665b7b52de66c3b3f67ea8e39ed78915484032",
+      "target": "assets/arena/classics/norse/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/classics/norse/atlas.webp의 2열 1행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: LOKI, the Norse trickster god, clearly a MAN: a lean young man with a sly grin, curly red hair and red stubble, wearing a green and gold Norse tunic. He is in the middle of shapeshifting while leaping from a waterfall, his lower body turning into a silver salmon as he escapes. Norse mountain river.\n\nStyle: mid-century gouache poster illustration. Big simplified bold shapes, flat matte opaque gouache with visible brush texture, crisp graphic edges, a strong diagonal composition, a limited palette of five colours with one cool accent, stylised but dynamic anatomy. Absolutely no photorealism, no realistic painting, no glossy digital rendering, no fine realistic detail.\n"
+    },
+    {
+      "cardId": "ar-classic-siegfried-nibelung-hero",
+      "name": "지크프리트·용살자",
+      "style": "채색 필사본",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d53-f22e-7ee1-8fff-20222f909eae\\exec-d39d50a3-0131-4e04-b6c1-70000794df4f.png",
+      "sha256": "890a102ae13ce883b349a0f65f1109f0e089d173488f918b1ad424390f9fea52",
+      "target": "assets/arena/classics/folk-heroes/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/classics/folk-heroes/atlas.webp의 3열 1행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: SIEGFRIED, the dragon-slayer of the Nibelung legend, long golden hair, silver mail armour and a golden cloak, standing victorious with his sword Balmung raised over the slain dragon Fafnir; the Nibelung treasure hoard of gold glitters around the dragon's body in a forest cave.\n\nStyle: illuminated manuscript miniature painting. Flat tempera on aged parchment, gold leaf sky and gilded details, decorative patterned ground, stylised proportions and slightly flattened perspective like a medieval or Persian miniature, fine dark outlines, jewel-toned pigments (lapis blue, vermilion, malachite green). Keep the main figure large in the frame. Not realistic, no photographic lighting.\n"
+    },
+    {
+      "cardId": "ar-ar40-zhang-fei-bridge",
+      "name": "장비·장판교",
+      "style": "그래픽 노블",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d4c-9b3c-7d02-b7dd-99feaf6228a8\\exec-5fc0057d-ea49-4752-b6a2-e72ca5af8686.png",
+      "sha256": "38d5421581da8dbf461f9a188d9f91ae0f3c66e50ed631bd39987d5387b57aa4",
+      "target": "assets/arena/ar40/zhang-fei-bridge.webp",
+      "transform": "2:3 가운데 맞춤 → 450x675 WebP 품질88, 목록본 200x300 WebP 품질85",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThe attached image is ONLY a content reference for the subject and rough composition. Do NOT copy its rendering style.\n\nSubject: ZHANG FEI, the Three Kingdoms general, standing alone on the narrow wooden Changban bridge, roaring defiance at an enemy army across the river. Wild bristling black beard, round fierce eyes, black lacquered lamellar armor with red cords. His weapon is the Serpent Spear: a very long spear whose head is a long wavy snake-like serpentine blade. It must NOT be a broad curved glaive or crescent blade. Dust, river and distant banners behind him.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main figure must read clearly at small card size.\n\nStyle: graphic-novel ink illustration like a modern prestige comic cover. Heavy confident brush-ink blacks, dramatic chiaroscuro shapes, simplified planes, only three spot colours (vermilion, cold teal, bone ivory) over large black areas. Strong silhouette and expressive exaggeration. No painterly realism, no soft airbrush, no photographic lighting.\n"
+    },
+    {
+      "cardId": "ar-mist-priest",
+      "name": "제우스·벼락의 왕좌",
+      "style": "과슈 포스터",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d55-c165-7c40-b195-18aa342c2847\\exec-fe7ecdc0-c6ed-42a5-b87e-3a11c6fa9419.png",
+      "sha256": "adbdbdc32a9bed9897b97a09e8bf487b28bb46e2f67a9d7a6f5f95c68aed04ab",
+      "target": "assets/arena/classics/greek-roman/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/classics/greek-roman/atlas.webp의 0열 0행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: ZEUS, king of the Greek gods, white curly hair and beard, white and gold robes, seated on a marble throne on Mount Olympus, holding a blazing zigzag THUNDERBOLT raised in his right hand, lightning striking down around the throne, an eagle perched beside him. He must NOT hold a trident or any three-pronged spear.\n\nStyle: mid-century gouache poster illustration. Big simplified bold shapes, flat matte opaque gouache with visible brush texture, crisp graphic edges, a strong diagonal composition, a limited palette of five colours with one cool accent, stylised but dynamic anatomy. Absolutely no photorealism, no realistic painting, no glossy digital rendering, no fine realistic detail.\n"
+    },
+    {
+      "cardId": "ar-classic-daji-foxfire-illusion",
+      "name": "달기·여우불 환술",
+      "style": "목판화",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d53-f185-70b2-bd4c-5a0e7eda938a\\exec-1451be0f-42b0-48c0-8dd3-173d95478020.png",
+      "sha256": "923c0ae1ee23bdbd24891422cc425404470d2914291fcf3a0bce3b720bff3d79",
+      "target": "assets/arena/classics/fengshen/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/classics/fengshen/atlas.webp의 3열 1행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: DAJI, the nine-tailed fox spirit consort of the last Shang dynasty king in the Chinese novel Investiture of the Gods: a beautiful woman in ancient Chinese Shang-dynasty court robes (long layered silk robes, jade and bronze ornaments, tall hairpins), nine white fox tails fanning behind her, conjuring swirling blue-green foxfire illusions from her hands, inside a Shang palace hall with bronze ritual vessels and red lacquered pillars at night. No Japanese elements at all: no kimono, no maple leaves, no Japanese lanterns, no Japanese architecture.\n\nStyle: hand-carved colour woodblock print, a fusion of an East Asian festival woodblock print and a European chiaroscuro woodcut. Bold carved black keylines, flat areas of only 5-6 inks (vermilion, indigo, ochre, jade green, ivory, black), visible wood grain and paper fibre texture, slight ink misregistration. No gradients, no photorealism, no 3D rendering.\n"
+    },
+    {
+      "cardId": "ar-history-eiffel-tower",
+      "name": "에펠탑·전파 송신",
+      "style": "그래픽 노블",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d54-ec95-7bf1-a24a-c421582b2000\\exec-d7a17889-8750-47b7-88e8-337c9b3fdbca.png",
+      "sha256": "48279ecd47ec5076bf44f5e81239b0e8275a3522ffa343f19b5a54d2fd255fa4",
+      "target": "assets/arena/history/ar31/eiffel-tower.webp",
+      "transform": "2:3 가운데 맞춤 → 450x675 WebP 품질88, 목록본 200x300 WebP 품질85",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size.\n\nSubject: The EIFFEL TOWER in Paris around 1910 at dusk, working as a wireless radio transmission station: concentric radio waves and crackling signal arcs radiate from the antenna at its top across the sky over the Paris rooftops.\n\nStyle: graphic-novel ink illustration like a modern prestige comic cover. Heavy confident brush-ink blacks, dramatic chiaroscuro shapes, simplified planes, only three spot colours (vermilion, cold teal, bone ivory) over large black areas. Strong silhouette and expressive exaggeration. No painterly realism, no soft airbrush, no photographic lighting.\n"
+    },
+    {
+      "cardId": "ar-history-giza-pyramid",
+      "name": "기자 대피라미드·쿠푸의 무덤",
+      "style": "과슈 포스터",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d54-f817-7f70-b4b7-02cbf37a201f\\exec-5c277e65-3b98-4702-88c4-8cae56b45992.png",
+      "sha256": "860053997ca9ca00be99f45084680b93c5557009ba2ce6ac5ce1759d79bcbe81",
+      "target": "assets/arena/history/ar31/giza-pyramid.webp",
+      "transform": "2:3 가운데 맞춤 → 450x675 WebP 품질88, 목록본 200x300 WebP 품질85",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size.\n\nSubject: The GREAT PYRAMID OF GIZA, tomb of the pharaoh Khufu, as it looked when newly built, with smooth gleaming white limestone casing and a golden capstone, rising over the desert beside the Nile; its entrance sealed, a solemn guarded stillness, a small procession of ancient Egyptian priests at the base for scale.\n\nStyle: mid-century gouache poster illustration. Big simplified bold shapes, flat matte opaque gouache with visible brush texture, crisp graphic edges, a strong diagonal composition, a limited palette of five colours with one cool accent, stylised but dynamic anatomy. Absolutely no photorealism, no realistic painting, no glossy digital rendering, no fine realistic detail.\n"
+    },
+    {
+      "cardId": "ar-history-wright-flyer",
+      "name": "라이트 플라이어·거듭된 비행",
+      "style": "목판화",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d55-7c46-7ad0-bc82-f62ad0ff51a9\\exec-e5815826-7949-43db-8f6c-b5b630b3992f.png",
+      "sha256": "8588bab70a6d435d73b82d10ac6b9ff9edadcea390ea26c2b8d6e6fc9926ca42",
+      "target": "assets/arena/history/ar31/wright-flyer.webp",
+      "transform": "2:3 가운데 맞춤 → 450x675 WebP 품질88, 목록본 200x300 WebP 품질85",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size.\n\nSubject: The WRIGHT FLYER, the 1903 biplane of the Wright brothers, taking off again and again over the sand dunes of Kitty Hawk: the wood-and-fabric biplane with twin propellers in flight, faint repeated motion trails showing several successive hops, a man running beside it on the sand, sea and wind-blown dunes behind.\n\nStyle: hand-carved colour woodblock print, a fusion of an East Asian festival woodblock print and a European chiaroscuro woodcut. Bold carved black keylines, flat areas of only 5-6 inks (vermilion, indigo, ochre, jade green, ivory, black), visible wood grain and paper fibre texture, slight ink misregistration. No gradients, no photorealism, no 3D rendering.\n"
+    },
+    {
+      "cardId": "ar-classic-zhang-sanfeng-wudang-formation",
+      "name": "장삼봉·분신술",
+      "style": "채색 필사본",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a15d58-3e10-7092-a557-595db21012c0\\exec-d0cd053f-64b0-4217-907c-968f3daa63b3.png",
+      "sha256": "b8082828c107acf1d7ae25108634b7f2a3fd494b3de0580676fdb747af2eedd5",
+      "target": "assets/arena/classics/xianxia/atlas.webp",
+      "transform": "2:3 생성본을 가운데 기준 3:4로 잘라 assets/arena/classics/xianxia/atlas.webp의 3열 1행 칸과 목록 atlas 1x·2x의 같은 칸만 교체",
+      "prompt": "Use your built-in image generation tool to create exactly ONE new image. Do not create or edit any files yourself and do not run shell commands. When done, reply with only the absolute path of the generated image file.\n\nThis is a card illustration for Mansangrok, a strategy card game of mythic and historical figures. Original artwork; no likeness of any modern film, game or comic character.\n\nFormat: vertical portrait card illustration, 2:3 aspect ratio, full-bleed edge to edge. Absolutely no text, letters, numbers, frame, border, watermark or signature. The main subject must read clearly at small card size. Keep the main subject and every important detail inside the central area, because the top and bottom 6% of the image will be cropped.\n\nSubject: ZHANG SANFENG, the legendary old Taoist master of Wudang, long white beard, white hair in a topknot, grey-white Taoist robes, performing a clone technique: four clearly visible, solid copies of himself surround him, each the same size as him, sharply outlined and fully coloured like the original, each in a different taiji pose on a different ledge of the Wudang mountain peaks. The copies must read clearly at small card size: strong contrast against the background, no pale washed-out mist over the figures, the background darker and simpler than the figures.\n\nStyle: illuminated manuscript miniature painting. Flat tempera on aged parchment, gold leaf sky and gilded details, decorative patterned ground, stylised proportions and slightly flattened perspective like a medieval or Persian miniature, fine dark outlines, jewel-toned pigments (lapis blue, vermilion, malachite green). Keep the main figure large in the frame. Not realistic, no photographic lighting.\n"
+    }
+  ]
+}

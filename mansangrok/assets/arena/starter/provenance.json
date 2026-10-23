@@ -1,0 +1,109 @@
+{
+  "created": "2026-10-21",
+  "description": "?? ??? ??? 9?? ?? ?? ?? ???? ?? ??. ?? ??? ???? ?? ?? ??? ???? ???? ???.",
+  "sourcePolicy": "내장 ImageGen 출력은 원래 위치에 보존하고 프로젝트에는 WebP와 목록 축소본을 복사한다.",
+  "export": {
+    "image": {
+      "width": 450,
+      "height": 675,
+      "quality": 88
+    },
+    "imageList": {
+      "width": 144,
+      "height": 216,
+      "quality": 82
+    }
+  },
+  "entries": [
+    {
+      "cardId": "ar-starter-medusa-central-gaze",
+      "slug": "medusa-central-gaze",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-bd0e92f7-35be-40ae-9b9d-af8dd1675b2d.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "Create one finished illustration for the Korean mythology strategy card game Mansangrok. Original public-domain mythical subject, no Marvel character likenesses. Portrait aspect ratio 2:3, edge-to-edge art only, absolutely no text, lettering, card frame, border, numbers or watermark. Highly detailed cinematic realistic fantasy painting, luminous physical materials, rich atmosphere, clear large subject readable in a small card. Subject: MEDUSA, ancient Greek gorgon woman with living emerald serpents as her hair, commanding the exact central axis of an ancient symmetrical Greek temple colonnade. She is poised calmly at the center with a focused supernatural golden gaze, black-green draped robes and subtle bronze ornaments. Temple pillars on each side lead inward toward her, marble dust and muted green magical light frame her, face and snake crown sharp, lower foreground steps. New distinct art for the form 'Central Gaze', not an imitation of an existing modern franchise. Strong central composition; subject occupies most of the image.",
+      "image": "assets/arena/starter/medusa-central-gaze.webp",
+      "imageList": "assets/arena/starter/medusa-central-gaze-list.webp"
+    },
+    {
+      "cardId": "ar-starter-guan-yu-outnumbered",
+      "slug": "guan-yu-outnumbered",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-080b2b98-2489-4ac5-af22-0e9dab6c6ada.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "Create a finished original mythology card illustration, one image, portrait 2:3, edge-to-edge with no card frame or words or numbers or watermark. Cinematic realistic historical fantasy painting for the Korean strategy game Mansangrok. Subject: Guan Yu, recognizable Chinese Three Kingdoms warrior with long black beard, green battle robes and antique lamellar armor, wielding the broad crescent blade of his green dragon polearm. He stands firmly against many shadowy enemy spear soldiers approaching from both sides of a misty stone fortress bridge. Calm unbreakable expression, powerful central waist-up to full-body three-quarter pose, face sharply readable, broad diagonal blade glints toward upper corner, dusk crimson banners and cool teal mist, dramatic warm rim light on worn bronze metal. Theme: one warrior grows stronger when outnumbered. Realistic textures, painterly drama, strong silhouette visible in a small card. Public-domain historical character only; no modern franchise designs or insignia.",
+      "image": "assets/arena/starter/guan-yu-outnumbered.webp",
+      "imageList": "assets/arena/starter/guan-yu-outnumbered-list.webp"
+    },
+    {
+      "cardId": "ar-starter-hermes-dawn",
+      "slug": "hermes-dawn",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-1d6bbd2c-1963-490c-aab0-06ddd68ddcdb.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "One original finished fantasy trading card illustration, portrait 2:3, full bleed art only, no text or numbers or frame or border or watermark. Public-domain ancient Greek god HERMES as the herald of dawn, young athletic adult messenger with curly dark hair, winged bronze sandals and small winged travel cap, cream traveling cloak, simple antique Greek clothing. He has just landed lightly at the sunlit entrance of an ancient city before everyone else, carrying a gold herald's staff. Dynamic graceful diagonal full figure, one winged sandal prominent lower foreground, warm dawn rays streak behind him through cool clouds, readable focused face in upper third. Cinematic realistic fantasy painting with beautiful tangible bronze, cloth and stone, crisp subject, rich luminous atmosphere. A swift prepared messenger that is present from the beginning. Original mythological portrayal, not any modern superhero or franchise.",
+      "image": "assets/arena/starter/hermes-dawn.webp",
+      "imageList": "assets/arena/starter/hermes-dawn-list.webp"
+    },
+    {
+      "cardId": "ar-starter-talos-bronze-guard",
+      "slug": "talos-bronze-guard",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-9b8e12f5-0846-41ae-9edd-058a48a080e7.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "One original finished fantasy card illustration, portrait 2:3, full bleed, no text no letters no numbers no frame no watermark. Ancient Greek myth TALOS the colossal bronze automaton guard of Crete, a monumental humanoid entirely cast from aged bronze with visible bronze joints, abstract severe sculpted Greek face, not a living man or modern robot. He stands in a protective stance outside a seaside palace, raising one arm like a rampart, and a second smaller identical bronze sentinel can be seen emerging from a glowing ancient foundry doorway far behind him. Theme: another sentinel can always be summoned. Original public-domain myth design, no Marvel or superhero likeness, no science-fiction lasers. Cinematic realistic mythological painting, strong copper and patina surface highlights against deep blue stormy sea and orange forge glow, central heroic figure readable at small size, detailed ancient masonry and cliffs, dramatic perspective.",
+      "image": "assets/arena/starter/talos-bronze-guard.webp",
+      "imageList": "assets/arena/starter/talos-bronze-guard-list.webp"
+    },
+    {
+      "cardId": "ar-starter-zhou-yu-insight",
+      "slug": "zhou-yu-insight",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-363240c0-7ef4-437f-8e60-164ffc86c92a.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "One original finished historical fantasy card illustration, vertical portrait 2:3, full bleed art only, no text letters numbers frame border or watermark. Zhou Yu, handsome composed adult Chinese general of the Three Kingdoms era, wearing elegant red and bronze lamellar armor and a dark crimson cloak, holding a command fan at chest height. He gazes shrewdly across a river battlefield, correctly predicting enemy boats emerging from a ribbon of mist directly ahead. Confident strategic expression, sharply rendered face and ornate helmet, bridge rail in foreground, dim enemy fleet silhouettes behind, brilliant ember-orange rim light and blue-gray mist. Cinematic realistic painting, rich material detail, strong readable half-body composition suitable for a small card. Original public-domain historical portrayal, no modern superhero franchise likeness, no copied commercial game designs.",
+      "image": "assets/arena/starter/zhou-yu-insight.webp",
+      "imageList": "assets/arena/starter/zhou-yu-insight-list.webp"
+    },
+    {
+      "cardId": "ar-starter-ruyi-jingu-bang-reach",
+      "slug": "ruyi-jingu-bang-reach",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-b3c5dc9e-cd41-48ac-b37a-866a23bc6ef3.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "One original finished fantasy strategy card illustration, portrait 2:3, art only full bleed without any text, characters, lettering, numbers, frame, border or watermark. The public-domain Chinese mythological object Ruyi Jingu Bang, Sun Wukong's magical golden-banded iron staff, is the sole heroic subject, no human figure. A long elegant dark iron pole with richly ornamented gold endcaps extends diagonally from the huge near foreground across the middle distance toward adjacent floating mountain temples on both sides, symbolizing its ability to reach and support neighboring places. Both gold ends clearly visible, one large in the lower foreground, the distant one glowing in cloud light. Sweeping pale turquoise and gold ribbons of cloud magic link the rocky mountain terraces, sunrise through Chinese mountain mist, detailed gold carving but no written symbols. Cinematic realistic mythological painting, sumptuous metal textures, clear clean striking silhouette readable at small size, dramatic scale and perspective, original design without modern franchise imitation.",
+      "image": "assets/arena/starter/ruyi-jingu-bang-reach.webp",
+      "imageList": "assets/arena/starter/ruyi-jingu-bang-reach-list.webp"
+    },
+    {
+      "cardId": "ar-starter-iris-rainbow",
+      "slug": "iris-rainbow",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-86b976f9-5e7f-4c4a-a434-d418db5fb882.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "A finished original illustration for a mythological fantasy strategy card game, portrait 2:3, no card frame, no text letters numbers or watermark, edge to edge. IRIS, ancient Greek rainbow messenger goddess, an adult woman with graceful iridescent feathered wings and flowing ivory robes edged in gold, holds a small golden ewer and opens her other hand in blessing. A soft natural rainbow arcs across luminous clouds over several small marble temple altars, prismatic light touches each altar, symbolizing strengthening allied enduring powers. Elegant assured posture, clear natural face in upper third, wings forming a strong silhouette around her, jewel-tone accents on white-gold fabric, realistic sunlight and atmospheric depth, cinematic richly detailed fantasy painting. Public-domain Greek myth only; no modern superhero appearance, no comic-book costume. Single large central subject readable as a small card.",
+      "image": "assets/arena/starter/iris-rainbow.webp",
+      "imageList": "assets/arena/starter/iris-rainbow-list.webp"
+    },
+    {
+      "cardId": "ar-starter-heracles-unyielding",
+      "slug": "heracles-unyielding",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-506a0e15-7d05-4069-9dfe-c9e8ebacf66f.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "A finished original mythology card illustration, portrait 2:3, edge to edge art only. No lettering, text, numbers, watermark or card frame. HERACLES, public-domain ancient Greek hero: a powerful bearded adult man wearing the Nemean lion pelt over one shoulder and a short antique warrior tunic, gripping a heavy wooden club. He stands unyielding on cracked stone steps while stone fragments and wind-driven bronze spear shafts glance away from him. Body is natural human skin, NOT metallic or a modern superhero. Bronze-braced forearms crossed in a determined defensive pose, lion's head pelt clearly recognizable, resolute calm face, strong silhouette. Storm-blue background, ancient ruined temple, rich amber light on muscles, leather and lion mane, cinematic realistic fantasy painting with physical texture and dramatic perspective. Theme is a hero whom destruction, displacement and weakening cannot shake.",
+      "image": "assets/arena/starter/heracles-unyielding.webp",
+      "imageList": "assets/arena/starter/heracles-unyielding-list.webp"
+    },
+    {
+      "cardId": "ar-starter-artemis-hunt",
+      "slug": "artemis-hunt",
+      "generatedSource": "C:\\Users\\home\\.codex\\generated_images\\01a1586a-f3f2-7c90-8da8-101973e7d78f\\exec-c1639b1a-106f-43c8-b661-d459212d3b05.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "One original finished fantasy mythological card illustration, portrait 2:3, full bleed art, absolutely no text, letters, numbers, card frame, border or watermark. ARTEMIS, public-domain ancient Greek goddess of hunting, an adult woman with dark braided hair, practical antique silver-bronze hunting armor over a forest-green short chiton and cloak, draws an elegant curved wooden bow. She has anticipated the movement of her quarry; eyes look precisely toward the side where a luminous white stag is emerging from deep forest mist far behind. Confident composed focused expression, arrow aligned with her line of sight, clear face and hands, bow creates a beautiful strong arc around the central figure. Moonlit ancient cedar forest, silver-blue light, warm amber lantern glow on bronze, subtle crescent moon above, cinematic realistic fantasy painting with crisp fabric, leather and foliage. Original classical myth design, no modern superhero costume or likeness. Strong portrait readable in a small strategy card.",
+      "image": "assets/arena/starter/artemis-hunt.webp",
+      "imageList": "assets/arena/starter/artemis-hunt-list.webp"
+    },
+    {
+      "cardId": "ar-extra-hecate-crossroads",
+      "slug": "hecate-crossroads",
+      "generatedSource": "C:/Users/home/.codex/generated_images/01a1586a-f3f2-7c90-8da8-101973e7d78f/exec-af8d28b9-d147-4dea-b465-e1e7a77e04fc.png",
+      "tool": "OpenAI built-in image_gen",
+      "prompt": "Use case: stylized-concept. Create one finished original illustration for the mythology strategy card game Mansangrok. Portrait aspect ratio 2:3, full bleed art, absolutely no text, letters, numbers, card border or watermark. Subject: Hecate, adult ancient Greek goddess of crossroads, standing at a moonlit fork of ancient stone roads, holding a bronze torch in one hand while her other hand offers a small luminous key as a mysterious gift. Flowing dark violet ancient Greek robes, natural composed face, intricate bronze ornaments. Strong central three-quarter figure, face clearly readable in the upper third, luminous magic and warm torchlight against cool midnight mist, ancient stone pillars and paths visible behind her. Cinematic realistic fantasy painting, rich tangible materials, atmospheric depth, dramatic but restrained composition readable at card thumbnail size. Public-domain mythological portrayal, not an adaptation of any modern franchise or superhero. Edge-to-edge art only.",
+      "image": "assets/arena/starter/hecate-crossroads.webp",
+      "imageList": "assets/arena/starter/hecate-crossroads-list.webp"
+    }
+  ]
+}

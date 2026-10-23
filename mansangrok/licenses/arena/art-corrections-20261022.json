@@ -1,0 +1,748 @@
+{
+  "version": 1,
+  "date": "2026-10-22",
+  "generator": "OpenAI built-in image_gen",
+  "scope": "314장 전수조사 후 수정필요9개·재확인3개 교정본 연결",
+  "reviewState": "root와 생성 담당 독립검수 완료",
+  "previousAudit": "docs/arena/reference/card-art-audit-20261022.json",
+  "historicalAuditPreserved": true,
+  "entries": [
+    {
+      "cardId": "ar-classic-lu-bu-sky-piercer",
+      "auditId": "007",
+      "name": "여포·방천화극",
+      "style": "밝은게임카툰",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\007-ar-classic-lu-bu-sky-piercer-casual-v1.png",
+      "sourceSha256": "d12dd3a69b79d4f248097c301dead0f34b7113cbe6526bedc01799acd7740f8d",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\007-ar-classic-lu-bu-sky-piercer-casual-v1.txt",
+      "promptSha256": "b73027254b5a84c13dc05108e83efc5f23cdbe234e030e851a1e487d080706f8",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n여포를 중국 삼국지 모험극의 독자적인 새 게임 인물 디자인으로 다시 그린다. 30대 성인 무장, 검은 머리를 높이 묶은 중국식 관, 곧은 짙은 눈썹과 길게 안정된 눈매, 곧고 과도하게 돌출되지 않은 코, 부드럽게 각진 턱, 얇은 콧수염과 작은 뾰족 턱수염. 기존 그림의 크게 돌출한 사각턱·매부리코·짧은 네모 수염 템플릿을 바꾼다. 역사적 실제 얼굴·특정 배우·민족적 특징의 과장은 사용하지 않는다. 붉은색과 금색 중국식 판갑, 두 개의 긴 붉은 꿩깃, 붉은 망토를 유지한다. 성벽 위에 두 발로 안정되게 서서 오른손은 긴 방천화극 자루를 잡고 왼손은 허리 근처에 편안히 둔다. 한 머리·두 팔·두 다리, 손가락과 손목은 명료하게 분리한다. 방천화극의 창끝과 반달 칼날, 긴 붉은 깃 끝, 두 장화가 화면 안에 온전히 보이게 한다. 뒤쪽은 중국 성벽과 붉은 군기로 단순화한다. 새 얼굴은 다음 말 탄 여포 카드에서도 같은 사람으로 재사용될 기준이다.\n화풍: 밝고 경쾌한 2D 게임 카드 일러스트, 두꺼운 정돈된 윤곽선, 단순한 2~3단계 셀 명암, 선명한 색면과 큰 실루엣. 사진·실사·유화·3D 질감 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\007-ar-classic-lu-bu-sky-piercer.png",
+          "sha256": "2f6eac897114c1c9bd723e17eed2bf394a412cab3d3309fde38a5211ad39685e",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/007-ar-classic-lu-bu-sky-piercer-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/007-ar-classic-lu-bu-sky-piercer-casual-v1-list.webp",
+      "imageSha256": "010fcfebce773cb1fbd95fc4bc4518764cfb06c71d34198f08d90e7a9f913d6a",
+      "imageListSha256": "a5b4b3b9d3ff282b780d69d329ec05353c8a34e7986d658cd30501f88638e84a",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "007",
+        "cardId": "ar-classic-lu-bu-sky-piercer",
+        "name": "여포·방천화극",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\007-ar-classic-lu-bu-sky-piercer-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\007-ar-classic-lu-bu-sky-piercer-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\007-ar-classic-lu-bu-sky-piercer-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "성인 두 팔·두 다리와 손목·발목의 연결이 읽히며 양발 전체가 화면 안에 있다. 갑옷 아래 관절은 일부 가림.",
+        "objects": "방천화극 날과 자루의 연결 및 쥔 손 위치가 읽힌다.",
+        "identity": "사용자가 거부한 기존 얼굴 디자인을 바꾸고 쌍장식 깃·중국식 갑옷·방천화극을 유지했다. 008과 얼굴·장비 디자인을 대조했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\007-ar-classic-lu-bu-sky-piercer.png",
+          "sha256": "2f6eac897114c1c9bd723e17eed2bf394a412cab3d3309fde38a5211ad39685e",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-classic-lu-bu-peerless-general",
+      "auditId": "008",
+      "name": "여포·비장 무쌍",
+      "style": "치비/SD",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\008-ar-classic-lu-bu-peerless-general-casual-v1.png",
+      "sourceSha256": "3f3eeba332777f0892220b3cbeb67bea879e1c92d05207a5b25654b60d5fabe6",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\008-ar-classic-lu-bu-peerless-general-casual-v1-with-new-face.txt",
+      "promptSha256": "c064c75d7d3e841a952dcf4570c77511ffdab5edb8ae11784860d3f4f2cf98e3",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n첫 입력 기존 여포 그림은 적토마·방천화극·중국식 갑옷·붉은 군기 모티브 참조이며 기존 얼굴은 사용하지 않는다. 두 번째 입력의 새 여포 그림을 동일 인물의 얼굴·수염·헤어·갑옷 디자인 기준으로 엄격히 사용한다. 붉은 적토마를 타고 평탄한 길을 달리는 명료한 옆면 3/4 구도. 기수 머리·목·흉곽·골반은 말 안장 위에서 같은 방향으로 안정되게 정렬된다. 양다리는 안장 양옆 등자에 놓이고 두 손은 고삐와 방천화극을 각각 분리해 잡는다. 붉은 말 한 마리의 단일 몸통에 목·머리 한 개와 앞다리 두 개·뒷다리 두 개만 붙고 발굽 네 개를 모두 화면 안에서 분리해 보인다. 두 개 긴 붉은 깃과 무기 전체도 잘리지 않는다. 붉은 군기와 멀리 단순한 성벽 배경.\n화풍: 둥근 큰 머리와 짧고 분명한 팔다리의 3등신 치비/SD 게임 일러스트, 깔끔한 윤곽선, 부드럽고 밝은 단순 셀색면. 사진·실사·유화·3D 재질 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n입력 2의 새 여포 얼굴에서 곧은 코·덜 돌출한 턱·작은 뾰족 턱수염·같은 눈썹·상투를 보존하되 치비 비율로만 간결하게 만든다.\n",
+      "references": [
+        {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\008-ar-classic-lu-bu-peerless-general.png",
+          "sha256": "44ff0a83941663010b9d981cf0b558e8b5a3ba8a8d2e9e0d674f6b134325fb8a",
+          "role": "기존 그림의 소재·상징 참조"
+        },
+        {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\007-ar-classic-lu-bu-sky-piercer-casual-v1.png",
+          "sha256": "d12dd3a69b79d4f248097c301dead0f34b7113cbe6526bedc01799acd7740f8d",
+          "role": "새 여포 동일 인물 정체성 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/008-ar-classic-lu-bu-peerless-general-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/008-ar-classic-lu-bu-peerless-general-casual-v1-list.webp",
+      "imageSha256": "969c3d132006be42a39b0634275291790ab4440070bd9471904fe94d16c5be80",
+      "imageListSha256": "04adc7cea81f8e91c8b3c243bd5dc5528b0aed4b924fd94d4bb6773de53e1257",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "008",
+        "cardId": "ar-classic-lu-bu-peerless-general",
+        "name": "여포·비장 무쌍",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\008-ar-classic-lu-bu-peerless-general-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\008-ar-classic-lu-bu-peerless-general-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\008-ar-classic-lu-bu-peerless-general-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "기수 두 팔의 손-무기/고삐 연결, 앞쪽 다리의 무릎-발 연결이 읽힌다. 뒤편 기수 다리는 말/안장에 가린다. 말의 네 다리와 발굽이 구분되며 중복 끝단을 찾지 못했다.",
+        "objects": "고삐가 손에서 말의 굴레로 이어지고 무기 날과 자루가 연결된다.",
+        "identity": "007 교정본과 눈썹·수염·쌍깃·갑옷 디자인을 대조했다. 기존 얼굴의 인종을 추정해 판정하지 않았다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\008-ar-classic-lu-bu-peerless-general.png",
+          "sha256": "44ff0a83941663010b9d981cf0b558e8b5a3ba8a8d2e9e0d674f6b134325fb8a",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-archive-fox",
+      "auditId": "041",
+      "name": "나타·연화의 화신",
+      "style": "가벼운웹툰/플랫카툰",
+      "previousVerdict": "재확인필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\041-ar-archive-fox-casual-v1.png",
+      "sourceSha256": "b4df9c9b91d657d3b80612224939d8d95e8f2de5058790d2bd5166e456b1deec",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\041-ar-archive-fox-casual-v1.txt",
+      "promptSha256": "09a5b541ced5a25659adac63b575f9f3434dc3cda4e97055a60b9692b1609034",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n연꽃밭 위 어린 신 나타가 안정된 간단한 서 있는 자세로 등장한다. 검은 쌍상투·붉은 리본·장난기 있는 어린 얼굴·중국식 붉은 옷·금색 장식·원환과 창이라는 고유 상징을 유지한다. 이 그림은 한 머리와 정확히 두 팔의 기본 모습으로 재구성한다. 화면 왼쪽 손은 허리 앞 금색 원환을 쥐고 화면 오른쪽 손은 몸 옆 수직 창대를 쥔다. 양어깨에서 각 상완→팔꿈치→전완→손목→손이 끊김 없이 독립적으로 보인다. 세 번째 손이나 허리에서 난 팔은 없다. 짧은 두 다리와 맨발이 연꽃 위에 각각 보여 인체 연결이 쉽게 읽힌다. 붉은 리본은 손팔과 겹치지 않게 등 뒤로 크게 흐르고 글자가 없다.\n화풍: 가벼운 모험 웹툰풍 플랫 2D 카툰, 맑은 색면, 간결하고 명료한 선, 최소한의 셀 그림자. 사진·실사·유화·모자이크 질감 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\041-ar-archive-fox.png",
+          "sha256": "05bd6ce1e96d7ecb8b7b59a9b200da7fb98105e28d53edc0ec24d4f4a05d9fd0",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/041-ar-archive-fox-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/041-ar-archive-fox-casual-v1-list.webp",
+      "imageSha256": "cd3d039637c8bb529105f365e70c3670600626c51f4db9b1dee487d4cda0172c",
+      "imageListSha256": "ebe43b5af76d0b3339d155dc598b4ae0d32710588124df422788462c6a752280",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "041",
+        "cardId": "ar-archive-fox",
+        "name": "나타·연화의 화신",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\041-ar-archive-fox-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\041-ar-archive-fox-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\041-ar-archive-fox-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "단순한 두 팔 형상으로 교정되어 숨은 세 번째 손의 모호함이 없다. 두 다리/맨발과 창·고리 양손이 구분된다.",
+        "objects": "고리 테두리와 창의 날-자루가 이어진다.",
+        "identity": "쌍상투·연꽃·금고리·창의 나타 소재를 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\041-ar-archive-fox.png",
+          "sha256": "05bd6ce1e96d7ecb8b7b59a9b200da7fb98105e28d53edc0ec24d4f4a05d9fd0",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-classic-houyi-divine-archer",
+      "auditId": "060",
+      "name": "후예·동쪽의 화살",
+      "style": "밝은게임카툰",
+      "previousVerdict": "재확인필요",
+      "selectedVariant": 2,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\060-ar-classic-houyi-divine-archer-casual-v2.png",
+      "sourceSha256": "e4387e9731fb91c38c75bf4f126a08810f72ac13cc5a28f6233b9e1adfe9da3e",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\060-ar-classic-houyi-divine-archer-casual-v2.txt",
+      "promptSha256": "72458d0597de465218315acf7a8e0a4a6e0b955257ee0d731780dc07ca1764c6",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n동아시아 고전 모험의 성인 궁수 후예. 검은 묶은 머리·흰 튜닉·붉은 띠·검은금색 갑주·산중 절벽과 하늘의 여러 태양 모티브를 유지한다. 거의 옆면으로 보이는 안정된 양궁 자세를 새로 그린다. 두 발은 평평한 바위 위에서 어깨너비로 서고 골반·가슴·목의 방향이 일관된다. 활을 든 앞팔은 어깨에서 손까지 곧게 뻗고 손이 활 손잡이만 잡는다. 뒤팔의 팔꿈치는 뒤쪽으로 들고 손가락은 뺨 가까이에서 시위와 화살 깃 쪽 끝을 함께 당긴다. 하나의 활시위는 위 활끝→당기는 손→아래 활끝의 명확한 V자를 이루며 화살 뒤끝이 그 당김손에 걸리고 하나의 화살대가 앞손 위를 지나 오른쪽 위로 향한다. 두 팔·두 손과 화살·시위를 서로 구분되게 그리고 모든 손발·활끝이 프레임 안에 있다. 밝은 빛은 화살촉에만 작게 두어 접점을 가리지 않는다.\n화풍: 밝고 경쾌한 2D 게임 카드 일러스트, 두꺼운 정돈된 윤곽선, 단순한 2~3단계 셀 명암, 선명한 색면과 큰 실루엣. 사진·실사·유화·3D 질감 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n추가 정정: 아직 화살을 쏘지 않은 장전 상태다. 장전한 물리적 화살 단 하나만 그리고, 날아가는 빛 화살·투사체·복제 화살·길게 뻗는 광선은 전부 그리지 않는다. 시위는 검은 선 하나로 위 활끝에서 당김손, 당김손에서 아래 활끝까지 두 선분을 명확히 그려야 한다.\n",
+      "references": [
+        {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\060-ar-classic-houyi-divine-archer-casual-v1.png",
+          "sha256": "c55b58f0aa16d958d7e9dec827d9bdd1cf46adefab6a67b257abd4d0816033f8",
+          "role": "새 여포 동일 인물 정체성 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/060-ar-classic-houyi-divine-archer-casual-v2.webp",
+      "imageList": "assets/arena/art-corrections-20261022/060-ar-classic-houyi-divine-archer-casual-v2-list.webp",
+      "imageSha256": "f57b3fc8d3b7417d9843203acad646520ced8740593e4e18b09150d618d8c1d8",
+      "imageListSha256": "6392dc674b8e25ab344354057eabb04b42362abcc28bb61ec0969772c9741a77",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "060",
+        "cardId": "ar-classic-houyi-divine-archer",
+        "name": "후예·동쪽의 화살",
+        "variant": 2,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\060-ar-classic-houyi-divine-archer-casual-v2.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\060-ar-classic-houyi-divine-archer-casual-v2.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\060-ar-classic-houyi-divine-archer-casual-v2-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "두 팔이 어깨-팔꿈치-손으로 이어지고 양다리의 무릎·발목·발이 구분된다. 활시위와 화살깃의 겹침으로 손가락 일부는 판독 한계가 있다.",
+        "objects": "선택 v2에는 비행 화살 복제가 없고 장전 화살 한 개가 활을 가로지른다. 활 양끝과 시위, 당기는 손의 배치가 읽힌다.",
+        "identity": "중국식 궁수 복식과 다수의 태양을 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\.verify\\card-art-audit-20261022\\native\\060-ar-classic-houyi-divine-archer.png",
+          "sha256": "1d01164cc345328b01310692e6f490982ebfbf4ab15aea957dfa9bf78206dbd8",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 2,
+        "returnedImages": 2,
+        "rejectedVariants": [
+          {
+            "variant": 1,
+            "reason": "실물 화살 앞에 별도의 날아가는 빛 화살이 한 개 더 있어 프롬프트의 화살 하나 조건과 다르다. 시위 아래 선도 의상과 겹쳐 더 단순하게 정리할 필요가 있다.",
+            "outputRetention": {
+              "date": "2026-10-23",
+              "status": "현재 미사용 파생본 삭제",
+              "reason": "선택본은 v2이며 반려 v1 PNG 원본과 실제 프롬프트를 로컬 보존한다.",
+              "sourcePNG": "artwork/arena/art-corrections-20261022/sources/060-ar-classic-houyi-divine-archer-casual-v1.png",
+              "sourceSha256": "c55b58f0aa16d958d7e9dec827d9bdd1cf46adefab6a67b257abd4d0816033f8",
+              "historicalOutputs": [
+                {
+                  "path": "public/assets/arena/art-corrections-20261022/060-ar-classic-houyi-divine-archer-casual-v1-list.webp",
+                  "sha256": "dc5f261c46830bf135ff9f0233f3c862cbf070346d4fcc040dbad43b0d1869d3",
+                  "bytes": 14750
+                },
+                {
+                  "path": "public/assets/arena/art-corrections-20261022/060-ar-classic-houyi-divine-archer-casual-v1.webp",
+                  "sha256": "b13f21c9cbfdc55114b1f712ec3be649dde4d71a28ff0ad6e9500c13892c1f50",
+                  "bytes": 126740
+                }
+              ]
+            }
+          }
+        ],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-beowulf-grendel-fall",
+      "auditId": "202",
+      "name": "베오울프·그렌델의 최후",
+      "style": "치비/SD",
+      "previousVerdict": "재확인필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\202-ar-snap-beowulf-grendel-fall-casual-v1.png",
+      "sourceSha256": "ed8587dcd1780a26e618f403a7549b3d8a7b3eedc41c5224001a67bf24c6e308",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\202-ar-snap-beowulf-grendel-fall-casual-v1.txt",
+      "promptSha256": "0e87e73f2500ed1c82af0ba5d87206edc7e92d877c8062a270a8fb9eb9690b7a",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n금발 땋은 머리와 수염·녹색 망토·사슬갑옷의 베오울프와 푸른 털의 인간형 괴물 그렌델이 목조 홀에서 겨룬다. 모호했던 부속지를 명료한 단순한 두 인물 자세로 다시 구성한다. 베오울프는 화면 왼쪽에 두 발로 서서 두 손으로 그렌델의 한 손목을 붙잡는다. 그렌델은 화면 오른쪽에서 한 무릎을 바닥에 대고 다른 발은 바닥에 둔다. 괴물은 머리 한 개·짧은 목·명료한 흉곽과 골반, 정확히 두 팔과 두 다리만 갖는다. 붙잡힌 팔은 어깨→팔꿈치→손목이 완전히 이어지고 다른 팔은 옆으로 펼친 손까지 보인다. 두 다리는 허리 아래 골반→허벅지→무릎→발목→발까지 각각 분리해 보여 전경에 세 번째 팔처럼 보이는 부속지가 없다. 유혈·절단 없이 힘겨루기 장면, 두 인물의 모든 손발이 화면 안에 있다.\n화풍: 둥근 큰 머리와 짧고 분명한 팔다리의 3등신 치비/SD 게임 일러스트, 깔끔한 윤곽선, 부드럽고 밝은 단순 셀색면. 사진·실사·유화·3D 재질 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a1623f-0c0e-73b3-ae6f-135b31b56ceb\\exec-2631fa22-f571-4574-b65e-06a774d916e5.png",
+          "sha256": "1c112d95b3fc854ca81f6fdd4c51c1a1a6454b66a6a93efb7b587d3f9cf430b5",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/202-ar-snap-beowulf-grendel-fall-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/202-ar-snap-beowulf-grendel-fall-casual-v1-list.webp",
+      "imageSha256": "65c132bf03553c3e43eaa3eb549dfb95692101bf0db2be7c2370f355fb515f38",
+      "imageListSha256": "29c84f60cdb68d2fd86e7a496fb35a4fe37b9810b3da59aee9829cc0f53c3454",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "202",
+        "cardId": "ar-snap-beowulf-grendel-fall",
+        "name": "베오울프·그렌델의 최후",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\202-ar-snap-beowulf-grendel-fall-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\202-ar-snap-beowulf-grendel-fall-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\202-ar-snap-beowulf-grendel-fall-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "베오울프의 두 팔은 같은 괴물 팔을 잡고 양다리/신발이 구분된다. 괴물은 잡힌 팔과 반대 손, 서 있는 다리와 꿇은 다리가 구분되어 세 번째 팔로 보이던 모호함이 해소됐다.",
+        "objects": "쥔 손과 괴물 팔이 이어진다. 배경 화로 체인은 화로에 닿는다.",
+        "identity": "베오울프와 그렌델의 대결 소재를 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a1623f-0c0e-73b3-ae6f-135b31b56ceb\\exec-2631fa22-f571-4574-b65e-06a774d916e5.png",
+          "sha256": "1c112d95b3fc854ca81f6fdd4c51c1a1a6454b66a6a93efb7b587d3f9cf430b5",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-ganesha-rest-reward",
+      "auditId": "246",
+      "name": "가네샤·여유의 보상",
+      "style": "가벼운웹툰/플랫카툰",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\246-ar-snap-ganesha-rest-reward-casual-v1.png",
+      "sourceSha256": "a8f04c7f16facabeeb382ff332e6d008e8f935740a574041afdcf352f28749d2",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\246-ar-snap-ganesha-rest-reward-casual-v1.txt",
+      "promptSha256": "51b2a12f859298cee5906750a2953342fa573e9463b71d124d147ab9767e57e8",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n코끼리 머리·금색 관·붉은 옷·보석·단 과자를 지닌 어린 가네샤가 연꽃 방석 위에 앉고 오른쪽 작은 회색 쥐 한 마리에게 과자를 건넨다. 가네샤의 신화적 네 팔은 의도된 형상으로 유지하고 각각 어깨→팔꿈치→손으로 분리해 도끼·과자·과자그릇·건네는 과자를 들게 한다. 작은 쥐는 정확히 머리 하나·귀 둘·목·몸통 하나·앞팔 둘·뒷다리 둘·꼬리 하나만 갖는다. 쥐는 두 뒷발로 바닥에 서고 두 앞손으로 같은 과자 하나를 받는 단순한 자세. 쥐 복부에는 세 번째 팔·손이 없고 양쪽 앞팔의 어깨와 손목이 선명하다. 전 인물과 동물의 손발·도끼·관이 프레임 안에 완전히 들어온다. 밝은 인도풍 궁전 문과 과자 배경.\n화풍: 가벼운 모험 웹툰풍 플랫 2D 카툰, 맑은 색면, 간결하고 명료한 선, 최소한의 셀 그림자. 사진·실사·유화·모자이크 질감 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-302dcc8f-0d7d-4337-acb8-ff58a98a3ae7.png",
+          "sha256": "38c6b834e54f7d9b897ff8f31899f064d8676ef99d9c30e15d258e971df661bb",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/246-ar-snap-ganesha-rest-reward-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/246-ar-snap-ganesha-rest-reward-casual-v1-list.webp",
+      "imageSha256": "341f5728f2b8f8041f17b6140eae4f7635ed13cc0b40deb8c7bbbffe25682878",
+      "imageListSha256": "da161f0476f274d61ae780b1c1b9f1d9e54c1f30ebe568cb0d4a989652c3859a",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "246",
+        "cardId": "ar-snap-ganesha-rest-reward",
+        "name": "가네샤·여유의 보상",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\246-ar-snap-ganesha-rest-reward-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\246-ar-snap-ganesha-rest-reward-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\246-ar-snap-ganesha-rest-reward-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "가네샤의 의도된 네 팔은 도끼·과자·그릇·쥐에게 주는 손으로 구분된다. 쥐는 두 앞발과 두 뒷발/꼬리가 구분되어 이전 다섯 사지 결함을 찾지 못했다.",
+        "objects": "쥐의 두 앞발은 과자 쪽으로 모이며 별도 여분 팔이 없다.",
+        "identity": "다완 신격은 의도된 소재로 보존하고 동물의 오류만 교정했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-302dcc8f-0d7d-4337-acb8-ff58a98a3ae7.png",
+          "sha256": "38c6b834e54f7d9b897ff8f31899f064d8676ef99d9c30e15d258e971df661bb",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-haemosu-dawn-chariot",
+      "auditId": "261",
+      "name": "해모수·새벽의 전차",
+      "style": "밝은게임카툰",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\261-ar-snap-haemosu-dawn-chariot-casual-v1.png",
+      "sourceSha256": "3216ecf7279111433a2d42b5d03e4245d02a0dd193b5561a5906cc6e71b53c11",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\261-ar-snap-haemosu-dawn-chariot-casual-v1.txt",
+      "promptSha256": "ccea25e5d2854198aecd3601a05b5eefb1a6b274e80634bda4a3f6a6721644ba",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n검은 상투·금빛 머리 장식·청록색 고대 한국풍 의복을 입은 해모수가 금색 태양 바퀴 전차에 탄다. 다섯 색의 동아시아 용들이 구름 위 전차를 이끄는 새벽 장면과 아래 작은 전사들에게 향하는 금빛 격려 모티브를 보존한다. 큰 주인공은 전차 위에서 한 손으로 고삐를 잡고 다른 손은 어깨 옆으로 작고 명료하게 손바닥을 펼친다. 원근으로 과장된 손을 피하고 두 손 각각 엄지 하나와 나머지 네 손가락의 정확한 다섯 개를 분리해서 그린다. 머리·목·양어깨·팔꿈치·손목 연결을 자연스럽게 한다. 배경 전사들은 각자 두 팔·두 다리의 단순한 실루엣으로 읽히게 하고 손발을 겹쳐 늘리지 않는다. 용의 머리와 목은 각각 몸으로 이어지고 하나의 목에 여러 머리를 붙이지 않는다.\n화풍: 밝고 경쾌한 2D 게임 카드 일러스트, 두꺼운 정돈된 윤곽선, 단순한 2~3단계 셀 명암, 선명한 색면과 큰 실루엣. 사진·실사·유화·3D 질감 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-6cd8708c-d1d3-4c04-86a5-b5546dbb8206.png",
+          "sha256": "e131b59f1c400602ca132642e2cc9735c5b58da05c47a94a119f7c21efa82e53",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/261-ar-snap-haemosu-dawn-chariot-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/261-ar-snap-haemosu-dawn-chariot-casual-v1-list.webp",
+      "imageSha256": "7f068e5ea190193fe1f30fbdc38b6f171eef51a8e03413289ed9a00882db8158",
+      "imageListSha256": "a1431721ae409186d18f7858c5b46cae12a1257047986a59e134f1bb25909707",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "261",
+        "cardId": "ar-snap-haemosu-dawn-chariot",
+        "name": "해모수·새벽의 전차",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\261-ar-snap-haemosu-dawn-chariot-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\261-ar-snap-haemosu-dawn-chariot-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\261-ar-snap-haemosu-dawn-chariot-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "펼친 손은 엄지 포함 다섯 손가락이다. 반대 손은 고삐를 잡고 연결된다. 하체는 전차에 가려 단정하지 않는다.",
+        "objects": "다섯 용의 머리와 전차 고삐가 분리되어 읽힌다. 먼 병사의 손가락은 해상도 한계다.",
+        "identity": "한국 신화 해모수의 오룡거 소재를 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-6cd8708c-d1d3-4c04-86a5-b5546dbb8206.png",
+          "sha256": "e131b59f1c400602ca132642e2cc9735c5b58da05c47a94a119f7c21efa82e53",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-ammit-victor-offering",
+      "auditId": "275",
+      "name": "아미트·승자의 공물",
+      "style": "치비/SD",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\275-ar-snap-ammit-victor-offering-casual-v1.png",
+      "sourceSha256": "26e2d68cd44de8b7321e3ef4edf9306b66089ca445826c212f1795c0269d3b70",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\275-ar-snap-ammit-victor-offering-casual-v1.txt",
+      "promptSha256": "a26062174df56648d73e58fdd09f11fcc182389d9e32d16edda4a8cf37bb75d6",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n악어 머리·사자 앞몸과 갈기·하마 뒷몸이라는 이집트 신화 아미트의 혼합 외형, 저울·깃털·공물 자루 모티브를 보존한다. 크고 귀여운 머리의 아미트 한 마리를 거의 옆면에서 단순하고 안정적으로 서 있게 그린다. 몸통은 하나이며 정확히 네 다리만 있다: 가슴 어깨에서 앞다리 두 개, 엉덩이에서 뒷다리 두 개. 가까운 앞발·먼 앞발·가까운 뒷발·먼 뒷발의 네 발을 간격을 두어 모두 보이며 다섯째 발·가슴 밑 여분 발이 없다. 악어 입은 작고 닫힌 미소로 공물 자루 끈을 살짝 물고, 발은 자루에 가리지 않는다. 관절과 발목은 덩어리 몸통과 분리되어 명료하다. 뒤 저울과 이집트 기둥은 단순한 배경, 글자 없음.\n화풍: 둥근 큰 머리와 짧고 분명한 팔다리의 3등신 치비/SD 게임 일러스트, 깔끔한 윤곽선, 부드럽고 밝은 단순 셀색면. 사진·실사·유화·3D 재질 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-bce2b346-cd91-468b-9780-7fbf4f85a68a.png",
+          "sha256": "25a609a178dc8cc15f867d2f49acd076a9bb13ad0c7499e2e8c1b0c50cade33d",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/275-ar-snap-ammit-victor-offering-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/275-ar-snap-ammit-victor-offering-casual-v1-list.webp",
+      "imageSha256": "41c9c6dc619bdd8a80db63d280b8ccd14896a2c3b9a09a2741e318f7d9c86104",
+      "imageListSha256": "67e9c99e4556706e2a3250aa504dfa59d5d31b0b147293022cbdd9241fe1cc53",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "275",
+        "cardId": "ar-snap-ammit-victor-offering",
+        "name": "아미트·승자의 공물",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\275-ar-snap-ammit-victor-offering-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\275-ar-snap-ammit-victor-offering-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\275-ar-snap-ammit-victor-offering-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "악어 머리·사자 앞부분·하마 뒷부분의 합성수 네 다리가 각각 한 발로 이어지며 다섯 번째 발은 없다.",
+        "objects": "입에 문 공물 주머니와 저울의 가로대/양끝 매달림이 이어진다.",
+        "identity": "아미트의 합성수 형상과 심판 저울을 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-bce2b346-cd91-468b-9780-7fbf4f85a68a.png",
+          "sha256": "25a609a178dc8cc15f867d2f49acd076a9bb13ad0c7499e2e8c1b0c50cade33d",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-anansi-woven-knot",
+      "auditId": "285",
+      "name": "아난시·지어진 것의 매듭",
+      "style": "가벼운웹툰/플랫카툰",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 2,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\285-ar-snap-anansi-woven-knot-casual-v2.png",
+      "sourceSha256": "94b17bd6c5d944029c3394f61afaba065e4e6d290066ed80880cde9a0e054249",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\285-ar-snap-anansi-woven-knot-casual-v2.txt",
+      "promptSha256": "bbd1e8e34d17006f7d6e296adb31e6afd44e0d1ec25f084cc90f02d6fde1c4a0",
+      "prompt": "만상록 '아난시·지어진 것의 매듭' 세로 2:3 게임 카드 교정 한 장. 입력은 검은 거미·배의 금빛 원 세 개·아프리카 초가 마을·이야기 동물이라는 소재 참조만이다. 입력의 거미 자세와 다리 구조는 버리고 완전히 새로 구성한다.\n화풍은 밝고 가벼운 2D 플랫카툰, 단순한 선명한 면색과 굵고 명료한 선, 최소한의 셀명암. 실사·모자이크·유화·3D 금지.\n카메라는 거미의 등 위에서 비스듬히 내려다본다. 작은 두흉부와 큰 타원 배가 하나씩 붙어 있다. 검은 거미 아난시 한 마리는 정확히 여덟 다리: 두흉부 왼쪽 옆에서 독립된 네 다리, 오른쪽 옆에서 독립된 네 다리. 각각의 다리는 자기 뿌리에서 바깥쪽으로 뻗어 무릎 하나를 굽힌 뒤 하나의 가늘고 뾰족한 끝으로 바닥에 닿는다. 전부 다 같은 단순한 거미 발 구조다. 사람 손·손가락·실을 잡는 손·앞으로 내민 팔을 절대로 그리지 않는다. 관절 하나마다 들어오는 마디 하나와 나가는 마디 하나만 있고 어느 관절에도 두 갈래 끝이 없다. 여덟 다리를 서로 겹치지 않게 부채꼴로 분리해 모두 세어볼 수 있게 한다. 거미 아래의 흰 거미줄 몇 가닥이 오른쪽의 지푸라기 인형을 저절로 푸는 마법이며 다리가 실을 손으로 잡지 않는다.\n검은 배의 금빛 원 세 개와 작은 여러 눈을 유지한다. 거미 주변에는 놀란 이야기꾼 한 명과 염소·닭·거북·토끼가 지켜보되 거미 다리와 겹치지 않는 바깥 배경에 작고 간단하게 배치한다. 이야기꾼은 두 팔·두 다리, 동물은 종에 맞는 사지. 모든 거미 다리와 끝은 화면 안에 온전히 보이고 위아래 여백을 둔다. 글자·숫자·로고·프레임·비교 패널 없음.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a1623e-dfd6-7872-a307-28e4ae4a74af\\exec-8f14f232-e697-4c30-b11c-721387695323.png",
+          "sha256": "730efc87c4e4d4f62f3d590682a5cc01f689de99a3ed776c0d69d4a982d3b68f",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/285-ar-snap-anansi-woven-knot-casual-v2.webp",
+      "imageList": "assets/arena/art-corrections-20261022/285-ar-snap-anansi-woven-knot-casual-v2-list.webp",
+      "imageSha256": "37f5685998bd63e52d2852db590e714c173daa885ed2bc188ebcd4385a91d987",
+      "imageListSha256": "41374c01e5c6a5c21aba4f4be59549592cfc737a503d24b6c9612069aa907d4a",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "285",
+        "cardId": "ar-snap-anansi-woven-knot",
+        "name": "아난시·지어진 것의 매듭",
+        "variant": 2,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\285-ar-snap-anansi-woven-knot-casual-v2.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\285-ar-snap-anansi-woven-knot-casual-v2.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\285-ar-snap-anansi-woven-knot-casual-v2-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "선택 v2는 머리가슴에서 출발하는 다리 여덟 개가 각각 한 끝단으로 이어진다. 손/지지 다리로 갈라지는 Y자 관절이 없다. 작은 배경 동물의 숨은 팔다리는 판정하지 않는다.",
+        "objects": "거미줄은 입 부근에서 허수아비로 이어지며 다리와 합쳐지지 않는다.",
+        "identity": "아난시의 거미 형상과 속임수 소재를 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a1623e-dfd6-7872-a307-28e4ae4a74af\\exec-8f14f232-e697-4c30-b11c-721387695323.png",
+          "sha256": "730efc87c4e4d4f62f3d590682a5cc01f689de99a3ed776c0d69d4a982d3b68f",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 2,
+        "returnedImages": 2,
+        "rejectedVariants": [
+          {
+            "variant": 1,
+            "reason": "전경 금색 관절에서 실 잡는 손 모양 끝과 지면 다리 끝이 여전히 Y자로 갈라진다. 이번 원본과 두 변환본에서 동일하다. 주변 남성·동물은 큰 연결에서 새 오류를 못 찾았으나 주된 교정 실패다.",
+            "outputRetention": {
+              "date": "2026-10-23",
+              "status": "현재 미사용 파생본 삭제",
+              "reason": "선택본은 v2이며 반려 v1 PNG 원본과 실제 프롬프트를 로컬 보존한다.",
+              "sourcePNG": "artwork/arena/art-corrections-20261022/sources/285-ar-snap-anansi-woven-knot-casual-v1.png",
+              "sourceSha256": "86cb1a9939e9271436ae63e329e626e28503210b6d2f5a9531ef295af8c11db6",
+              "historicalOutputs": [
+                {
+                  "path": "public/assets/arena/art-corrections-20261022/285-ar-snap-anansi-woven-knot-casual-v1-list.webp",
+                  "sha256": "bc26ed471d5330b46d7824838a1c717a65c61f934f9ae4b76b39328458babdd5",
+                  "bytes": 16138
+                },
+                {
+                  "path": "public/assets/arena/art-corrections-20261022/285-ar-snap-anansi-woven-knot-casual-v1.webp",
+                  "sha256": "4d4782e682ae01cf1adf06de389657a4aa97e59e5e40decb3df46022caebc941",
+                  "bytes": 130422
+                }
+              ]
+            }
+          }
+        ],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-oberon-small-echoes",
+      "auditId": "290",
+      "name": "오베론·작은 정령의 메아리",
+      "style": "밝은게임카툰",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\290-ar-snap-oberon-small-echoes-casual-v1.png",
+      "sourceSha256": "4fb81dc2ad1f0b9c6bccf802dbf166958c8af676df32e590bd2eef6e1fdec57a",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\290-ar-snap-oberon-small-echoes-casual-v1.txt",
+      "promptSha256": "e54862380441e8b1dd31b36a694f20e388c33890a1181a6bc0119e573f716447",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n검은 곱슬머리·잎 왕관·녹색 망토·꽃 지팡이의 오베론이 밝은 숲에 서 있고, 아래 작은 날개 요정 두 명이 꽃의 빛을 한 번 더 밝힌다. 뒤 나무 정령은 얼굴 있는 줄기·가지 팔이라는 의도된 형상으로 유지한다. 오베론은 정확히 두 팔·두 다리. 작은 두 요정은 각각 머리 하나·목·몸통·두 어깨에서 난 정확히 두 팔·두 다리와 등에 달린 날개 한 쌍이다. 두 요정 모두 무릎을 꿇고 자기 앞 한 송이 꽃을 양손으로 함께 받치는 동일하게 단순한 자세로 바꾼다. 뒤로 뻗은 세 번째 팔은 없다. 요정의 손과 꽃줄기와 날개를 선과 색으로 명확히 구분하고 각각 양팔의 팔꿈치·손목을 보이게 한다. 모든 주요 인물 손발과 지팡이가 화면 안에 들어온다.\n화풍: 밝고 경쾌한 2D 게임 카드 일러스트, 두꺼운 정돈된 윤곽선, 단순한 2~3단계 셀 명암, 선명한 색면과 큰 실루엣. 사진·실사·유화·3D 질감 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-78355339-4a38-4e34-842e-5c2913c50065.png",
+          "sha256": "38c721ade5172c6e5201a65f1b92f55cea60f6debb59c42299eafdca3954444b",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/290-ar-snap-oberon-small-echoes-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/290-ar-snap-oberon-small-echoes-casual-v1-list.webp",
+      "imageSha256": "9e0feb46a092831a1c8927bdc2e94a5e9700b7cfb44a345caff3bf42805a7647",
+      "imageListSha256": "68526fd76db9e53eb25d67c85d6194de914538b966ef13fe04b8daaea755dcb3",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "290",
+        "cardId": "ar-snap-oberon-small-echoes",
+        "name": "오베론·작은 정령의 메아리",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\290-ar-snap-oberon-small-echoes-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\290-ar-snap-oberon-small-echoes-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\290-ar-snap-oberon-small-echoes-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "양쪽 요정 각각 두 팔과 접힌 두 다리가 읽히며 이전 왼쪽 요정 세 팔을 찾지 못했다. 오베론의 두 팔은 펼친 손/지팡이 손으로 이어진다.",
+        "objects": "꽃 지팡이와 요정이 쥔 줄기가 손에 연결된다. 배경 나무 얼굴은 의도된 정령 표현이다.",
+        "identity": "오베론과 작은 요정의 숲 소재를 유지했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-78355339-4a38-4e34-842e-5c2913c50065.png",
+          "sha256": "38c721ade5172c6e5201a65f1b92f55cea60f6debb59c42299eafdca3954444b",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-robin-hood-forest-leap",
+      "auditId": "304",
+      "name": "로빈 후드·사람들 사이의 도약",
+      "style": "치비/SD",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 1,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\304-ar-snap-robin-hood-forest-leap-casual-v1.png",
+      "sourceSha256": "4340175388efbda197f0ea9e4ef6e2bd31337bf09a270181ff1818460dfdcabf",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\304-ar-snap-robin-hood-forest-leap-casual-v1.txt",
+      "promptSha256": "aa4a76f70cefc0132d1097c6d133194c4248aedffb5b936b6dfecb37637c3e7f",
+      "prompt": "용도: 만상록 게임 카드 교정 원화 한 장. 세로 2:3. 입력 이미지는 기존 고유 소재·의복·무기·동물의 참조이며 기존 화풍과 잘못된 자세는 유지하지 않는다.\n로빈 후드는 초록 후드·망토·갈색 튜닉·활·화살통을 지닌다. 오래된 그림의 과하게 벌어진 불가능한 비틀기를 버리고, 옆모습 3/4에서 낮고 넓은 나뭇가지 사이를 가볍게 건너뛰는 단순한 운동 자세로 재구성한다. 머리·목·흉곽·허리·골반이 같은 진행방향을 향하고 가슴만 정면으로 돌아가지 않는다. 앞다리는 골반에서 자연스럽게 들려 한 무릎이 가볍게 굽고, 뒷다리는 같은 골반에서 뒤로 뻗어 두 장화가 각각 읽힌다. 한 손은 활을 낮게 들고 다른 손은 균형을 위해 옆으로 펴되 두 어깨·두 팔꿈치·두 손목이 명료하다. 아래 두 동행자는 나란히 서서 올려다보고 각 머리목몸통·양팔·양다리가 간결하게 연결된다. 모든 인물 손발과 활끝이 화면 안에 보인다. 밝은 셔우드 숲.\n화풍: 둥근 큰 머리와 짧고 분명한 팔다리의 3등신 치비/SD 게임 일러스트, 깔끔한 윤곽선, 부드럽고 밝은 단순 셀색면. 사진·실사·유화·3D 재질 없음.\n작은 카드에서도 주인공과 고유 지물의 실루엣이 바로 읽히게 한다. 한 장면의 한 그림만, 여러 패널·비교표·시트 없음. 글자·숫자·문자형 무늬·로고·워터마크·카드 프레임·UI 없음. 손발·무기·머리끝을 자르지 않고 바깥 여백을 둔다. 고유 신화 외형을 제외한 추가 손발·융합 관절·뒤집힌 목·분지 팔은 없다. 기존 그림의 사진 같은 재질·유화·모자이크 스타일을 따라가지 않는다.\n",
+      "references": [
+        {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-c2252a71-caaf-424e-ae2f-4629598ec499.png",
+          "sha256": "a38340e158ed5d3e178f30f057434463bff7708cf8ed7cc0f41c4ba1b9240b0c",
+          "role": "기존 그림의 소재·상징 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/304-ar-snap-robin-hood-forest-leap-casual-v1.webp",
+      "imageList": "assets/arena/art-corrections-20261022/304-ar-snap-robin-hood-forest-leap-casual-v1-list.webp",
+      "imageSha256": "59394dfb4186e3fdc83b5323ef53342eeb54bbee4e86deed06e7945928e4319c",
+      "imageListSha256": "4b7957f8f9c4b77f44851fb0ece01e006e6d1069acde3f8caa54cee375ca55ea",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "304",
+        "cardId": "ar-snap-robin-hood-forest-leap",
+        "name": "로빈 후드·사람들 사이의 도약",
+        "variant": 1,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\304-ar-snap-robin-hood-forest-leap-casual-v1.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\304-ar-snap-robin-hood-forest-leap-casual-v1.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\304-ar-snap-robin-hood-forest-leap-casual-v1-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "도약하는 몸통과 골반이 같은 측면 방향으로 이어지며 두 다리가 골반에서 갈라져 각각 무릎-발로 연결된다. 기존 정면 몸통/반대 골반의 뒤틀림을 찾지 못했다.",
+        "objects": "활은 손에 연결되고 화살통은 등에 고정된다. 작은 하단 인물의 손가락 일부는 생략되어 있다.",
+        "identity": "초록 후드·활·숲의 로빈 후드를 유지하며 SD로 교정했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-c2252a71-caaf-424e-ae2f-4629598ec499.png",
+          "sha256": "a38340e158ed5d3e178f30f057434463bff7708cf8ed7cc0f41c4ba1b9240b0c",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 1,
+        "returnedImages": 1,
+        "rejectedVariants": [],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    },
+    {
+      "cardId": "ar-snap-orthros-weakest-link",
+      "auditId": "308",
+      "name": "오르트로스·무리의 약한 고리",
+      "style": "가벼운웹툰/플랫카툰",
+      "previousVerdict": "수정필요",
+      "selectedVariant": 2,
+      "generatedSource": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\308-ar-snap-orthros-weakest-link-casual-v2.png",
+      "sourceSha256": "5bd58017d3ecb112693515ad36ca5bd816cff76b845252a6f01acdea793b4e6e",
+      "sourceDimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "promptFile": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\prompts\\308-ar-snap-orthros-weakest-link-casual-v2.txt",
+      "promptSha256": "2b1668a5053b352a38ba9c668d43cc5538b17b240a640606237773eed7a6e6bc",
+      "prompt": "현재 입력의 밝은 2D 플랫카툰·색·쌍두견 두목과 한몸통 네다리·소 울타리·남자의 자연스러운 목/상체방향을 그대로 보존한다. 한 가지 교정만: 카메라를 15% 줌아웃하고 남자 오른쪽 손을 몸 쪽으로 조금 옮겨 모든 손가락 끝이 화면 오른쪽 경계에서 최소 화면폭5% 안쪽에 들어오게 한다. 모든 주인공 머리·손·두 샌들발·개의 꼬리끝과 네발끝이 프레임 안에서 잘리지 않고 여백이 있어야 한다. 남자 두 손은 엄지1개+나머지4개의 정확히 다섯 손가락이며 팔은2개·다리2개다. 이외 인물정체성·소품·장면을 추가하거나 바꾸지 않는다. 세로2:3 한그림. 글자·로고·프레임·새사람·추가손발 없음.\n",
+      "references": [
+        {
+          "path": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\308-ar-snap-orthros-weakest-link-casual-v1.png",
+          "sha256": "d7205ccade2e83257127d63bdf40ea86dd3500b5d2c95161e19a0cb06d8f0016",
+          "role": "새 여포 동일 인물 정체성 참조"
+        }
+      ],
+      "image": "assets/arena/art-corrections-20261022/308-ar-snap-orthros-weakest-link-casual-v2.webp",
+      "imageList": "assets/arena/art-corrections-20261022/308-ar-snap-orthros-weakest-link-casual-v2-list.webp",
+      "imageSha256": "266d6e30b4beccd805bd15898f0afc9407d38c334a486070903813226058758f",
+      "imageListSha256": "14f36c88dfd9fc39ffe0b865e757d9080f9108501763f6af4f6199d7e2f71418",
+      "reviewState": "독립검수후연결",
+      "visualReview": {
+        "auditId": "308",
+        "cardId": "ar-snap-orthros-weakest-link",
+        "name": "오르트로스·무리의 약한 고리",
+        "variant": 2,
+        "source": "D:\\work\\rpg_card_game\\mansangrok\\artwork\\arena\\art-corrections-20261022\\sources\\308-ar-snap-orthros-weakest-link-casual-v2.png",
+        "image": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\308-ar-snap-orthros-weakest-link-casual-v2.webp",
+        "list": "D:\\work\\rpg_card_game\\mansangrok\\public\\assets\\arena\\art-corrections-20261022\\308-ar-snap-orthros-weakest-link-casual-v2-list.webp",
+        "reviewedOriginal": true,
+        "reviewed450": true,
+        "verdict": "지적 교정 목적 충족·보이는 범위 새 결함 못 찾음",
+        "anatomy": "사람의 고개는 어깨 위에서 뒤를 돌아보는 옆얼굴이며 목이 몸통의 같은 축에 연결된다. 두 팔/손과 두 다리/발이 화면 안에 있다. 개는 의도된 두 머리와 네 다리가 구분된다.",
+        "objects": "개 두 입은 망토를 잡으며 사람의 팔을 여분 다리처럼 잇지 않는다. 고리와 망토가 어깨 쪽에 놓인다.",
+        "identity": "쌍두견 오르트로스 소재를 유지했고 v2는 손끝 잘림도 해소했다."
+      },
+      "history": {
+        "originalReference": {
+          "path": "C:\\Users\\home\\.codex\\generated_images\\01a16233-0b99-7f32-8ddf-49cbb7288697\\exec-93419bf9-eca4-4015-8bfc-e9394088e760.png",
+          "sha256": "289a959e991d3c05df917708a547e931845ff5a8f940f1f04f7e5390590ae0c7",
+          "role": "기존 소재·복식·장비·동물 참조. 기존 화풍과 문제 자세 보존 아님"
+        },
+        "requestAttempts": 2,
+        "returnedImages": 2,
+        "rejectedVariants": [
+          {
+            "variant": 1,
+            "reason": "사람의 화면 오른쪽 손끝 일부가 프레임 경계에서 잘린다. 목 교정은 개선됐지만 모든손발 프레임 조건을 만족하지 못해 이 변형은 제외하고 줌아웃 교정한다.",
+            "outputRetention": {
+              "date": "2026-10-23",
+              "status": "현재 미사용 파생본 삭제",
+              "reason": "선택본은 v2이며 반려 v1 PNG 원본과 실제 프롬프트를 로컬 보존한다.",
+              "sourcePNG": "artwork/arena/art-corrections-20261022/sources/308-ar-snap-orthros-weakest-link-casual-v1.png",
+              "sourceSha256": "d7205ccade2e83257127d63bdf40ea86dd3500b5d2c95161e19a0cb06d8f0016",
+              "historicalOutputs": [
+                {
+                  "path": "public/assets/arena/art-corrections-20261022/308-ar-snap-orthros-weakest-link-casual-v1-list.webp",
+                  "sha256": "f4bfb9ef0c69ecbae7b9aa66081b1fad2796c74ec66078c08222f8d7aa477224",
+                  "bytes": 12404
+                },
+                {
+                  "path": "public/assets/arena/art-corrections-20261022/308-ar-snap-orthros-weakest-link-casual-v1.webp",
+                  "sha256": "f01e68c5c6fea8f31f60dab8df079e6a3a2d0f7a314c41437014162dec9d3e99",
+                  "bytes": 121608
+                }
+              ]
+            }
+          }
+        ],
+        "variantLedger": ".verify/card-art-audit-20261022/corrections-results.json"
+      }
+    }
+  ]
+}

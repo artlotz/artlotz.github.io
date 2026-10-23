@@ -1,0 +1,26 @@
+{
+  "version": "AR41",
+  "method": "Codex CLI(codex exec)의 내장 image_gen으로 각 주제를 개별 생성한 독자 일러스트",
+  "size": {
+    "width": 450,
+    "height": 675
+  },
+  "listSize": {
+    "width": 200,
+    "height": 300
+  },
+  "encoding": "WebP 품질88",
+  "notes": "2026-10-17 Claude Code가 codex exec로 생성했다. 원본 1024x1536 PNG를 2:3 그대로 줄였다. 실존 사진·현대 캐릭터 표현·로고를 복사하지 않았다. 프롬프트는 원문을 보존한다.",
+  "assets": [
+    {
+      "file": "pangu-creation.webp",
+      "list": "pangu-creation-list.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Subject: Pangu, the primordial giant of Chinese mythology, a towering bearded figure in rough furs and bark armor, two small horns, wielding a great stone axe raised overhead, splitting a swirling cosmic egg of chaos; above him clear sky and sun burst through, below him new mountains, rivers and green land are forming from the shards. Ancient Chinese mythic atmosphere, warm gold and deep indigo palette, dramatic upward lighting."
+    },
+    {
+      "file": "persephone-return.webp",
+      "list": "persephone-return-list.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Subject: Persephone, the Greek goddess of spring, a young woman in a flowing pale green and white chiton with a crown of flowers, stepping forward on a path out of a dark underworld cave mouth; wherever her bare feet touch, frozen grey ground bursts into blossoms, grass and blooming pomegranate branches, a trail of transformed land spreading behind her steps. Greek mythic atmosphere, contrast of cold blue shadow and warm spring light, petals in the air."
+    }
+  ]
+}

@@ -1,0 +1,1637 @@
+{
+  "title": "투기장 고전 인물 카드 삽화",
+  "description": "고전 원전과 신화의 개별 인물·폼에 연결한 원전 삽화와 박물관 공개 도메인 이미지. 각 파일의 원본, 제작자, 라이선스와 변환 내역을 보존한다.",
+  "licensePolicy": [
+    "Wikimedia Commons의 CC0, Public domain, CC BY 자료만 반입한다.",
+    "The Met Collection API에서는 isPublicDomain=true이며 primaryImage가 있는 자료만 반입한다.",
+    "같은 인물의 두 폼은 서로 다른 원본 파일을 사용한다. 같은 얼굴의 크롭만 바꾸지 않는다."
+  ],
+  "sources": [
+    {
+      "provider": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/",
+      "license": "각 파일별 CC0, Public domain 또는 CC BY",
+      "sourceApi": "https://commons.wikimedia.org/w/api.php"
+    },
+    {
+      "provider": "The Metropolitan Museum of Art Open Access",
+      "url": "https://www.metmuseum.org/art/collection",
+      "license": "CC0 1.0 Universal",
+      "sourceApi": "https://collectionapi.metmuseum.org/public/collection/v1.1/search"
+    }
+  ],
+  "assets": [
+    {
+      "id": "zeus-thunder-throne",
+      "path": "assets/arena/classics/greek-roman/zeus-thunder-throne.webp",
+      "source": {
+        "provider": "met",
+        "objectId": "257864",
+        "title": "Marble head of Zeus Ammon",
+        "creator": "작가 미상",
+        "date": "ca. 120–160 CE",
+        "license": "CC0 1.0 Universal",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "sourcePage": "https://www.metmuseum.org/art/collection/search/257864",
+        "credit": "Purchase, Philodoroi Gifts, Acquisitions Fund, Mary and Michael Jaharis Gift, 2011 Benefit Fund, funds from various donors, Mr. and Mrs. John A. Moran, John J. Medveckis, Nicholas S. Zoullas, Mr. and Mrs. Frederick W. Beinecke, Leon Levy Foundation, Jeannette and Jonathan Rosen, Judy and Michael Steinhardt, Malcolm Hewitt Wiener Foundation and Aso O. Tavitian Gifts, 2012",
+        "imageUrl": "https://images.metmuseum.org/CRDImages/gr/original/DP265183.jpg"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "zeus-olympian-storm",
+      "path": "assets/arena/classics/greek-roman/zeus-olympian-storm.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Head Zeus NAMA3377.jpg",
+        "title": "Head Zeus NAMA3377",
+        "creator": "Jebulon",
+        "date": "2015-05-20 16:43:11",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Head_Zeus_NAMA3377.jpg",
+        "credit": "Own work",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Head_Zeus_NAMA3377.jpg/1920px-Head_Zeus_NAMA3377.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "north"
+      }
+    },
+    {
+      "id": "athena-aegis-line",
+      "path": "assets/arena/classics/greek-roman/athena-aegis-line.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Athena Giustiniani.jpg",
+        "title": "Athena Giustiniani",
+        "creator": "Unknown authorUnknown author",
+        "date": "1899",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Athena_Giustiniani.jpg",
+        "credit": "photo-engraving from 1899 book. Taken from en:Image:PallasGiustiniani.jpg; found, scanned, and uploaded to en:Wikipedia by Infrogmation 01:17, 1 May 2004.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Athena_Giustiniani.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "north"
+      }
+    },
+    {
+      "id": "athena-strategy-of-wisdom",
+      "path": "assets/arena/classics/greek-roman/athena-strategy-of-wisdom.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Athéna et Diomède.jpg",
+        "title": "Athéna et Diomède",
+        "creator": "en:User:Miskin",
+        "date": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ath%C3%A9na_et_Diom%C3%A8de.jpg",
+        "credit": "Assumed to be own work. Copied from WP en where description page was en:Image:Athena kai Diomedes.jpg.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ath%C3%A9na_et_Diom%C3%A8de.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "hades-underworld-crown",
+      "path": "assets/arena/classics/greek-roman/hades-underworld-crown.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Hades abducting Persephone.jpg",
+        "title": "Hades abducting Persephonelabel QS:Lfr,\"L'Enlèvement de Perséphone par Hadès\"label QS:Len,\"Hades abducting Persephone\"",
+        "creator": "Unknown authorUnknown author",
+        "date": "340 BCE",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Hades_abducting_Persephone.jpg",
+        "credit": "from Le Musée absolu, Phaidon, 10-2012",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Hades_abducting_Persephone.jpg/1920px-Hades_abducting_Persephone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "hades-gates-of-the-dead",
+      "path": "assets/arena/classics/greek-roman/hades-gates-of-the-dead.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Drawing, Hades; Persephone in the Underworld (Offering to Proserpine), ca. 1820 (CH 18122835-2).jpg",
+        "title": "Drawing, Hades; Persephone in the Underworld (Offering to Proserpine), ca. 1820",
+        "creator": "Felice Giani",
+        "date": "circa 1820date QS:P571,+1820-00-00T00:00:00Z/9,P1480,Q5727902",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Drawing,_Hades;_Persephone_in_the_Underworld_(Offering_to_Proserpine),_ca._1820_(CH_18122835-2).jpg",
+        "credit": "Catalog Photo",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Drawing%2C_Hades%3B_Persephone_in_the_Underworld_%28Offering_to_Proserpine%29%2C_ca._1820_%28CH_18122835-2%29.jpg/1920px-Drawing%2C_Hades%3B_Persephone_in_the_Underworld_%28Offering_to_Proserpine%29%2C_ca._1820_%28CH_18122835-2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "freyja-brisingamen",
+      "path": "assets/arena/classics/norse/freyja-brisingamen.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Freya by C. E. Doepler.jpg",
+        "title": "Freya by C. E. Doepler",
+        "creator": "Carl Emil Doepler (1824-1905)",
+        "date": "published 1882",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Freya_by_C._E._Doepler.jpg",
+        "credit": "Wägner, Wilhelm. 1882. Nordisch-germanische Götter und Helden. Otto Spamer, Leipzig & Berlin. Page 214.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Freya_by_C._E._Doepler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "freyja-seidr",
+      "path": "assets/arena/classics/norse/freyja-seidr.webp",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Freyja awakes Hyndla.jpg",
+        "title": "Freyja awakes Hyndla",
+        "creator": "W.G. Collingwood (1854 - 1932)",
+        "date": "Published in 1908",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Freyja_awakes_Hyndla.jpg",
+        "credit": "The Elder or Poetic Edda; commonly known as Sæmund's Edda. Edited and translated with introduction and notes by Olive Bray. Illustrated by W.G. Collingwood (1908) Page 224. Digitized by the Internet Archive and available from https://archive.org/details/elderorpoeticedd01brayuoft This image was made from the JPEG 2000 image of the relevant page via image processing (crop, rotate, color-levels, mode) with the GIMP by User:Haukurth. The image processing is probably not eligible for copyright but in case it is User:Haukurth releases his modified version into the public domain.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Freyja_awakes_Hyndla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-norse-odin-gungnir",
+      "path": "assets/arena/classics/references/norse/odin-gungnir.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Odin rides to Hel.jpg",
+        "title": "Odin rides to Hel",
+        "creator": "W.G. Collingwood (1854 - 1932)",
+        "date": "published 1908",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Odin_rides_to_Hel.jpg",
+        "credit": "The Elder or Poetic Edda; commonly known as Sæmund's Edda. Edited and translated with introduction and notes by Olive Bray. Illustrated by W.G. Collingwood (1908) Page 238. Digitized by the Internet Archive and available from https://archive.org/details/elderorpoeticedd01brayuoft This image was made from the JPEG 2000 image of the relevant page via image processing (crop, rotate, color-levels, mode) with the GIMP by User:Haukurth. The image processing is probably not eligible for copyright but in case it is User:Haukurth releases his modified version into the public domain.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Odin_rides_to_Hel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-norse-odin-one-eyed-seer",
+      "path": "assets/arena/classics/references/norse/odin-one-eyed-seer.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Odin, der Göttervater.jpg",
+        "title": "Odin, der Göttervater",
+        "creator": "Carl Emil Doepler (1824-1905)",
+        "date": "Published in 1882. The signature seems to indicate it was made in 1880.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Odin,_der_G%C3%B6ttervater.jpg",
+        "credit": "Wägner, Wilhelm. 1882. Nordisch-germanische Götter und Helden. Otto Spamer, Leipzig & Berlin. Page 7.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Odin%2C_der_G%C3%B6ttervater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-norse-thor-mjolnir",
+      "path": "assets/arena/classics/references/norse/thor-mjolnir.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Thor oder Thunar.jpg",
+        "title": "Thor oder Thunar",
+        "creator": "Carl Emil Doepler (1824-1905)",
+        "date": "published 1882",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Thor_oder_Thunar.jpg",
+        "credit": "Wägner, Wilhelm. 1882. Nordisch-germanische Götter und Helden. Otto Spamer, Leipzig & Berlin. Page 129.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Thor_oder_Thunar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-norse-thor-thunder-return",
+      "path": "assets/arena/classics/references/norse/thor-thunder-return.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Thor and the Mountain.jpg",
+        "title": "Thor and the Mountain",
+        "creator": "John Charles Dollman",
+        "date": "published 1909",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Thor_and_the_Mountain.jpg",
+        "credit": "Guerber, H. A. (Hélène Adeline) (1909). Myths of the Norsemen from the Eddas and Sagas. London : Harrap. This illustration facing page 72. Digitized by the Internet Archive and available from https://archive.org/details/mythsofthenorsem00gueruoft Some simple image processing by User:Haukurth.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Thor_and_the_Mountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-norse-loki-giant-scheme",
+      "path": "assets/arena/classics/references/norse/loki-giant-scheme.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Loki and Þjazi by Frølich.jpg",
+        "title": "Loki and Þjazi by Frølich",
+        "creator": "Lorenz Frølich",
+        "date": "Published in 1906.",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Loki_and_%C3%9Ejazi_by_Fr%C3%B8lich.jpg",
+        "credit": "Rydberg, Viktor. 1906. Teutonic Mythology Vol. I. Facing page 174. Digital reproduction obtained from the Internet Archive at http://ia331309.us.archive.org/3/items/teutonicmytholog01rydb/",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Loki_and_%C3%9Ejazi_by_Fr%C3%B8lich.jpg/1920px-Loki_and_%C3%9Ejazi_by_Fr%C3%B8lich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-norse-loki-shapechanger",
+      "path": "assets/arena/classics/references/norse/loki-shapechanger.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Detail from Loki leaves the hall and threatens the Æsir with fire by Frølich.jpg",
+        "title": "Detail from Loki leaves the hall and threatens the Æsir with fire by Frølich",
+        "creator": "Lorenz Frølich",
+        "date": "1895",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Detail_from_Loki_leaves_the_hall_and_threatens_the_%C3%86sir_with_fire_by_Fr%C3%B8lich.jpg",
+        "credit": "This file was derived from: Loki leaves the hall and threatens the Æsir with fire by Frølich.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Detail_from_Loki_leaves_the_hall_and_threatens_the_%C3%86sir_with_fire_by_Fr%C3%B8lich.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-greek-roman-heracles-lion-hide",
+      "path": "assets/arena/classics/references/greek-roman/heracles-lion-hide.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:The Fight with the Nemean Lion, from The Labors of Hercules MET DP836684.jpg",
+        "title": "The Fight with the Nemean Lion, from The Labors of Hercules",
+        "creator": "Heinrich Aldegrever",
+        "date": "1550date QS:P571,+1550-00-00T00:00:00Z/9",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Fight_with_the_Nemean_Lion,_from_The_Labors_of_Hercules_MET_DP836684.jpg",
+        "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/The_Fight_with_the_Nemean_Lion%2C_from_The_Labors_of_Hercules_MET_DP836684.jpg/1920px-The_Fight_with_the_Nemean_Lion%2C_from_The_Labors_of_Hercules_MET_DP836684.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-greek-roman-heracles-twelve-labors",
+      "path": "assets/arena/classics/references/greek-roman/heracles-twelve-labors.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Hercules Fighting the Nemean Lion MET DP833067.jpg",
+        "title": "Hercules Fighting the Nemean Lion",
+        "creator": "Albrecht Altdorfer",
+        "date": "",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Hercules_Fighting_the_Nemean_Lion_MET_DP833067.jpg",
+        "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Hercules_Fighting_the_Nemean_Lion_MET_DP833067.jpg/1920px-Hercules_Fighting_the_Nemean_Lion_MET_DP833067.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-nuwa-mending-sky",
+      "path": "assets/arena/classics/references/xianxia/nuwa-mending-sky.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Shanhaijing illustration of Nüwa.jpg",
+        "title": "Shanhaijing illustration of Nüwa",
+        "creator": "Unknown authorUnknown author",
+        "date": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Shanhaijing_illustration_of_N%C3%BCwa.jpg",
+        "credit": "internet",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Shanhaijing_illustration_of_N%C3%BCwa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-nuwa-refining-stones",
+      "path": "assets/arena/classics/references/xianxia/nuwa-refining-stones.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Nuwafuxi3.jpg",
+        "title": "Nuwafuxi3",
+        "creator": "mural painting from Han dynasty",
+        "date": "AD 151",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Nuwafuxi3.jpg",
+        "credit": "Li Ung Bing, Outlines of Chinese History, Shanghai 1914",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Nuwafuxi3.jpg/1920px-Nuwafuxi3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-houyi-shooting-suns",
+      "path": "assets/arena/classics/references/xianxia/houyi-shooting-suns.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:后羿射日.png",
+        "title": "后羿射日",
+        "creator": "Etching by Anonymous (Minor file corrections by User:Shibo77)",
+        "date": "around the year 151 CE (2011-07-30 upload)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:%E5%90%8E%E7%BE%BF%E5%B0%84%E6%97%A5.png",
+        "credit": "山东武梁祠（拓片）",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/%E5%90%8E%E7%BE%BF%E5%B0%84%E6%97%A5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-xi-wangmu-western-queen",
+      "path": "assets/arena/classics/references/xianxia/xi-wangmu-western-queen.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:'Seiobo (Queen Mother of the West)' by Ogata Korin, c. 1705, Japan, Edo period (1615–1868), Hanging scroll; ink and color on silk over paper, Kimbell Art Museum.jpg",
+        "title": "'Seiobo (Queen Mother of the West)' by Ogata Korin, c. 1705, Japan, Edo period (1615–1868), Hanging scroll; ink and color on silk over paper, Kimbell Art Museum",
+        "creator": "Ogata Kōrin",
+        "date": "circa 1705date QS:P571,+1705-00-00T00:00:00Z/9,P1480,Q5727902",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:%27Seiobo_(Queen_Mother_of_the_West)%27_by_Ogata_Korin,_c._1705,_Japan,_Edo_period_(1615%E2%80%931868),_Hanging_scroll;_ink_and_color_on_silk_over_paper,_Kimbell_Art_Museum.jpg",
+        "credit": "Kimbell Art Museum",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/%27Seiobo_%28Queen_Mother_of_the_West%29%27_by_Ogata_Korin%2C_c._1705%2C_Japan%2C_Edo_period_%281615%E2%80%931868%29%2C_Hanging_scroll%3B_ink_and_color_on_silk_over_paper%2C_Kimbell_Art_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-xi-wangmu-peaches",
+      "path": "assets/arena/classics/references/xianxia/xi-wangmu-peaches.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Xi Wangmu LACMA M.2000.104.32.jpg",
+        "title": "Xi Wangmu",
+        "creator": "작가 미상",
+        "date": "18th centurydate QS:P571,+1750-00-00T00:00:00Z/7",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Xi_Wangmu_LACMA_M.2000.104.32.jpg",
+        "credit": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31772114-O3.jpg Gallery: http://collections.lacma.org/node/201592 archive copy at the Wayback Machine",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Xi_Wangmu_LACMA_M.2000.104.32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-zhang-sanfeng-taiji",
+      "path": "assets/arena/classics/references/xianxia/zhang-sanfeng-taiji.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Changsanfeng.jpg",
+        "title": "Changsanfeng",
+        "creator": "The original uploader was TarcísioTS at Portuguese Wikipedia.",
+        "date": "15 March 2006 (original upload date)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Changsanfeng.jpg",
+        "credit": "Transferred from pt.wikipedia to Commons by Lijealso using CommonsHelper.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Changsanfeng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-wu-song-tiger-slayer",
+      "path": "assets/arena/classics/references/wuxia/wu-song-tiger-slayer.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Gyojia Busho 行者武松 (The Priest Wu Song) (BM 2008,3037.10206).jpg",
+        "title": "Gyojia Busho 行者武松 (The Priest Wu Song)",
+        "creator": "Print artist: Utagawa Kuniyoshi (歌川国芳)",
+        "date": "between 1845 and 1850date QS:P571,+1850-00-00T00:00:00Z/7,P1319,+1845-00-00T00:00:00Z/9,P1326,+1850-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Gyojia_Busho_%E8%A1%8C%E8%80%85%E6%AD%A6%E6%9D%BE_(The_Priest_Wu_Song)_(BM_2008,3037.10206).jpg",
+        "credit": "https://www.britishmuseum.org/collection/object/A_2008-3037-10206",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gyojia_Busho_%E8%A1%8C%E8%80%85%E6%AD%A6%E6%9D%BE_%28The_Priest_Wu_Song%29_%28BM_2008%2C3037.10206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-wu-song-pilgrim-fist",
+      "path": "assets/arena/classics/references/wuxia/wu-song-pilgrim-fist.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Wu Song Water Margin.jpg",
+        "title": "Mural (cropped) depicting Wu Song, a main character from the novel Water Margin, at the Long Corridor in the Summer Palace. Dating back to the 19th century.",
+        "creator": "Original mural by anonymous mural artist",
+        "date": "19th centurydate QS:P571,+1850-00-00T00:00:00Z/7",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Wu_Song_Water_Margin.jpg",
+        "credit": "http://www.china.com.cn/photochina/2010-03/22/content_19658188.htm#p=5&r=0.3914963416264331",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Wu_Song_Water_Margin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-lin-chong-snowy-mountain-temple",
+      "path": "assets/arena/classics/references/wuxia/lin-chong-snowy-mountain-temple.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Yoshitoshi-Lin Chong.jpg",
+        "title": "Yoshitoshi-Lin Chong",
+        "creator": "작가 미상",
+        "date": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Yoshitoshi-Lin_Chong.jpg",
+        "credit": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Yoshitoshi-Lin_Chong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-lin-chong-leopard-spear",
+      "path": "assets/arena/classics/references/wuxia/lin-chong-leopard-spear.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Shuihu2.PNG",
+        "title": "Shuihu2",
+        "creator": "AnonymousUnknown author",
+        "date": "c.a. 15th century",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Shuihu2.PNG",
+        "credit": "From an ancient Chinese book",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Shuihu2.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-arthur-excalibur",
+      "path": "assets/arena/classics/references/arthurian/arthur-excalibur.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Edmund garrett king arthur 1901.jpg",
+        "title": "Edmund garrett king arthur 1901",
+        "creator": "Edmund H. Garrett (Died 1929) Uploaded by Paulwade at en.wikipedia",
+        "date": "1901",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Edmund_garrett_king_arthur_1901.jpg",
+        "credit": "Legends of King Arthur & His Court by Frances Nimmo Greene Transferred from en.wikipedia to Commons by SreeBot.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Edmund_garrett_king_arthur_1901.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-arthur-last-stand",
+      "path": "assets/arena/classics/references/arthurian/arthur-last-stand.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:The Death of King Arthur by James Archer (1860).jpg",
+        "title": "The Death of King Arthurlabel QS:Len,\"The Death of King Arthur\"label QS:Lde,\"Der Tod von König Arthur\"label QS:Lfr,\"La Mort d'Arthur\"",
+        "creator": "James Archer",
+        "date": "circa 1860date QS:P571,+1860-00-00T00:00:00Z/9,P1480,Q5727902",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Death_of_King_Arthur_by_James_Archer_(1860).jpg",
+        "credit": "James Archer, 1860",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/The_Death_of_King_Arthur_by_James_Archer_%281860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-merlin-eastern-wind",
+      "path": "assets/arena/classics/references/arthurian/merlin-eastern-wind.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Cutler King Arthur Merlin Nimue.jpg",
+        "title": "Merlin and Nimue title QS:P1476,en:\"Merlin and Nimue \"label QS:Len,\"Merlin and Nimue \"",
+        "creator": "Edward Burne-Jones",
+        "date": "1861date QS:P571,+1861-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cutler_King_Arthur_Merlin_Nimue.jpg",
+        "credit": "http://www.gutenberg.org/ebooks/22053",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cutler_King_Arthur_Merlin_Nimue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-merlin-eight-array",
+      "path": "assets/arena/classics/references/arthurian/merlin-eight-array.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Arthur-Pyle Vivien Bewitches Merlin.jpg",
+        "title": "Arthur-Pyle Vivien Bewitches Merlin",
+        "creator": "Howard Pyle",
+        "date": "1903",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur-Pyle_Vivien_Bewitches_Merlin.jpg",
+        "credit": "http://www.oldbookart.com/2008/08/25/howard-pyle-king-arthur-and-his-knights/",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Arthur-Pyle_Vivien_Bewitches_Merlin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-morgan-morgan-le-fay",
+      "path": "assets/arena/classics/references/arthurian/morgan-morgan-le-fay.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Morganlfay.jpg",
+        "title": "Morgan-le-Fay",
+        "creator": "Frederick Sandys",
+        "date": "between 1863 and 1864date QS:P571,+1863-00-00T00:00:00Z/8,P1319,+1863-00-00T00:00:00Z/9,P1326,+1864-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Morganlfay.jpg",
+        "credit": "Art Renewal Center",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Morganlfay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "north"
+      }
+    },
+    {
+      "id": "ref-arthurian-morgan-enchantress",
+      "path": "assets/arena/classics/references/arthurian/morgan-enchantress.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Morgan Le Fay by Spencer Stanhope.jpg",
+        "title": "Morgan Le Fay by Spencer Stanhope",
+        "creator": "Sidney Harold Meteyard",
+        "date": "circa 1900date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Morgan_Le_Fay_by_Spencer_Stanhope.jpg",
+        "credit": "http://www.squidoo.com/john-roddam-spencer-stanhope",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Morgan_Le_Fay_by_Spencer_Stanhope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-lancelot-grail",
+      "path": "assets/arena/classics/references/arthurian/lancelot-grail.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Lancelot at the Chapel of the Holy Grail.jpg",
+        "title": "Lancelot at the Chapel of the Holy Grail",
+        "creator": "Edward Burne-Jones",
+        "date": "1870date QS:P571,+1870-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lancelot_at_the_Chapel_of_the_Holy_Grail.jpg",
+        "credit": "Edward Burne-Jones, 1870",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Lancelot_at_the_Chapel_of_the_Holy_Grail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-arthurian-lancelot-dragon",
+      "path": "assets/arena/classics/references/arthurian/lancelot-dragon.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Rackham Lancelot and Dragon.jpg",
+        "title": "Rackham Lancelot and Dragon",
+        "creator": "Arthur Rackham",
+        "date": "2013-07-07 09:07:20",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Rackham_Lancelot_and_Dragon.jpg",
+        "credit": "https://www.gutenberg.org/files/23759/23759-h/23759-h.htm",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rackham_Lancelot_and_Dragon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-anubis-jackal-guide",
+      "path": "assets/arena/classics/references/ancient-myth/anubis-jackal-guide.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Anubis.jpg",
+        "title": "Anubis",
+        "creator": "작가 미상",
+        "date": "",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Anubis.jpg",
+        "credit": "",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Anubis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-anubis-underworld-warden",
+      "path": "assets/arena/classics/references/ancient-myth/anubis-underworld-warden.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Egyptian - Standing Anubis - Walters 54552 - Three Quarter.jpg",
+        "title": "Standing Anubis",
+        "creator": "Anonymous (Egypt)Unknown author",
+        "date": "between 664 and 342 BC (Late Period)",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Egyptian_-_Standing_Anubis_-_Walters_54552_-_Three_Quarter.jpg",
+        "credit": "Walters Art Museum: Home page Info about artwork",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Egyptian_-_Standing_Anubis_-_Walters_54552_-_Three_Quarter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-isis-mother-goddess",
+      "path": "assets/arena/classics/references/ancient-myth/isis-mother-goddess.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Egyptian Goddess Armand Point 1909.jpg",
+        "title": "Egyptian Goddess Armand Point 1909",
+        "creator": "Armand Point",
+        "date": "1909date QS:P571,+1909-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Egyptian_Goddess_Armand_Point_1909.jpg",
+        "credit": "http://www.tuttartpitturasculturapoesiamusica.com/2012/09/Armand-Point.html",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Egyptian_Goddess_Armand_Point_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-isis-protective-form",
+      "path": "assets/arena/classics/references/ancient-myth/isis-protective-form.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Isis, Egyptian goddess of health, marriage, and love.jpg",
+        "title": "Isis, Egyptian goddess of health, marriage, and love",
+        "creator": "Illustrated by Engravings on Wood.",
+        "date": "1878, upload: 2022-11-28",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Isis,_Egyptian_goddess_of_health,_marriage,_and_love.jpg",
+        "credit": "Woodcut engraving from the the book \"Der Olymp oder die Mythologie der Griechen und Römer (The Olympus or the Mythology of the Greeks and Romans)\", published by August Heinrich Petiscus in C.F. Amelang's Verlag, Leipzig (1878, 18th edition).",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Isis%2C_Egyptian_goddess_of_health%2C_marriage%2C_and_love.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-ishtar-queen-of-night",
+      "path": "assets/arena/classics/references/ancient-myth/ishtar-queen-of-night.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Ishtar goddess.jpg",
+        "title": "Ishtar goddess",
+        "creator": "davideferro.net",
+        "date": "2009-12-17 13:59:32",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ishtar_goddess.jpg",
+        "credit": "originally posted to Flickr as Queen of the night",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ishtar_goddess.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-aladdin-lamp-of-wishes",
+      "path": "assets/arena/classics/references/folk-heroes/aladdin-lamp-of-wishes.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Fairy tales from the Arabian nights - Batten illustration at page 407.png",
+        "title": "Fairy tales from the Arabian nights - Batten illustration at page 407",
+        "creator": "John D. Batten",
+        "date": "1915",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Fairy_tales_from_the_Arabian_nights_-_Batten_illustration_at_page_407.png",
+        "credit": "Fairy tales from the Arabian nights. E. Dixon [ed.] J. D. Batten [ill.] New York : G.P. Putnam's Sons. c.1915",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Fairy_tales_from_the_Arabian_nights_-_Batten_illustration_at_page_407.png/1920px-Fairy_tales_from_the_Arabian_nights_-_Batten_illustration_at_page_407.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-aladdin-carpet-flight",
+      "path": "assets/arena/classics/references/folk-heroes/aladdin-carpet-flight.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Illustration of Aladdin Flying Away with Two People from the Arabian Nights.jpg",
+        "title": "Illustration of Aladdin Flying Away with Two People from the Arabian Nights",
+        "creator": "Unknown authorUnknown author",
+        "date": "1900",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Illustration_of_Aladdin_Flying_Away_with_Two_People_from_the_Arabian_Nights.jpg",
+        "credit": "http://www.corbisimages.com/stock-photo/rights-managed/E3662/illustration-of-aladdin-flying-away-with-two",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Illustration_of_Aladdin_Flying_Away_with_Two_People_from_the_Arabian_Nights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-scheherazade-thousand-nights",
+      "path": "assets/arena/classics/references/folk-heroes/scheherazade-thousand-nights.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Scheherazade.tif",
+        "title": "Scheherazade",
+        "creator": "Sophie Gengembre Anderson",
+        "date": "between 1850 and 1900date QS:P571,+1500-00-00T00:00:00Z/6,P1319,+1850-00-00T00:00:00Z/9,P1326,+1900-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Scheherazade.tif",
+        "credit": "Artwork in the permanent collection of The New Art Gallery Walsall, uploaded as part of a Wikipedian in Residency project.",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Scheherazade.tif/lossy-page1-1920px-Scheherazade.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-scheherazade-story-thread",
+      "path": "assets/arena/classics/references/folk-heroes/scheherazade-story-thread.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Ferdinand Keller - Scheherazade und Sultan Schariar (1880).jpg",
+        "title": "Sheherazade and Sultan Schariar",
+        "creator": "Ferdinand Keller",
+        "date": "1880date QS:P571,+1880-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ferdinand_Keller_-_Scheherazade_und_Sultan_Schariar_(1880).jpg",
+        "credit": "Sotheby's London, 13.June 2006, lot 236 via Arcadja auction results",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ferdinand_Keller_-_Scheherazade_und_Sultan_Schariar_%281880%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-cu-chulainn-warp-spasm",
+      "path": "assets/arena/classics/references/folk-heroes/cu-chulainn-warp-spasm.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Cuchulain in Battle.jpg",
+        "title": "Cuchulain in Battle",
+        "creator": "Joseph Christian Leyendecker (1874 - 1951)",
+        "date": "1911date QS:P571,+1911-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cuchulain_in_Battle.jpg",
+        "credit": "1. T. W. Rolleston, Myths and Legends of the Celtic Race 2. Unknown sourceUnknown source 3. conceptart.org",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cuchulain_in_Battle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-siegfried-dragon-blood",
+      "path": "assets/arena/classics/references/folk-heroes/siegfried-dragon-blood.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Siegfried kills Fafnir.jpg",
+        "title": "Siegfried kills Fafnir",
+        "creator": "Arthur Rackham",
+        "date": "1911-01-01",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Siegfried_kills_Fafnir.jpg",
+        "credit": "Richard Wagner, Siegfried & The Twilight of the Gods (1911)",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Siegfried_kills_Fafnir.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-siegfried-nibelung-hero",
+      "path": "assets/arena/classics/references/folk-heroes/siegfried-nibelung-hero.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Siegfried, das Schwert \"Nothung\" schmiedend - nach einer Sepiaskizze von A. Zimmermann - btv1b8425670w.jpg",
+        "title": "Siegfried, das Schwert \"Nothung\" schmiedend / nach einer Sepiaskizze von A. Zimmermann",
+        "creator": "Zimmermann, Alfred (1854-1910). Dessinateur",
+        "date": "1880sdate QS:P571,+1880-00-00T00:00:00Z/8",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Siegfried,_das_Schwert_%22Nothung%22_schmiedend_-_nach_einer_Sepiaskizze_von_A._Zimmermann_-_btv1b8425670w.jpg",
+        "credit": "Bibliothèque nationale de France",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Siegfried%2C_das_Schwert_%22Nothung%22_schmiedend_-_nach_einer_Sepiaskizze_von_A._Zimmermann_-_btv1b8425670w.jpg/1920px-Siegfried%2C_das_Schwert_%22Nothung%22_schmiedend_-_nach_einer_Sepiaskizze_von_A._Zimmermann_-_btv1b8425670w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-zhan-zhao-southern-hero",
+      "path": "assets/arena/classics/references/wuxia/zhan-zhao-southern-hero.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Zhanzhao 1890.jpg",
+        "title": "Zhanzhao 1890",
+        "creator": "Illustrator unknown, novelist = Shi Yukun (石玉昆) (Life time: This is from a book printed 120 years ago.)",
+        "date": "1890",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Zhanzhao_1890.jpg",
+        "credit": "Original publication: Qi Xia Wu Yi Zhuan (七俠五義傳) Immediate source: original print by Guangbai Songzhai (廣百宋齋) scanned",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Zhanzhao_1890.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-zhan-zhao-imperial-cat",
+      "path": "assets/arena/classics/references/wuxia/zhan-zhao-imperial-cat.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:無款 清末 京劇一百人物像 冊 絹本-One hundred portraits of Peking opera characters MET DP280096.jpg",
+        "title": "無款 清末 京劇一百人物像 冊 絹本-One hundred portraits of Peking opera characters MET DP280096",
+        "creator": "Unidentified Artist",
+        "date": "late 19th–early 20th century",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:%E7%84%A1%E6%AC%BE_%E6%B8%85%E6%9C%AB_%E4%BA%AC%E5%8A%87%E4%B8%80%E7%99%BE%E4%BA%BA%E7%89%A9%E5%83%8F_%E5%86%8A_%E7%B5%B9%E6%9C%AC-One_hundred_portraits_of_Peking_opera_characters_MET_DP280096.jpg",
+        "credit": "https://www.metmuseum.org/art/collection/search/51581",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/%E7%84%A1%E6%AC%BE_%E6%B8%85%E6%9C%AB_%E4%BA%AC%E5%8A%87%E4%B8%80%E7%99%BE%E4%BA%BA%E7%89%A9%E5%83%8F_%E5%86%8A_%E7%B5%B9%E6%9C%AC-One_hundred_portraits_of_Peking_opera_characters_MET_DP280096.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-wuxia-bai-yutang-white-cloud",
+      "path": "assets/arena/classics/references/wuxia/bai-yutang-white-cloud.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:無款 清末 京劇一百人物像 冊 絹本-One hundred portraits of Peking opera characters MET DP280099.jpg",
+        "title": "無款 清末 京劇一百人物像 冊 絹本-One hundred portraits of Peking opera characters MET DP280099",
+        "creator": "Unidentified Artist",
+        "date": "late 19th–early 20th century",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:%E7%84%A1%E6%AC%BE_%E6%B8%85%E6%9C%AB_%E4%BA%AC%E5%8A%87%E4%B8%80%E7%99%BE%E4%BA%BA%E7%89%A9%E5%83%8F_%E5%86%8A_%E7%B5%B9%E6%9C%AC-One_hundred_portraits_of_Peking_opera_characters_MET_DP280099.jpg",
+        "credit": "https://www.metmuseum.org/art/collection/search/51581",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/%E7%84%A1%E6%AC%BE_%E6%B8%85%E6%9C%AB_%E4%BA%AC%E5%8A%87%E4%B8%80%E7%99%BE%E4%BA%BA%E7%89%A9%E5%83%8F_%E5%86%8A_%E7%B5%B9%E6%9C%AC-One_hundred_portraits_of_Peking_opera_characters_MET_DP280099.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-folk-heroes-cu-chulainn-emers-counsel",
+      "path": "assets/arena/classics/references/folk-heroes/cu-chulainn-emers-counsel.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Cuchulainn rebuked by Emer Millar.jpg",
+        "title": "Cuchulainn rebuked by Emer Millar",
+        "creator": "Harold Robert Millar",
+        "date": "1905",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cuchulainn_rebuked_by_Emer_Millar.jpg",
+        "credit": "scanned and made available online at sacred-texts.com, uploaded by QuartierLatin1968",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Cuchulainn_rebuked_by_Emer_Millar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-xianxia-houyi-celestial-arrow",
+      "path": "assets/arena/classics/references/xianxia/houyi-celestial-arrow.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Houyi Shooting an Arrow, Xiao Yuncong.gif",
+        "title": "Hou I Shooting an Arrow.",
+        "creator": "Xiao Yuncong (蕭雲從)",
+        "date": "1645date QS:P571,+1645-00-00T00:00:00Z/9",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Houyi_Shooting_an_Arrow,_Xiao_Yuncong.gif",
+        "credit": "From \"Xiao Yuncong's Illustrated 'Inquiry of the Heavens'\" (蕭雲從天問圖) Illustrated by Xiao Yuncong (蕭雲從) from the Qing dynasty Qing dynasty imprint of 1645 Reproduced in Spirits and Immortals--Trimming the Wings of Crows. The Printer's Craft: A Special Exhibition of Printed Novels and Plays (exhibit). Taipei: National Palace Museum.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Houyi_Shooting_an_Arrow%2C_Xiao_Yuncong.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-gilgamesh-protective-stance",
+      "path": "assets/arena/classics/references/ancient-myth/gilgamesh-protective-stance.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Illustration from the Gilgamesh Epic, showing Gilgamesh in a protective attitude and with animals (Early Dynastic) (Ancient Seals of the Near East, No. 3) (1940).jpg",
+        "title": "Illustration from the Gilgamesh Epic, showing Gilgamesh in a protective attitude and with animals (Early Dynastic) (Ancient Seals of the Near East, No. 3) (1940)",
+        "creator": "Internet Archive Book Images",
+        "date": "1940",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Illustration_from_the_Gilgamesh_Epic,_showing_Gilgamesh_in_a_protective_attitude_and_with_animals_(Early_Dynastic)_(Ancient_Seals_of_the_Near_East,_No._3)_(1940).jpg",
+        "credit": "https://www.flickr.com/photos/internetarchivebookimages/18191321862/",
+        "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Illustration_from_the_Gilgamesh_Epic%2C_showing_Gilgamesh_in_a_protective_attitude_and_with_animals_%28Early_Dynastic%29_%28Ancient_Seals_of_the_Near_East%2C_No._3%29_%281940%29.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-gilgamesh-humbaba-slayer",
+      "path": "assets/arena/classics/references/ancient-myth/gilgamesh-humbaba-slayer.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Kazimierz Sichulski - Symbolic Scene, Ishtar with Gilgamesh.jpg",
+        "title": "Kazimierz Sichulski - Symbolic Scene, Ishtar with Gilgamesh",
+        "creator": "Kazimierz Sichulski",
+        "date": "20th-century",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Kazimierz_Sichulski_-_Symbolic_Scene,_Ishtar_with_Gilgamesh.jpg",
+        "credit": "https://bid.desa.pl/lots/view/1-2A1I3V/kazimierz-sichulski-scena-symboliczna-bogini-isztar-z-gilgameszem",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Kazimierz_Sichulski_-_Symbolic_Scene%2C_Ishtar_with_Gilgamesh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    },
+    {
+      "id": "ref-ancient-myth-ishtar-boar-vision",
+      "path": "assets/arena/classics/references/ancient-myth/ishtar-boar-vision.webp",
+      "purpose": "source-reference",
+      "source": {
+        "provider": "commons",
+        "fileTitle": "File:Ishtar, Adonis and the boar.png",
+        "title": "Ishtar, Adonis and the boar",
+        "creator": "Unknown authorUnknown author",
+        "date": "1949",
+        "license": "Public domain",
+        "licenseUrl": "",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ishtar,_Adonis_and_the_boar.png",
+        "credit": "Taken from a book entitled Tarikh Lubnan al-'am (General history of Lebanon), 2nd edition, published in Lebanon in 1949. Check AUB Records",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Ishtar%2C_Adonis_and_the_boar.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 512,
+        "height": 512,
+        "quality": 88,
+        "fit": "cover",
+        "position": "attention"
+      }
+    }
+  ],
+  "lastImportedAt": "2026-10-12T15:42:14.502Z",
+  "generatedAssets": [
+    {
+      "id": "three-kingdoms-atlas",
+      "path": "assets/arena/classics/three-kingdoms/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "dfcefb2c-88e0-4bf5-a09d-46a8f08e42e7",
+        "promptFile": "docs/arena/art-prompts/three-kingdoms.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "chu-han-atlas",
+      "path": "assets/arena/classics/chu-han/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "f0a08e72-4297-487d-a440-f09c74f1bb00",
+        "promptFile": "docs/arena/art-prompts/chu-han.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "journey-west-atlas",
+      "path": "assets/arena/classics/journey-west/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "abbc5cfb-59e1-42d5-ba12-812e469c6421",
+        "promptFile": "docs/arena/art-prompts/journey-west.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "greek-roman-atlas",
+      "path": "assets/arena/classics/greek-roman/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "dfc99224-3aa1-4c01-a885-5c6832059a65",
+        "promptFile": "docs/arena/art-prompts/greek-roman.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "norse-atlas",
+      "path": "assets/arena/classics/norse/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "ae6b6624-57cf-4cb8-bc60-e8c9a173cb0b",
+        "promptFile": "docs/arena/art-prompts/norse.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "fengshen-atlas",
+      "path": "assets/arena/classics/fengshen/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "01a126ed-65f6-7ca1-bc8b-87d26c1cb197",
+        "promptFile": "docs/arena/art-prompts/fengshen.txt",
+        "sourceFile": "exec-a05dc339-e152-46ed-8aaf-616c0d8afd8e.png"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "wuxia-atlas",
+      "path": "assets/arena/classics/wuxia/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "d53cc073-9cc4-488d-8b15-bcf67d7ea131",
+        "promptFile": "docs/arena/art-prompts/wuxia.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "xianxia-atlas",
+      "path": "assets/arena/classics/xianxia/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "36e4471c-6931-4681-a16e-480a3678261f",
+        "promptFile": "docs/arena/art-prompts/xianxia.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "arthurian-atlas",
+      "path": "assets/arena/classics/arthurian/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "0d371787-2454-4cdd-8d04-6e3497e8d920",
+        "promptFile": "docs/arena/art-prompts/arthurian.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      },
+      "revisions": [
+        {
+          "date": "2026-10-21",
+          "change": "atlas 칸 경계 재정렬",
+          "detail": "생성 원본의 3열 칸 경계가 1152px이 아니라 1157px이어서 랜슬롯 두 장 왼쪽에 옆 칸 그림 5px이 비쳤다. 3열을 1157~1536에서 잘라 가운데 기준 3:4로 맞춘 뒤 384x512로 넣었다. 목록본 1x·2x도 다시 만들었다."
+        }
+      ]
+    },
+    {
+      "id": "classical-fantasy-atlas",
+      "path": "assets/arena/classics/classical-fantasy/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "c0872b36-b36f-4e2a-acc8-58076dda0295",
+        "promptFile": "docs/arena/art-prompts/classical-fantasy.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      },
+      "revisions": [
+        {
+          "date": "2026-10-21",
+          "change": "atlas 칸 경계 재정렬",
+          "detail": "생성 원본의 위아래 칸 경계가 512px이 아니라 480px이어서 윗줄 네 장 아래에 아랫줄 그림 32px이 비쳤다. 실제 경계(윗줄 0~480, 아랫줄 480~1024)로 칸을 잘라 가운데 기준 3:4로 맞춘 뒤 384x512 칸 격자로 다시 묶었다. 목록본 1x(576x384)·2x(1152x768)도 새 atlas에서 다시 만들었다."
+        }
+      ]
+    },
+    {
+      "id": "ancient-myth-atlas",
+      "path": "assets/arena/classics/ancient-myth/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "957da335-58f9-485b-ba53-8631a79cc843",
+        "promptFile": "docs/arena/art-prompts/ancient-myth.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    },
+    {
+      "id": "folk-heroes-atlas",
+      "path": "assets/arena/classics/folk-heroes/atlas.webp",
+      "source": {
+        "provider": "OpenAI ImageGen",
+        "artifactId": "b4aea40f-0f75-4704-b5c3-7eaf509d5eb9",
+        "promptFile": "docs/arena/art-prompts/folk-heroes.txt"
+      },
+      "transform": {
+        "output": "WebP",
+        "width": 1536,
+        "height": 1024,
+        "conversion": "format optimization from generated PNG"
+      },
+      "layout": {
+        "columns": 4,
+        "rows": 2,
+        "topRow": "catalog order, base form",
+        "bottomRow": "same order, alternate form"
+      }
+    }
+  ]
+}

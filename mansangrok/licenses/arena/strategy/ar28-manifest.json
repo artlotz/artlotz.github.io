@@ -1,0 +1,122 @@
+{
+  "title": "AR-28 전략 카드 신규 원화",
+  "date": "2026-10-14",
+  "generator": "OpenAI 내장 ImageGen",
+  "sourceFile": "exec-bc32471d-863f-40f4-b80b-6f4a0301ff8c.png",
+  "sourceDimensions": {
+    "width": 1086,
+    "height": 1448
+  },
+  "license": "고전 원전·신화 인물을 독자적으로 해석한 새 생성 원화. 현대 각색의 그림이나 디자인을 복제하지 않음.",
+  "prompt": "docs/arena/art-prompts/ar28-strategy.txt",
+  "upscale": "Real-ESRGAN x4plus(realesrgan-ncnn-vulkan v0.2.5.0, 2026-10-15)로 4배 확대한 뒤 1536×2048로 Lanczos3 축소해 저장. 셀 384×512",
+  "conversion": "scripts/assets/arena-strategy-art.mjs --source <확대한 1536×2048 PNG>",
+  "atlas": {
+    "path": "assets/arena/strategy/ar28/atlas.webp",
+    "width": 1536,
+    "height": 2048,
+    "columns": 4,
+    "rows": 4,
+    "cellWidth": 384,
+    "cellHeight": 512,
+    "quality": 90
+  },
+  "listSources": [
+    {
+      "path": "assets/arena/strategy/ar28/atlas-list-1x.webp",
+      "density": 1,
+      "cellWidth": 144,
+      "cellHeight": 192,
+      "quality": 92
+    },
+    {
+      "path": "assets/arena/strategy/ar28/atlas-list-2x.webp",
+      "density": 2,
+      "cellWidth": 288,
+      "cellHeight": 384,
+      "quality": 92
+    }
+  ],
+  "cards": [
+    {
+      "id": "ar-strategy-baigujing-undying",
+      "column": 0,
+      "row": 0
+    },
+    {
+      "id": "ar-strategy-bajie-feast",
+      "column": 1,
+      "row": 0
+    },
+    {
+      "id": "ar-strategy-hades-legion",
+      "column": 2,
+      "row": 0
+    },
+    {
+      "id": "ar-strategy-hel-queen",
+      "column": 3,
+      "row": 0
+    },
+    {
+      "id": "ar-strategy-gonggong-fury",
+      "column": 0,
+      "row": 1
+    },
+    {
+      "id": "ar-strategy-xiangyu-sacrifice",
+      "column": 1,
+      "row": 1
+    },
+    {
+      "id": "ar-strategy-mengpo-river",
+      "column": 2,
+      "row": 1
+    },
+    {
+      "id": "ar-strategy-orpheus-song",
+      "column": 3,
+      "row": 1
+    },
+    {
+      "id": "ar-strategy-nezha-windfire",
+      "column": 0,
+      "row": 2
+    },
+    {
+      "id": "ar-strategy-heimdall-bifrost",
+      "column": 1,
+      "row": 2
+    },
+    {
+      "id": "ar-strategy-nuwa-path",
+      "column": 2,
+      "row": 2
+    },
+    {
+      "id": "ar-strategy-krishna-dance",
+      "column": 3,
+      "row": 2
+    },
+    {
+      "id": "ar-strategy-athena-aegis",
+      "column": 0,
+      "row": 3
+    },
+    {
+      "id": "ar-strategy-zeus-olympus",
+      "column": 1,
+      "row": 3
+    },
+    {
+      "id": "ar-strategy-arthur-oath",
+      "column": 2,
+      "row": 3
+    },
+    {
+      "id": "ar-strategy-amaterasu-blessing",
+      "column": 3,
+      "row": 3
+    }
+  ]
+}

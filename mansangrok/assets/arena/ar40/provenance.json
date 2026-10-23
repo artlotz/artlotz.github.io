@@ -1,0 +1,96 @@
+{
+  "version": "AR40",
+  "method": "Codex CLI(codex exec)의 내장 image_gen으로 각 주제를 개별 생성한 독자 일러스트",
+  "size": {
+    "width": 450,
+    "height": 675
+  },
+  "listSize": {
+    "width": 200,
+    "height": 300
+  },
+  "encoding": "WebP 품질88",
+  "notes": "2026-10-16 Claude Code가 codex exec로 생성했다. 원본 1024x1536 PNG를 2:3 그대로 줄였다. 실존 사진·현대 캐릭터 표현·로고를 복사하지 않았다. 프롬프트는 원문을 보존한다.",
+  "assets": [
+    {
+      "file": "poseidon-tidal-wave.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Poseidon, the bearded Greek god of the sea holding a golden trident, rising from a colossal tidal wave that floods a white marble city plaza, foaming water pouring over columns, teal white and gold palette, original mythological interpretation."
+    },
+    {
+      "file": "great-wall-shanhai-pass.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. The fortified Shanhai Pass gate of the Great Wall of China at dusk, a massive stone gate tower with heavy closed wooden doors barring a narrow mountain pass, red banners without any writing, warm stone and amber palette, no people in the foreground."
+    },
+    {
+      "file": "pied-piper-hamelin.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. The Pied Piper of Hamelin, a slender mysterious medieval piper in a patchwork red-and-yellow cloak and feathered cap playing a long wooden pipe on a cobblestone street at twilight, glowing enchanted notes in the air drawing a crowd of townsfolk behind him, original fairy-tale interpretation."
+    },
+    {
+      "file": "pungbaek-wind.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Pungbaek, the ancient Korean god of wind, a robed elder with a flowing white beard holding an open wind sack, unleashing a powerful gust that blows armored warriors and dust aside across a mountain field, swirling cloud ribbons, cool blue and grey palette."
+    },
+    {
+      "file": "pandora-box.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Pandora, a young Greek woman in a white chiton, opening an ornate bronze box in a candlelit stone chamber, dark swirling misfortune spirits pouring out of the box, worried expression, gold and violet palette."
+    },
+    {
+      "file": "pandora-curse.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. A single misfortune spirit released from Pandora's box, a shadowy smoke creature with glowing ember eyes and wisp tendrils hovering above a broken bronze lid, cursed violet-black mist, ominous and clear silhouette."
+    },
+    {
+      "file": "medusa-gaze.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Medusa, the Greek gorgon with living green snake hair and glowing golden eyes, turning approaching soldiers into grey stone statues in a ruined temple courtyard, dramatic light, emerald and stone palette, not grotesque."
+    },
+    {
+      "file": "stone-statue.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. A single weathered grey stone statue of a frozen ancient soldier standing alone on an empty battlefield, cracked granite with patches of moss, overcast light, muted grey palette."
+    },
+    {
+      "file": "hermes-sandals.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Hermes, the swift Greek messenger god with winged sandals and a winged cap, carrying a caduceus staff, sprinting through bright clouds and leaving a golden light trail, youthful confident face, sky blue and gold palette."
+    },
+    {
+      "file": "angbuilgu-sundial.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Angbuilgu, the Joseon dynasty hemispherical bronze sundial with a pointed gnomon, resting on a carved stone pedestal in a Korean palace courtyard, one long golden afternoon shadow stretching across the bowl, warm sunset light, no text or markings readable."
+    },
+    {
+      "file": "leonidas-thermopylae.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. King Leonidas of Sparta in bronze armor and a red cloak, holding a round bronze shield and spear, standing alone and defiant in the narrow rocky pass of Thermopylae, dust and sea cliffs behind him, red and bronze palette, original historical interpretation."
+    },
+    {
+      "file": "qin-terracotta-army.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Qin Shi Huang, the first emperor of China in black imperial robes and a beaded mianguan crown, commanding rows of awakening terracotta warriors in a vast underground tomb, torchlight and dust, dark gold and earth palette, original historical interpretation."
+    },
+    {
+      "file": "terracotta-warrior.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. A single life-size terracotta warrior of the Qin army coming to life, armored clay soldier holding a spear, faint glowing cracks in the clay, dark tomb background with torchlight, earth-red palette."
+    },
+    {
+      "file": "sima-yi-patience.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Sima Yi, the cunning Three Kingdoms strategist in dark robes and a black scholar hat, sitting calmly behind a fortress wall at a go board, patient narrowed eyes, misty dawn over an enemy camp beyond the wall, ink-blue palette, original historical interpretation."
+    },
+    {
+      "file": "zhang-fei-bridge.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Zhang Fei, the fierce bearded Three Kingdoms general with a serpent-blade spear, standing alone on the wooden Changban bridge and roaring, blocking a distant army, dust and wind, black and bronze palette, original historical interpretation."
+    },
+    {
+      "file": "sphinx-riddle.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. The Sphinx as a living mythical guardian with a lion body and a stern human face, crouched before an ancient Egyptian desert gate at golden dusk, sand swirling around, sandstone and gold palette."
+    },
+    {
+      "file": "nightingale-lamp.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Florence Nightingale, a Victorian nurse in a dark dress and white apron and cap, carrying a glowing oil lamp through a dim military hospital ward at night, rows of beds softly lit, compassionate expression, warm lamp light on deep blue, original historical interpretation."
+    },
+    {
+      "file": "pabalma-courier.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. A Joseon dynasty pabal courier on a galloping horse carrying an urgent dispatch scroll in a cloth case along a mountain road, dust clouds and motion, early morning light, no readable text, original historical interpretation."
+    },
+    {
+      "file": "zhang-sanfeng-clone.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. A translucent spectral clone of Zhang Sanfeng, the legendary Taoist master of Wudang with a long white beard and grey Taoist robes, holding a tai chi stance, his body made of shimmering mist with faint afterimages trailing behind, misty Wudang mountain peaks in the background, silver-blue palette, original legendary interpretation."
+    },
+    {
+      "file": "mjolnir-hammer.webp",
+      "prompt": "Create ONE original vertical 2:3 collectible strategy card illustration. No text, card frame, numbers, captions, logos, coats of arms, modern media/franchise likeness, or copied photographs. Polished painterly realism, bold clear silhouette readable at 90px width; focal subject centered, important features clear of top corners and bottom 20 percent used by name overlay. Artwork fills canvas. Mjolnir, the legendary short-handled war hammer of the Norse thunder god Thor, a heavy iron and stone hammer head with Norse knotwork engravings and a leather-wrapped grip, resting upright on a rocky mountain peak, crackling with blue-white lightning under dark storm clouds, steel blue and silver palette, no runes or letters."
+    }
+  ]
+}

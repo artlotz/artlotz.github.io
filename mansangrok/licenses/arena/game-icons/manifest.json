@@ -1,0 +1,50 @@
+[
+  {
+    "name": "card-play",
+    "author": "quoting",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/quoting/card-play.svg",
+    "license": "CC BY 3.0",
+    "output": "public/assets/arena/ui-icons/card-play.svg",
+    "change": "검정 사각 배경만 제거. 도형 유지."
+  },
+  {
+    "name": "card-pick",
+    "author": "faithtoken",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/faithtoken/card-pick.svg",
+    "license": "CC BY 3.0",
+    "output": "public/assets/arena/ui-icons/card-pick.svg",
+    "change": "검정 사각 배경만 제거. 도형 유지."
+  },
+  {
+    "name": "card-exchange",
+    "author": "delapouite",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/card-exchange.svg",
+    "license": "CC BY 3.0",
+    "output": "public/assets/arena/ui-icons/card-exchange.svg",
+    "change": "검정 사각 배경만 제거. 도형 유지."
+  },
+  {
+    "name": "upgrade",
+    "author": "delapouite",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/upgrade.svg",
+    "license": "CC BY 3.0",
+    "output": "public/assets/arena/ui-icons/upgrade.svg",
+    "change": "검정 사각 배경만 제거. 도형 유지."
+  },
+  {
+    "name": "star-medal",
+    "author": "delapouite",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/delapouite/star-medal.svg",
+    "license": "CC BY 3.0",
+    "output": "public/assets/arena/ui-icons/star-medal.svg",
+    "change": "검정 사각 배경만 제거. 도형 유지."
+  },
+  {
+    "name": "open-book",
+    "author": "lorc",
+    "source": "https://raw.githubusercontent.com/game-icons/icons/master/lorc/open-book.svg",
+    "license": "CC BY 3.0",
+    "output": "public/assets/arena/ui-icons/open-book.svg",
+    "change": "검정 사각 배경만 제거. 도형 유지."
+  }
+]

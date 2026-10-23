@@ -1,0 +1,52 @@
+Ninja Adventure Asset Pack
+Authors: Pixel-Boy and AAA
+Page: https://pixel-boy.itch.io/ninja-adventure-asset-pack
+Downloaded: 2026-10-09 (file: Ninja Adventure - Asset Pack.zip, 89 MB on the page)
+
+Quoted from the itch.io page at download time:
+  "They are released under the Creative Commons Zero (CC0) license.
+   You can use any and all of the assets found in this package in your own games,
+   even commercial ones. Attribution is not required but appreciated."
+  "Asset license: Creative Commons Zero v1.0 Universal"
+  "Content: No generative AI was used"
+
+LICENSE.txt and README.md in this folder are byte-for-byte copies of the files inside the pack.
+Files used from the pack are listed in docs/assets/characters.md and docs/assets/characters.json.
+
+2026-10-10 check (M9, WP-33)
+  The pack was NOT downloaded again: the 2026-10-09 copy is still on the local disk (outside the repository).
+  The itch.io page was read again on 2026-10-10: "Updated 23 days ago" (before the 2026-10-09 download, so the local copy is the current version),
+  "Asset license: Creative Commons Zero v1.0 Universal", "No generative AI was used", and the same CC0 sentences quoted above.
+  Same-version proof: scripts/assets/characters/build.mjs was run again on the local copy after adding the new monsters and cards.
+  It deletes and rebuilds every PNG in art/characters, art/faces and art/monsters; git then showed no modified file among the
+  files already in the repository (148 PNG files unchanged byte for byte), only new files.
+  Added in M9: Actor/Monster/{KappaGreen,KappaRed,LanternGreen,LanternRed,Bamboo,BambooYellow,Octopus,Octopus2,Mollusc,AxolotBlue},
+  Actor/Character/{Shaman,NinjaRed,Knight,FighterWhite,Princess,SorcererOrange,NinjaEskimo}, Actor/Boss/GiantFrog (Idle40x40.png)
+  and Audio/Musics/{28 - Tension,14 - Curse}.ogg (re-encoded by scripts/assets/expansion/build.mjs).
+
+2026-10-10 check (M10, WP-39)
+  The pack was NOT downloaded again: the 2026-10-09 copy is still on the local disk (outside the repository).
+  The itch.io page was read again: "Updated 23 days ago" (the page's tooltip says 16 September 2026 @ 16:32 UTC, before the 2026-10-09 download,
+  so the local copy is the current version), "Asset license: Creative Commons Zero v1.0 Universal", "Content: No generative AI was used", and the same
+  CC0 sentences quoted above ("They are released under the Creative Commons Zero (CC0) license. You can use any and all of the assets found in this
+  package in your own games, even commercial ones. Attribution is not required but appreciated. Placing a link to this itchio page somewhere would be awesome :)").
+  Same-version proof: scripts/assets/characters/build.mjs was run on the local copy before any M10 change; it deletes and rebuilds every PNG in
+  art/characters, art/faces and art/monsters, and git then showed no modified file (208 PNG files unchanged byte for byte). After adding the M10
+  entries it was run again: only new files, again no changed file among the existing ones.
+  Added in M10: Actor/Monster/{SpiderYellow,Cyclope,BlueBat,Spirit,Mollusc (recoloured again, ice)},
+  Actor/Character/{OldMan2,Statue,Monkey,Shaman,Cavegirl2,NinjaBomb,MonkeyBoxerBlue,LionOrange}, Actor/Boss/{GiantSlime,TenguBlue} (Idle.png)
+  and Audio/Musics/{30 - Ruins,40 - Crypt}.ogg (re-encoded by scripts/assets/expansion/build.mjs: Vorbis q1, loudnorm -20 LUFS in two passes).
+  Also added in M10 (4th chapter monsters, the tower reuses them): Actor/Monster/{Flam,Lizard (recoloured, lava),DragonYellow,SkullBlue,Skull,Spirit2 (recoloured twice, water and grass)},
+  Actor/Character/Skeleton, Actor/Boss/{GiantRedSamurai (also recoloured green),GiantBlueSamurai,SquidRed,DemonCyclop (also recoloured blue),TenguRed} (Idle.png).
+  scripts/assets/characters/build.mjs was run again after these too: still no changed file among the 208 PNG files of M9 and earlier.
+
+2026-10-10 check (M11, WP-45)
+  The pack was NOT downloaded again: the 2026-10-09 copy is still on the local disk (outside the repository).
+  The itch.io page was read again: "Updated 23 days ago" (the page's tooltip still says 16 September 2026 @ 16:32 UTC, before the 2026-10-09 download,
+  so the local copy is the current version), "Asset license: Creative Commons Zero v1.0 Universal", "Content: No generative AI was used", and the same
+  CC0 sentences quoted above ("... Attribution is not required but appreciated. Placing a link to this itchio page somewhere would be awesome :)").
+  Same-version proof: scripts/assets/characters/build.mjs was run on the local copy before any M11 change; it deletes and rebuilds every PNG in
+  art/characters, art/faces and art/monsters, and git then showed no modified file (298 PNG files unchanged byte for byte). After adding the M11
+  entries it was run again: 18 new files (6 cards x sprite, walk strip, bust), still no changed file among the 298 existing ones.
+  Added in M11: Actor/Character/{NinjaBlue2,RobotGreen,Caveman,Eskimo,Tengu2,Vampire (the dark clothes recoloured into a rainbow sash)} (SpriteSheet.png, Faceset.png)
+  and Audio/Musics/{10 - Dark Castle,24 - Final Area}.ogg (re-encoded by scripts/assets/expansion/build.mjs: Vorbis q1, stereo, loudnorm -20 LUFS in two passes).

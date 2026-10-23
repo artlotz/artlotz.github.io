@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "created": "2026-10-14",
+  "method": "imagegen 신규 생성; Lanczos3 450x675 이내 WebP 품질88",
+  "notes": "기존 인물 사진·현대 작품 캐릭터·브랜드 표장을 복사하지 않은 역사 인물의 창작 해석. 프롬프트는 원문을 보존한다.",
+  "assets": [
+    {
+      "file": "sun-tzu-no-return.webp",
+      "prompt": "Create ONE original vertical 2:3 strategy collectible card illustration, for the Korean game THE MYRIAD CODEX. Single historical person Sun Tzu (Sun Wu), ancient Chinese military strategist, mature thoughtful human face, neat beard, dark moss-green silk and modest bronze armor, holding a red wax command seal over a blank bamboo tactical map, imposing but intelligent calm posture. Hills, orderly soldiers and banners softly visible in mist behind him, jade green and rich cinnabar red palette, warm dawn light. Polished painterly realism, richly detailed original historical interpretation, readable strong silhouette at 90px wide, centered face and seal clear of top corners and bottom20percent which are reserved by game UI. Full artwork, no text, letters, numbers, logos, card borders, UI badges, existing movie/game character likeness, or copied photographs."
+    },
+    {
+      "file": "zheng-he-single-decree.webp",
+      "prompt": "Create ONE original vertical 2:3 strategy collectible card illustration, for the Korean game THE MYRIAD CODEX. Single historical person Zheng He, Chinese Ming-era maritime admiral, tall dignified clean-shaven middle-aged human face, deep cobalt robe with gold geometric embroidery and a historically inspired formal hat, standing on the sunlit wooden deck of a magnificent old Chinese treasure ship. He holds ONE bright ivory command flag with no lettering while distant fleets fall into one orderly line across turquoise seas. Sails, wooden rigging, seabirds, cool ocean wind, cobalt ivory and turquoise palette. Polished painterly realism, original historical interpretation, strong readable silhouette at 90px wide, face and flag clear of top corners and bottom20percent used by UI. Full artwork, no text, letters, numbers, logos, card borders, UI badges, modern movie/game likeness, or copied photographs."
+    }
+  ]
+}
